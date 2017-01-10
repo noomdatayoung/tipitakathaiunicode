@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>	เพื่อความไม่เกิดอีก ถึงความสาบสูญแล้ว ย่อมไม่เข้าถึงการนับยัง
+<span class="LineNumber"> 002 </span>	มัจจุราชให้หลงได้แล้ว ฯ
+<span class="LineNumber"> 003 </span>เนื้อความแม้นี้พระผู้มีพระภาคตรัสแล้ว เพราะเหตุนั้น ข้าพเจ้าได้สดับมาแล้วฉะนี้แล ฯ
+<span class="LineNumber"> 004 </span>	จบสูตรที่ ๑๐
+<span class="LineNumber"> 005 </span>	จบวรรคที่ ๒
+<span class="LineNumber"> 006 </span>	______________
+<span class="LineNumber"> 007 </span>	  รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 008 </span>	๑. ปุญญกิริยาวัตถุสูตร 		๒. จักขุสูตร 
+<span class="LineNumber"> 009 </span>	๓. อินทรียสูตร 				๔. อัทธาสูตร 
+<span class="LineNumber"> 010 </span>	๕. ทุจริตสูตร 				๖. สุจริตสูตร 
+<span class="LineNumber"> 011 </span>	๗. สุจิสูตร 					๘. มุนีสูตร
+<span class="LineNumber"> 012 </span>	๙. ราคสูตรที่ ๑ 				๑๐. ราคสูตรที่ ๒ ฯ

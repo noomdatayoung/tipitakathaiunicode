@@ -1,0 +1,11 @@
+<span class="LineNumber"> 001 </span>วฏฺเฏน   วฏฺฏํ   ฆฏฺเฏนฺติ   สงฺฆฏฺเฏนฺติ   ฆฏฺเฏนฺตา   จรนฺติ  วิหรนฺติ  
+<span class="LineNumber"> 002 </span>อิริยนฺติ    วตฺเตนฺติ    ปาเลนฺติ    ยเปนฺติ   ยาเปนฺติ   ฯ   โลเกติ  
+<span class="LineNumber"> 003 </span>อปายโลเก  มนุสฺสโลเก  เทวโลเก  ขนฺธโลเก ธาตุโลเก อายตนโลเกติ  
+<span class="LineNumber"> 004 </span>สฺฺจ   ทิฏฺ€ิฺจ   เย  อคฺคเหสุํ  เต  ฆฏฺฏยนฺตา  วิจรนฺติ  โลเก  ฯ  
+<span class="LineNumber"> 005 </span>เตนาห ภควา  
+<span class="LineNumber"> 006 </span>                 สฺาวิรตฺตสฺส น สนฺติ คนฺถา  
+<span class="LineNumber"> 007 </span>                 ปฺาวิมุตฺตสฺส น สนฺติ โมหา  
+<span class="LineNumber"> 008 </span>                 สฺฺจ ทิฏฺ€ิฺจ เย อคฺคเหสุํ  
+<span class="LineNumber"> 009 </span>                 เต ฆฏฺฏยนฺตา วิจรนฺติ โลเกติ ฯ  
+<span class="LineNumber"> 010 </span>             นวโม มาคนฺทิยสุตฺตนิทฺเทโส นิฏฺ€ิโต ฯ  
+<span class="LineNumber"> 011 </span>                    _______________  

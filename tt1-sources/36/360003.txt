@@ -1,0 +1,15 @@
+<span class="LineNumber"> 001 </span>	 ๑๙. เจตนา           			เจตนา
+<span class="LineNumber"> 002 </span>	 ๒๐. จิตฺตํ             			จิต
+<span class="LineNumber"> 003 </span>	 ๒๑. อธิโมกฺโข         		อธิโมกข์
+<span class="LineNumber"> 004 </span>	 ๒๒. มนสิกาโร        		 มนสิการ
+<span class="LineNumber"> 005 </span>			๓. นยมุขมาติกา ๔ นัย
+<span class="LineNumber"> 006 </span>	 ๑. ตีหิ สงฺคโห         		การสงเคราะห์ได้ด้วยธรรม ๓
+<span class="LineNumber"> 007 </span>	 ๒. ตีหิ อสงฺคโห        	การสงเคราะห์ไม่ได้ด้วยธรรม ๓
+<span class="LineNumber"> 008 </span>	 ๓. จตูหิ สมฺปโยโค      	การประกอบได้ด้วยธรรม ๔
+<span class="LineNumber"> 009 </span>	 ๔. จตูหิ วิปฺปโยโค     	การประกอบไม่ได้ด้วยธรรม ๔
+<span class="LineNumber"> 010 </span>			  ๔. ลักขณมาติกา ๒ ลักษณะ
+<span class="LineNumber"> 011 </span>	 ๑. สภาโค            		ธรรมที่มีส่วนเสมอกัน
+<span class="LineNumber"> 012 </span>	 ๒. วิสภาโค           		ธรรมที่มีส่วนไม่เสมอกัน
+<span class="LineNumber"> 013 </span>			   ๕. พาหิรมาติกา
+<span class="LineNumber"> 014 </span>		   ธรรมสังคณีปกรณ์ แม้ทั้งหมด เป็นมาติกาแห่งธาตุกถาปกรณ์ แล
+<span class="LineNumber"> 015 </span>			     มาติกา จบ

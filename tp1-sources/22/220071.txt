@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>เอวํ  วุตฺเต  มุณฺโฑ  ราชา  อายสฺมนฺตํ  นารทํ  เอตทโวจ โกนาโม ๑  
+<span class="LineNumber"> 002 </span>อยํ  ภนฺเต  ธมฺมปริยาโยติ  ฯ  โสกสลฺลหรโณ  ๒  นาม  อยํ มหาราช  
+<span class="LineNumber"> 003 </span>ธมฺมปริยาโยติ  ฯ  ตคฺฆ  ภนฺเต  โสกสลฺลหรโณ  ๒ ตคฺฆ ๓ ภนฺเต ๓   
+<span class="LineNumber"> 004 </span>โสกสลฺลหรโณ  ๓  อิมํ  หิ  เม  ภนฺเต  ธมฺมปริยายํ  สุตฺวา  โสกสลฺลํ   
+<span class="LineNumber"> 005 </span>ปหีนนฺติ  ฯ  อถโข  มุณฺโฑ  ราชา  ปิยกํ  โสการกฺขํ  อามนฺเตสิ  เตนหิ   
+<span class="LineNumber"> 006 </span>สมฺม   ปิยก   ภทฺทาย   เทวิยา  สรีรํ  ฌาเปถ  ถูปฺจสฺสา  กโรถ  ฯ  
+<span class="LineNumber"> 007 </span>อชฺชตคฺเคทานิ   มยํ   นฺหายิสฺสาม  เจว  วิลิมฺปิสฺสาม  ภตฺตํ  ภุฺชิสฺสาม       
+<span class="LineNumber"> 008 </span>กมฺมนฺเต จ ปโยเชสฺสามาติ ๔ ฯ   
+<span class="LineNumber"> 009 </span>                   มุณฺฑราชวคฺโค ปฺจโม ฯ   
+<span class="LineNumber"> 010 </span>                        ตสฺสุทฺทานํ   
+<span class="LineNumber"> 011 </span>        อาทิโย สปฺปุริโส จ ๕ อิฏฺ€า  มนาปทายิภิสนฺทํ ๖  
+<span class="LineNumber"> 012 </span>        สมฺปทา จ ธนํ €านํ          โกสโล นารเทน จาติ ฯ  
+<span class="LineNumber"> 013 </span>                ป€โม ปณฺณาสโก นิฏฺ€ิโต ๗ ฯ   
+<span class="LineNumber"> 014 </span>                      _______________   
+<span class="LineNumber"> 015 </span>#๑ ยุ. โก นุ โข ฯ  ๒ โป. โสกสลฺลมารโณ ฯ  ๓ ม. อิทํ ปทตฺตยํ น ทิสฺสติ ฯ   
+<span class="LineNumber"> 016 </span>#๔ โป. ปโยชิสฺสามาติ ฯ  ๕ ม. จสทฺโท นตฺถิ ฯ  ๖ ม. ยุ. มนาปทายีภิสนฺทํ ฯ         
+<span class="LineNumber"> 017 </span>#๗ ม. สมตฺโต ฯ   

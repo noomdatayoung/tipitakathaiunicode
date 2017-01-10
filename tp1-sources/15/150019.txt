@@ -1,0 +1,15 @@
+<span class="LineNumber"> 001 </span>			ป€มํ สตฺติสุตฺตํ  
+<span class="LineNumber"> 002 </span>	[๕๖]  เอกมนฺตํ  €ิตา  โข  สา  เทวตา  ภควโต  สนฺติเก  อิมํ  
+<span class="LineNumber"> 003 </span>คาถํ อภาสิ  
+<span class="LineNumber"> 004 </span>		สตฺติยา วิย โอมฏฺโ€       ฑยฺหมาเนว ๑ มตฺถเก  
+<span class="LineNumber"> 005 </span>		กามราคปฺปหานาย ๒      สโต ภิกฺขุ ปริพฺพเชติ ฯ  
+<span class="LineNumber"> 006 </span>	[๕๗] สตฺติยา วิย โอมฏฺโ€       ฑยฺหมาเนว มตฺถเก  
+<span class="LineNumber"> 007 </span>		สกฺกายทิฏฺ€ิปฺปหานาย       สโต ภิกฺขุ ปริพฺพเชติ ฯ  
+<span class="LineNumber"> 008 </span>			ทุติยํ ผุสติสุตฺตํ  
+<span class="LineNumber"> 009 </span>	[๕๘] นาผุสนฺตํ ผุสติ จ          ผุสนฺตฺจ ตโต ผุเส  
+<span class="LineNumber"> 010 </span>		ตสฺมา ผุสนฺตํ ผุสติ         อปฺปทุฏฺ€ปโทสินนฺติ ฯ  
+<span class="LineNumber"> 011 </span>	[๕๙] โย อปฺปทุฏฺ€สฺส           นรสฺส ทุสฺสติ  
+<span class="LineNumber"> 012 </span>		สุทฺธสฺส โปสสฺส อนงฺคณสฺส  
+<span class="LineNumber"> 013 </span>		ตเมว พาลํ ปจฺเจติ ปาปํ  
+<span class="LineNumber"> 014 </span>		สุขุโม รโช ปฏิวาตํว ขิตฺโตติ ฯ  
+<span class="LineNumber"> 015 </span>#๑ สี. ม. สพฺพตฺถ ฑยฺหมาโนวาติ ปาโ€ ทิสฺสติ ฯ ๒ สี. ม. กามราคปฺปหาเนน ฯ  

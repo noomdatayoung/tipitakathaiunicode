@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>	ตติยํ ปุนฺนาคปุปฺผิยตฺเถราปทานํ (๓๓๓)  
+<span class="LineNumber"> 002 </span>	[๓๓๕] กานนํ วนโมคฺคยฺห         วสามิ ลุทฺทโก อหํ  
+<span class="LineNumber"> 003 </span>	ปุนฺนาคํ ปุปฺผิตํ ทิสฺวา       พุทฺธเสฏฺ€ํ อนุสฺสรึ ฯ  
+<span class="LineNumber"> 004 </span>	ตํ ปุปฺผํ โอจินิตฺวาน        สุคนฺธํ คนฺธิตํ สุภํ  
+<span class="LineNumber"> 005 </span>	ถูปํ กตฺวาน ปุฬิเน         พุทฺธสฺส อภิโรปยึ ฯ  
+<span class="LineNumber"> 006 </span>	เทฺวนวุเต อิโต กปฺเป      ยํ ปุปฺผมภิปูชยึ  
+<span class="LineNumber"> 007 </span>	ทุคฺคตึ นาภิชานามิ         พุทฺธปูชายิทํ ผลํ ฯ  
+<span class="LineNumber"> 008 </span>	เอกมฺหิ นวุเต กปฺเป       เอโก อาสิ ตโมนุโท  
+<span class="LineNumber"> 009 </span>	สตฺตรตนสมฺปนฺโน          จกฺกวตฺติ มหพฺพโล ฯ  
+<span class="LineNumber"> 010 </span>	ปฏิสมฺภิทา จตสฺโส         วิโมกฺขาปิจ อฏฺ€ิเม  
+<span class="LineNumber"> 011 </span>	ฉฬภิฺา สจฺฉิกตา         กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 012 </span>	อิตฺถํ สุทํ อายสฺมา ปุนฺนาคปุปฺผิโย เถโร อิมา คาถาโย  
+<span class="LineNumber"> 013 </span>อภาสิตฺถาติ ฯ  
+<span class="LineNumber"> 014 </span>		ปุนฺนาคปุปฺผิตฺเถรสฺส อปทานํ สมตฺตํ ฯ  
+<span class="LineNumber"> 015 </span>	จตุตฺถํ เอกทุสฺสทายกตฺเถราปทานํ (๓๓๔)  
+<span class="LineNumber"> 016 </span>	[๓๓๖] นคเร หํสวติยา           อโหสึ ติณหารโก  
+<span class="LineNumber"> 017 </span>	ติณหาเรน ชีวามิ          เตน โปเสมิ ทารเก ฯ  

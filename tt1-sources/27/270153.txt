@@ -1,0 +1,7 @@
+<span class="LineNumber"> 001 </span>		   รวมชาดกที่มีในวรรคนี้ คือ          
+<span class="LineNumber"> 002 </span>            ๑. โกกาลิกชาดก           ๒. รถลัฏฐิชาดก     
+<span class="LineNumber"> 003 </span>            ๓. โคธชาดก๔. ราโชวาทชาดก      
+<span class="LineNumber"> 004 </span>            ๕. ชัมพุกชาดก             ๖. พรหาฉัตตชาดก   
+<span class="LineNumber"> 005 </span>            ๗. ปีฐชาดก ๘. ถุสชาดก         
+<span class="LineNumber"> 006 </span>            ๙. พาเวรุชาดก           ๑๐. วิสัยหชาดก.     
+<span class="LineNumber"> 007 </span>		     _________________ 

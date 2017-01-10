@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>     [๒๒๖]  รูปา  ภิกฺขเว  อนตฺตา  โยปิ  เหตุ  โยปิ ปจฺจโย รูปานํ  
+<span class="LineNumber"> 002 </span>อุปฺปาทาย    โส    อนตฺตา    อนตฺตสมฺภูตา   ภิกฺขเว   รูปา   กุโต  
+<span class="LineNumber"> 003 </span>อตฺตา    ภวิสฺสนฺติ   ฯ   สทฺทา   คนฺธา   รสา   โผฏฺ€พฺพา   ธมฺมา  
+<span class="LineNumber"> 004 </span>อนตฺตา   โยปิ   เหตุ   โยปิ   ปจฺจโย   ธมฺมานํ   อุปฺปาทาย   โสปิ  
+<span class="LineNumber"> 005 </span>อนตฺตา   อนตฺตสมฺภูตา   ภิกฺขเว   ธมฺมา   กุโต  อตฺตา  ภวิสฺสนฺติ  ฯ  
+<span class="LineNumber"> 006 </span>เอวํ   ปสฺสํ   ภิกฺขเว   สุตวา  อริยสาวโก  รูเปสุ  นิพฺพินฺทติ  สทฺเทสุ  
+<span class="LineNumber"> 007 </span>คนฺเธสุ     รเสสุ     โผฏฺ€พฺเพสุ    ธมฺเมสุ    นิพฺพินฺทติ    นิพฺพินฺทํ  
+<span class="LineNumber"> 008 </span>วิรชฺชติ   วิราคา   วิมุจฺจติ   ฯ   วิมุตฺตสฺมึ  วิมุตฺตมิติ  าณํ  โหติ  ฯ  
+<span class="LineNumber"> 009 </span>ขีณา   ชาติ   วุสิตํ   พฺรหฺมจริยํ   กตํ   กรณียํ   นาปรํ  อิตฺถตฺตายาติ  
+<span class="LineNumber"> 010 </span>ปชานาตีติ ฯ ทสมํ ฯ  
+<span class="LineNumber"> 011 </span>				     เทวทหวคฺโค จตุตฺโถ ฯ  
+<span class="LineNumber"> 012 </span>						ตสฺสุทฺทานํ  
+<span class="LineNumber"> 013 </span>		  เทวทหขโณปคฺคยฺห ๑     อคฺคยฺห เทฺว โหนฺติ มนสินา ๒  
+<span class="LineNumber"> 014 </span>		  เหตุนาปิ ตโย วุตฺตา      ทุเว อชฺฌตฺตพาหิราติ ฯ  
+<span class="LineNumber"> 015 </span>					  __________  
+<span class="LineNumber"> 016 </span>#๑ ม. เทวทโห ขโณ รูปา เทฺว น ตุมฺหากเมว จ ฯ ยุ. เทวทหขโณ สงฺคยฺห ฯ  
+<span class="LineNumber"> 017 </span>#๒ ยุ. ปลาสินา ฯ  

@@ -1,0 +1,10 @@
+<span class="LineNumber"> 001 </span>เอตทโวจ   โก   นุ   โข   ภนฺเต   เหตุ   โก  ปจฺจโย  เยเนกทา  
+<span class="LineNumber"> 002 </span>เทโว   วสฺสตีติ   ฯ   สนฺติ   ภิกฺขุ  วสฺสวลาหกา  นาม  เทวา  เตสํ  
+<span class="LineNumber"> 003 </span>ยทา   เอวํ   โหติ  ยนฺนูน  มยํ  สกาย  รติยา  รเมยฺยามาติ  เตสนฺตํ  
+<span class="LineNumber"> 004 </span>เจโตปณิธิมนฺวาย  เทโว  วสฺสติ  ฯ  อยํ  โข  ภิกฺขุ  เหตุ  อยํ ปจฺจโย  
+<span class="LineNumber"> 005 </span>เยเนกทา เทโว วสฺสตีติ ฯ  
+<span class="LineNumber"> 006 </span>                    วลาหกสํยุตฺตํ นิฏฺ€ิตํ ฯ  
+<span class="LineNumber"> 007 </span>                        ตสฺสุทฺทานํ  
+<span class="LineNumber"> 008 </span>         เทสนา สุจริตา ปฺจ        ทานูปการปฺจมํ  
+<span class="LineNumber"> 009 </span>         สีตํ อุณฺหฺจ อพฺภฺจ         วาตวสฺสวลาหกาติ ฯ  
+<span class="LineNumber"> 010 </span>                     _______________  

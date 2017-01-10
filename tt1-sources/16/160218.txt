@@ -1,0 +1,15 @@
+<span class="LineNumber"> 001 </span>[๕๓๕] ดูกรกัสสป เหตุ ๕ ประการเหล่านี้แล ย่อมเป็นไปพร้อม เพื่อความตั้งมั่น 
+<span class="LineNumber"> 002 </span>ไม่ฟั่นเฟือน ไม่เลือนหายแห่งพระสัทธรรม เหตุ ๕ ประการเป็นไฉน คือ ภิกษุ ภิกษุณี อุบาสก 
+<span class="LineNumber"> 003 </span>อุบาสิกา ในธรรมวินัยนี้ มีความเคารพยำเกรงในพระศาสดา ๑ ในพระธรรม ๑ ในพระสงฆ์ ๑
+<span class="LineNumber"> 004 </span> ในสิกขา ๑ ในสมาธิ๑ เหตุ ๕ ประการเหล่านี้แล ย่อมเป็นไปพร้อมเพื่อความตั้งมั่น ไม่ฟั่น
+<span class="LineNumber"> 005 </span>เฟือนไม่เลือนหายแห่งพระสัทธรรม ฯ
+<span class="LineNumber"> 006 </span>จบสูตรที่ ๑๓
+<span class="LineNumber"> 007 </span>จบกัสสปสังยุตต์ที่ ๔
+<span class="LineNumber"> 008 </span>________
+<span class="LineNumber"> 009 </span>รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 010 </span>๑. สันตุฏฐสูตร 		๒. อโนตตัปปิสูตร 		๓. จันทูปมสูตร
+<span class="LineNumber"> 011 </span>๔. กุลูปกสูตร 		๕. ชิณณสูตร 		๖. โอวาทสูตรที่ ๑ 
+<span class="LineNumber"> 012 </span>๗. โอวาทสูตรที่ ๒ 		๘. โอวาทสูตรที่ ๓ 		๙. ฌานาภิญญาสูตร
+<span class="LineNumber"> 013 </span>๑๐. ภิกขุนูปัสสยสูตร 	๑๑. จีวรสูตร 			๑๒. ปรัมมรณสูตร
+<span class="LineNumber"> 014 </span>๑๓. สัทธรรมปฏิรูปกสูตร ฯ
+<span class="LineNumber"> 015 </span>________

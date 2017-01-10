@@ -1,0 +1,27 @@
+<span class="LineNumber"> 001 </span>		       ๕. วัฏฏกชาดก   
+<span class="LineNumber"> 002 </span>		       ว่าด้วยความจริง
+<span class="LineNumber"> 003 </span>  	[๓๕] ปีกของเรามีอยู่ แต่ก็บินไม่ได้ เท้าทั้งสองของเราก็มีอยู่ แต่ก็เดินไม่ได้     
+<span class="LineNumber"> 004 </span>           มารดาและบิดาของเราออกไปหาอาหาร ดูกรไฟ ท่านจงถอยกลับไปเสีย.   
+<span class="LineNumber"> 005 </span>		     จบ วัฏฏกชาดกที่ ๕. 
+<span class="LineNumber"> 006 </span>		        ๖. สกุณชาดก   
+<span class="LineNumber"> 007 </span>		      ว่าด้วยที่พึ่งให้โทษ            
+<span class="LineNumber"> 008 </span>  	[๓๖] นกทั้งหลายอาศัยต้นไม้ใด ต้นไม้นั้นย่อมทิ้งเอาไฟลงมา นกทั้งหลายจง             
+<span class="LineNumber"> 009 </span>           พากันหนีไปอยู่เสียที่อื่นเถิด ภัยเกิดจากที่พึ่งของพวกเราแล้ว.
+<span class="LineNumber"> 010 </span>		      จบ สกุณชาดกที่ ๖. 
+<span class="LineNumber"> 011 </span>		       ๗. ติตติรชาดก  
+<span class="LineNumber"> 012 </span>		    ว่าด้วยผู้มีความอ่อนน้อม          
+<span class="LineNumber"> 013 </span>  	[๓๗] นรชนเหล่าใด ฉลาดในธรรม ย่อมนอบน้อมคนผู้เจริญ นรชนเหล่านั้น   
+<span class="LineNumber"> 014 </span>           เป็นผู้ได้รับความสรรเสริญในปัจจุบันนี้ และมีสุคติเป็นที่ไปในเบื้องหน้า.      
+<span class="LineNumber"> 015 </span>		     จบ ติตติรชาดกที่ ๗.
+<span class="LineNumber"> 016 </span>		        ๘. พกชาดก     
+<span class="LineNumber"> 017 </span>		     ว่าด้วยผู้ฉลาดแกมโกง             
+<span class="LineNumber"> 018 </span>  	[๓๘] บุคคลผู้ใช้ปัญญาหลอกลวงคนอื่น ย่อมไม่ได้ความสุขเป็นนิตย์ เพราะผู้           
+<span class="LineNumber"> 019 </span>           ใช้ปัญญาหลอกลวงคนอื่น ย่อมประสบผลแห่งบาปกรรมที่ตนทำไว้       
+<span class="LineNumber"> 020 </span>           เหมือนนกยางถูกปูหนีบคอฉะนั้น.
+<span class="LineNumber"> 021 </span>		      จบ พกชาดกที่ ๘. 
+
+<span class="LineNumber"> 022 </span>		        ๙. นันทชาดก   
+<span class="LineNumber"> 023 </span>		    ว่าด้วยการกล่าวคำหยาบ             
+<span class="LineNumber"> 024 </span>  	[๓๙] ทาสชื่อนันทกะเป็นบุตรของนางทาสี ยืนกล่าวคำหยาบคายในที่ใด เรารู้
+<span class="LineNumber"> 025 </span>           ว่ากองแห่งรัตนะทั้งหลาย และดอกไม้ทองมีอยู่ในที่นั้น.         
+<span class="LineNumber"> 026 </span>		      จบ นันทชาดกที่ ๙. 

@@ -1,0 +1,14 @@
+<span class="LineNumber"> 001 </span>     ครั้งนั้น นางสูจิมุขีปริพาชิกาเข้าไปในนครราชคฤห์ จากถนนหนึ่งไปอีกถนนหนึ่ง จาก       
+<span class="LineNumber"> 002 </span>ตรอกหนึ่งไปอีกตรอกหนึ่งแล้ว ประกาศอย่างนี้ว่า ท่านสมณศากยบุตรทั้งหลายย่อมฉันอาหาร        
+<span class="LineNumber"> 003 </span>อันประกอบด้วยธรรม สมณศากยบุตรทั้งหลายย่อมฉันอาหารอันหาโทษมิได้. ขอเชิญท่านทั้งหลาย       
+<span class="LineNumber"> 004 </span>ถวายบิณฑบาตแก่สมณศากยบุตรทั้งหลายเถิด.      
+<span class="LineNumber"> 005 </span>		            จบ สูตรที่ ๑๐.     
+<span class="LineNumber"> 006 </span>		          จบ สารีปุตตสังยุต.   
+<span class="LineNumber"> 007 </span>		         ---------------------------      
+<span class="LineNumber"> 008 </span>		      รวมพระสูตรที่มีในสังยุตนี้ คือ          
+<span class="LineNumber"> 009 </span>            ๑. วิเวกสูตร           ๖. วิญญาณสูตร           
+<span class="LineNumber"> 010 </span>            ๒. อวิตักกสูตร          ๗. อากิญจัญญายตนสูตร   
+<span class="LineNumber"> 011 </span>            ๓. ปีติสูตร             ๘. เนวสัญญานาสัญญายตนสูตร             
+<span class="LineNumber"> 012 </span>            ๔. อุเปกขาสูตร         ๙. นิโรธสูตร            
+<span class="LineNumber"> 013 </span>            ๕. อากาสสูตร         ๑๐. สูจิมุขีสูตร          
+<span class="LineNumber"> 014 </span>		   -------------------------------

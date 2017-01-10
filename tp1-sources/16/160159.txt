@@ -1,0 +1,14 @@
+<span class="LineNumber"> 001 </span>นามรูปํ   นปฺปชานนฺติ   ...   วิฺาณํ   นปฺปชานนฺติ   ...  สงฺขาเร  
+<span class="LineNumber"> 002 </span>นปฺปชานนฺติ    สงฺขารสมุทยํ   นปฺปชานนฺติ   สงฺขารนิโรธํ   นปฺปชานนฺติ  
+<span class="LineNumber"> 003 </span>สงฺขารนิโรธคามินึ    ปฏิปทํ    นปฺปชานนฺติ    ฯเปฯ    สยํ   อภิฺา  
+<span class="LineNumber"> 004 </span>สจฺฉิกตฺวา อุปสมฺปชฺช วิหรนฺตีติ ฯ เอกาทสมํ ฯ  
+<span class="LineNumber"> 005 </span>                  สมณพฺราหฺมณวคฺโค อฏฺ€โม ฯ  
+<span class="LineNumber"> 006 </span>                       ตสฺส อุทฺทานํ  
+<span class="LineNumber"> 007 </span>         ปจฺจเยกาทส วุตฺตา         จตุสจฺจวิภชฺชนา  
+<span class="LineNumber"> 008 </span>         สมณพฺราหฺมณวคฺโค          นิทานํ ๑ ภวติ อฏฺ€มํ ๒ ฯ  
+<span class="LineNumber"> 009 </span>                   [๓]- วคฺคสฺส อุทฺทานํ  
+<span class="LineNumber"> 010 </span>         พุทฺโธ อาหารทสพโล ๔     กฬารํ คหปติปฺจมํ  
+<span class="LineNumber"> 011 </span>         ทุกฺขวคฺโค ๕ มหาวคฺโค     อฏฺ€มํ สมณพฺราหฺมณนฺติ ฯ  
+<span class="LineNumber"> 012 </span>                      __________________  
+<span class="LineNumber"> 013 </span>#๑ ม. ยุ. นิทาเน ฯ  ๒ ม. อฏฺ€โม ฯ  ๓ ยุ. อยํ ฯ  ๔ ยุ. อาหารทสพลํ ฯ  
+<span class="LineNumber"> 014 </span>#๕ ยุ. รุกฺขวคฺโค ฯ  

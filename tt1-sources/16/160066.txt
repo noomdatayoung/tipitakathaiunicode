@@ -1,0 +1,6 @@
+<span class="LineNumber"> 001 </span>รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 002 </span>๑. ภูตมิทสูตร 	๒. กฬารขัตติยสูตร 		๓. ญาณวัตถุสูตรที่ ๑
+<span class="LineNumber"> 003 </span>๔. ญาณวัตถุสูตรที่ ๒ 	๕. อวิชชาปัจจยสูตรที่ ๑ 	๖. อวิชชาปัจจยสูตรที่ ๒ 
+<span class="LineNumber"> 004 </span>๗. นตุมหากํสูตร		 ๘. เจตนาสูตรที่ ๑		๙. เจตนาสูตรที่ ๗ 		
+<span class="LineNumber"> 005 </span>๑๐. เจตนาสูตรที่ ๓ ฯ
+<span class="LineNumber"> 006 </span>_________

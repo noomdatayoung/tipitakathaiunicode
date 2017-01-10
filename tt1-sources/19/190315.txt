@@ -1,0 +1,9 @@
+<span class="LineNumber"> 001 </span>		     รวมพระสูตรที่มีในวรรคนี้ คือ    
+<span class="LineNumber"> 002 </span>         ๑. สหัสสสูตร            ๒. อิทธิสูตร      
+<span class="LineNumber"> 003 </span>         ๓. ทิพโสตสูตร           ๔. เจโตปริจจสูตร  
+<span class="LineNumber"> 004 </span>         ๕. ฐานาฐานสูตร         ๖. วิปากสูตร       
+<span class="LineNumber"> 005 </span>         ๗. สัพพัตถคามินีปฏิปทาสูตร  ๘. นานาธาตุสูตร                
+<span class="LineNumber"> 006 </span>         ๙. อธิมุตติสูตร           ๑๐. อินทริยสูตร 
+<span class="LineNumber"> 007 </span>         ๑๑. สังกิเลสสูตร         ๑๒. วิชชาสูตรที่ ๑                
+<span class="LineNumber"> 008 </span>         ๑๓. วิชชาสูตรที่ ๒        ๑๔. วิชชาสูตรที่ ๓.              
+<span class="LineNumber"> 009 </span>		      ------------------- 

@@ -1,0 +1,23 @@
+<span class="LineNumber"> 001 </span>มฺเถ วิเสสิ วาปิ ฯ เตนาห ภควา  
+
+<span class="LineNumber"> 002 </span>                 ทิฏฺ€ึปิ โลกสฺมิ น กปฺปเยยฺย  
+<span class="LineNumber"> 003 </span>                 าเณน วา สีลวเตน วาปิ  
+<span class="LineNumber"> 004 </span>                 สโมติ อตฺตานมนูปเนยฺย  
+<span class="LineNumber"> 005 </span>                 หีโน น มฺเถ วิเสสิ วาปีติ ฯ  
+<span class="LineNumber"> 006 </span>           [๑๖๓] อตฺตํ ปหาย อนุปาทิยาโน  
+<span class="LineNumber"> 007 </span>                 าเณปิ ๑ โส นิสฺสย ๒ โน กโรติ  
+<span class="LineNumber"> 008 </span>                 ส เว วิยตฺเตสุ น วคฺคสารี  
+<span class="LineNumber"> 009 </span>                 ทิฏฺ€ึปิ โส น ปจฺเจติ กิฺจิ ฯ  
+<span class="LineNumber"> 010 </span>     [๑๖๔]   อตฺตํ  ปหาย  อนุปาทิยาโนติ  อตฺตํ  ปหายาติ  อตฺตทิฏฺ€ึ  
+<span class="LineNumber"> 011 </span>ปหาย   ฯ   อตฺตํ   ปหายาติ   คาหํ  ๓  ปหาย  ฯ  อตฺตํ  ปหายาติ  
+<span class="LineNumber"> 012 </span>ตณฺหาวเสน    ทิฏฺ€ิวเสน    คหิตํ    ปรามฏฺ€ํ    อภินิวิฏฺ€ํ   อชฺโฌสิตํ  
+<span class="LineNumber"> 013 </span>อธิมุตฺตํ ปหาย ปชหิตฺวา วิโนเทตฺวา พฺยนฺตีกตฺวา ๔ อนภาวงฺคมิตฺวา ๕ ฯ  
+<span class="LineNumber"> 014 </span>อตฺตํ       ปหาย       อนุปาทิยาโนติ       จตูหิ      อุปาทาเนหิ  
+<span class="LineNumber"> 015 </span>อนุปาทิยมาโน   อคฺคณฺหมาโน   อปรามสมาโน   อนภินิวิสมาโนติ   อตฺตํ  
+<span class="LineNumber"> 016 </span>ปหาย อนุปาทิยาโน ฯ  
+<span class="LineNumber"> 017 </span>     [๑๖๕]   าเณปิ   โส  นิสฺสย  โน  กโรตีติ  อฏฺ€สมาปตฺติาเณ  
+<span class="LineNumber"> 018 </span>วา    ปฺจาภิฺาาเณ   วา   มิจฺฉาาเณ   วา   ตณฺหานิสฺสยํ   วา  
+<span class="LineNumber"> 019 </span>ทิฏฺ€ินิสฺสยํ   วา   น   กโรติ  น  ชเนติ  น  สฺชเนติ  น  นิพฺพตฺเตติ  
+<span class="LineNumber"> 020 </span>นาภินิพฺพตฺเตตีติ าเณปิ โส นิสฺสย โน กโรติ ฯ  
+<span class="LineNumber"> 021 </span>#๑ โป. ม. าเณนปิ ฯ ๒ ม. นิสฺสยํ ฯ ๓ ยุ. อตฺตคหํ ฯ ๔ โป. ม. พฺยนฺตึ กริตฺวา ฯ  
+<span class="LineNumber"> 022 </span>#๕ ม. อนภาวงฺคเมตฺวา ฯ  

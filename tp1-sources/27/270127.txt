@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>			     ตสฺสุทฺทานํ  
+<span class="LineNumber"> 002 </span>		 วรกุมฺภ สุปตฺตสิริวฺหยโน  
+<span class="LineNumber"> 003 </span>		 สุจิสมฺมต พินฺทุสฺสโร จุสโภ  
+<span class="LineNumber"> 004 </span>		 สริตํปติ จณฺฑี ชรากปินา  
+<span class="LineNumber"> 005 </span>		 อถ มกฺกฏิยา วกเกน ทสาติ ฯ  
+<span class="LineNumber"> 006 </span>			    ___________  
+<span class="LineNumber"> 007 </span>			     วคฺคุทฺทานํ  
+<span class="LineNumber"> 008 </span>		สงฺกปฺโป ปทุโม เจว        อุทปาเนน ตติยํ  
+<span class="LineNumber"> 009 </span>		อพฺภนฺตรํ ฆฏเภทํ           ติกนิปาตมฺหิลงฺกตํ ๑ ฯ  
+<span class="LineNumber"> 010 </span>			  ติกนิปาตํ นิฏฺ€ิตํ ฯ  
+<span class="LineNumber"> 011 </span>			    ___________  
+<span class="LineNumber"> 012 </span>#๑ ปุราณโปตฺถเก วคฺคุทฺทานํ นฏฺ€ํ ฯ อิทํ กิตฺติโสภเนน มยา ลิขิตํ ฯ  

@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>		       รวมเรื่องที่มีในวรรคนี้ คือ  
+<span class="LineNumber"> 002 </span>		๑. อัมพสักขรเปตวัตถุ           ๒. เสริสสกเปตวัตถุ  
+<span class="LineNumber"> 003 </span>		๓. นันทิกาเปตวัตถุ             ๔. เรวดีเปตวัตถุ  
+<span class="LineNumber"> 004 </span>		๕. อุจฉุเปตวัตถุ            ๖. กุมารเปตวัตถุ  
+<span class="LineNumber"> 005 </span>		๗. ราชปุตตเปตวัตถุ            ๘. คูถขาทิกเปตวัตถุที่ ๑  
+<span class="LineNumber"> 006 </span>		๙. คูถขาทิกเปตวัตถุที่ ๒        ๑๐. คณเปตวัตถุ  
+<span class="LineNumber"> 007 </span>		๑๑. ปาฏลิปุตตเปตวัตถุ         ๑๒. อัมพวนเปตวัตถุ  
+<span class="LineNumber"> 008 </span>		๑๓. อักขรุกขเปตวัตถุ           ๑๔. โภคสังหรเปตวัตถุ  
+<span class="LineNumber"> 009 </span>		๑๕. เสฏฐิปุตตเปตวัตถุ         ๑๖. สัฏฐีกูฏสหัสสเปตวัตถุ  
+<span class="LineNumber"> 010 </span>		          จบ มหาวรรคที่ ๔.  
+<span class="LineNumber"> 011 </span>		          เปตวัตถุจบบริบูรณ์  
+<span class="LineNumber"> 012 </span>		          __________________  

@@ -1,0 +1,8 @@
+<span class="LineNumber"> 001 </span>คจฺฉามิ   ธมฺมฺจ   ภิกฺขุสงฺฆฺจ   อุปาสกํ   มํ   ภวํ  โคตโม  ธาเรตุ  
+<span class="LineNumber"> 002 </span>อชฺชตคฺเค ปาณุเปตํ สรณงฺคตนฺติ ฯ  
+<span class="LineNumber"> 003 </span>                     อวิชฺชาวคฺโค ป€โม ฯ  
+<span class="LineNumber"> 004 </span>                         ตสฺสุทฺทานํ  
+<span class="LineNumber"> 005 </span>         อวิชฺชฺจ ๑ อุปฑฺฒํ จ       สารีปุตฺโต จ พฺราหฺมโณ  
+<span class="LineNumber"> 006 </span>         กิมตฺถิยํ ๒ จ เทฺว ภิกฺขู     วิภงฺโค สุกนนฺทิยาติ ๓ ฯ  
+<span class="LineNumber"> 007 </span>                       ______________
+<span class="LineNumber"> 008 </span>#๑ ยุ. อวิชฺชา จ ฯ ๒ ม. ยุ. กิมตฺถิโย ฯ ๓ ยุ. สูกนนฺทิโยติ ฯ  

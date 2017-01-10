@@ -1,0 +1,9 @@
+<span class="LineNumber"> 001 </span>๙. ธุวสูตร 		๑๐. อปโลกินสูตร 		๑๑. อนิทัสสนสูตร 	๑๒. นิปปปัญจสูตร
+<span class="LineNumber"> 002 </span>๑๓. สันตสูตร 	๑๔. อมตสูตร 		๑๕. ปณีตสูตร 	๑๖. สิวสูตร
+<span class="LineNumber"> 003 </span>๑๗. เขมสูตร 	๑๘. ตัณหักขยสูตร 		๑๙. อัจฉริยสูตร 	๒๐. อัพภุตสูตร
+<span class="LineNumber"> 004 </span>๒๑. อนีติกสูตร 	๒๒. อนีติกธรรมสูตร 	๒๓. นิพพานสูตร 	๒๔. อัพยาปัชฌสูตร
+<span class="LineNumber"> 005 </span>๒๕. วิราคสูตร 	๒๖. สุทธิสูตร 		๒๗. มุตติสูตร 	๒๘. อนาลยสูตร
+<span class="LineNumber"> 006 </span>๒๙. ทีปสูตร 		๓๐. เลณสูตร 		๓๑. ตาณสูตร	๓๒. สรณสูตร
+<span class="LineNumber"> 007 </span>๓๓. ปรายนสูตร ฯ
+<span class="LineNumber"> 008 </span>จบอสังขตสังยุตต์
+<span class="LineNumber"> 009 </span>_____________________

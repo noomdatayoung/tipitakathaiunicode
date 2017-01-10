@@ -1,0 +1,7 @@
+<span class="LineNumber"> 001 </span>อยํ   ภนฺเต   โพธิ   ราชกุมาโร   ภควนฺตํ   สรณํ   คจฺฉติ   ธมฺมฺจ  
+<span class="LineNumber"> 002 </span>ภิกฺขุสงฺฆฺจ    อุปาสกํ   นํ   ภควา   ธาเรตุ   อชฺชตคฺเค   ปาณุเปตํ  
+<span class="LineNumber"> 003 </span>สรณงฺคตนฺติ     เอสาหํ    สมฺม    สฺชิกาปุตฺต    ตติยมฺปิ    ภควนฺตํ  
+<span class="LineNumber"> 004 </span>สรณํ   คจฺฉามิ   ธมฺมฺจ   ภิกฺขุสงฺฆฺจ   อุปาสกํ   มํ  ภควา  ธาเรตุ  
+<span class="LineNumber"> 005 </span>อชฺชตคฺเค ปาณุเปตํ สรณงฺคตนฺติ ฯ  
+<span class="LineNumber"> 006 </span>               โพธิราชกุมารสุตฺตํ นิฏฺ€ิตํ ปฺจมํ ฯ  
+<span class="LineNumber"> 007 </span>                      ______________  

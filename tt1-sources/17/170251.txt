@@ -1,0 +1,7 @@
+<span class="LineNumber"> 001 </span>		      รวมพระสูตรที่มีในสังยุตนี้ คือ          
+<span class="LineNumber"> 002 </span>            ๑. จักขุสูตร           ๖. สัญญาสูตร            
+<span class="LineNumber"> 003 </span>            ๒. รูปสูตร            ๗. เจตนาสูตร             
+<span class="LineNumber"> 004 </span>            ๓. วิญญาณสูตร         ๘. ตัณหาสูตร             
+<span class="LineNumber"> 005 </span>            ๔. ผัสสสูตร           ๙. ธาตุสูตร              
+<span class="LineNumber"> 006 </span>            ๕. เวทนาสูตร        ๑๐. ขันธสูตร
+<span class="LineNumber"> 007 </span>		   -----------------------------    

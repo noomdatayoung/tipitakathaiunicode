@@ -1,0 +1,13 @@
+<span class="LineNumber"> 001 </span>	ชนผู้เห็นแจ้งทั้งหลาย รู้ชัดด้วยดีซึ่งโทสะอันเป็นเหตุให้สัตว์ผู้ประทุษ
+<span class="LineNumber"> 002 </span>	ร้ายไปสู่ทุคติ แล้วละได้ ครั้นละได้แล้วย่อมไม่มาสู่โลกนี้อีกในกาล
+<span class="LineNumber"> 003 </span>	ไหนๆ ฯ
+<span class="LineNumber"> 004 </span>	เนื้อความแม้นี้พระผู้มีพระภาคตรัสแล้ว เพราะเหตุนั้น ข้าพเจ้าได้สดับมาแล้ว ฉะนี้แล ฯ
+<span class="LineNumber"> 005 </span>	จบสูตรที่ ๑๐
+<span class="LineNumber"> 006 </span>	จบปาฏิโภควรรคที่ ๑
+<span class="LineNumber"> 007 </span>	________________
+<span class="LineNumber"> 008 </span>	รวมพระสูตรที่มีในวรรคนี้คือ
+<span class="LineNumber"> 009 </span>	๑. โลภสูตร 			๒. โทสสูตร 
+<span class="LineNumber"> 010 </span>	๓. โมหสูตร 			๔. โกธสูตร 
+<span class="LineNumber"> 011 </span>	๕. มักขสูตร			๖. มานสูตร 
+<span class="LineNumber"> 012 </span>	๗. สัพพสูตร 		๘. มานสูตร
+<span class="LineNumber"> 013 </span>	๙. โลภสูตร 			๑๐. โทสสูตร ฯ

@@ -1,0 +1,21 @@
+<span class="LineNumber"> 001 </span>               สุตฺตนิปาเต จตุตฺถสฺส อฏฺ€กวคฺคสฺส  
+<span class="LineNumber"> 002 </span>                    โสฬสมํ สารีปุตฺตสุตฺตํ  
+<span class="LineNumber"> 003 </span>  [๔๒๓] ๑๖ นเม ทิฏฺโ€ อิโต ปุพฺเพ     (อิจฺจายสฺมา สารีปุตฺโต)  
+<span class="LineNumber"> 004 </span>                                 น สุโต อุท กสฺสจิ  
+<span class="LineNumber"> 005 </span>           เอวํ วคฺคุวโท สตฺถา       ตุสิตา คณิมาคโต ฯ  
+<span class="LineNumber"> 006 </span>           สเทวกสฺส โลกสฺส         ยถา ทิสฺสติ จกฺขุมา  
+<span class="LineNumber"> 007 </span>           สพฺพนฺตมํ วิโนเทตฺวา       เอโกว รติมชฺฌคา ฯ  
+<span class="LineNumber"> 008 </span>           ตํ พุทฺธํ อสิตํ ตาทึ         อกุหํ คณิมาคตํ  
+<span class="LineNumber"> 009 </span>           พหุนฺนมิธ พทฺธานํ          อตฺถี ปเฺหน อาคมํ  
+<span class="LineNumber"> 010 </span>           ภิกฺขุโน วิชิคุจฺฉโต         ภชโต ริตฺตมาสนํ  
+<span class="LineNumber"> 011 </span>           รุกฺขมูลํ สุสานํ วา         ปพฺพตานํ คุหาสุ วา  
+<span class="LineNumber"> 012 </span>           อุจฺจาวเจสุ สยเนสุ        คีวนฺโต ตตฺถ เภรวา  
+<span class="LineNumber"> 013 </span>           เยหิ ภิกฺขุ น เวเธยฺย      นิคฺโฆเส สยนาสเน ฯ  
+<span class="LineNumber"> 014 </span>           กตี ปริสฺสยา โลเก        คจฺฉโต อคตํ ทิสํ  
+
+<span class="LineNumber"> 015 </span>           เย ภิกฺขุ อภิสมฺภเว        ปนฺตมฺหิ สยนาสเน ฯ  
+<span class="LineNumber"> 016 </span>           กฺยาสฺส พฺยปถโย อสฺสุ      กฺยสฺสสฺสุ อิธ โคจรา  
+<span class="LineNumber"> 017 </span>           กานิ สีลพฺพตานสฺส ๑      ปหิตตฺตสฺส ภิกฺขุโน  
+<span class="LineNumber"> 018 </span>           กํ โส สิกฺขํ สมาทาย       เอโกทิ นิปโก สโต  
+<span class="LineNumber"> 019 </span>           กมฺมาโร รชตสฺเสว        นิทฺธเม มลมตฺตโน ฯ  
+<span class="LineNumber"> 020 </span>#๑ โป. ยุ. สีลพฺพานาสฺสุ ฯ  

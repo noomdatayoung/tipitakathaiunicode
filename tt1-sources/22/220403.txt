@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>		       ๑๐. อุทธัจจสูตรที่ ๒
+<span class="LineNumber"> 002 </span> 	[๓๘๗] ดูกรภิกษุทั้งหลาย ธรรม ๓ ประการนี้ ๓ ประการเป็นไฉน คือ อุทธัจจะ ๑ 
+<span class="LineNumber"> 003 </span>อสังวร ๑ ความประมาท ๑ ดูกรภิกษุทั้งหลาย ธรรม ๓ ประการนี้แล ดูกรภิกษุทั้งหลาย ธรรม
+<span class="LineNumber"> 004 </span> ๓ ประการ อันภิกษุพึงให้เจริญเพื่อละธรรม๓ ประการเหล่านี้ ๓ ประการเป็นไฉน คือ สมถะ
+<span class="LineNumber"> 005 </span> ๑ อันภิกษุพึงให้เจริญเพื่อละอุทธัจจะ สังวร ๑ อันภิกษุพึงให้เจริญเพื่อละอสังวร ความไม่ประมาท 
+<span class="LineNumber"> 006 </span>๑อันภิกษุพึงให้เจริญเพื่อละความประมาท ดูกรภิกษุทั้งหลาย ธรรม ๓ ประการนี้อันภิกษุพึงให้
+<span class="LineNumber"> 007 </span>เจริญเพื่อละธรรม ๓ ประการนี้แล ฯ
+<span class="LineNumber"> 008 </span>		          จบสูตรที่ ๑๐
+<span class="LineNumber"> 009 </span>		         จบติกวรรคที่ ๑
+<span class="LineNumber"> 010 </span>		         __________________
+<span class="LineNumber"> 011 </span>		    รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 012 </span>     	๑. ราคสูตร 		๒. ทุจริตสูตร 
+<span class="LineNumber"> 013 </span>๓. วิตักกสูตร 	๔. สัญญาสูตร 
+<span class="LineNumber"> 014 </span>๕. ธาตุสูตร		๖. อัสสาทสูตร 
+<span class="LineNumber"> 015 </span>๗. อรติสูตร 		๘. ตุฏฐิสูตร 
+<span class="LineNumber"> 016 </span>๙. อุทธัจจสูตรที่ ๑ 	๑๐. อุทธัจจสูตรที่ ๒ ฯ
+<span class="LineNumber"> 017 </span>		         __________________

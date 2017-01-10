@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>			หัวข้อประจำเรื่อง  
+<span class="LineNumber"> 002 </span>	๑. อาวสถบิณฑสิกขาบท             ว่าด้วยฉันอาหารในโรงทาน  
+<span class="LineNumber"> 003 </span>	๒. คณโภชนสิกขาบท		 ว่าด้วยฉันเป็นหมู่  
+<span class="LineNumber"> 004 </span>	๓. ปรัมปรโภชนสิกขาบท            ว่าด้วยฉันทีหลัง  
+<span class="LineNumber"> 005 </span>	๔. กาณมาตาสิกขาบท		ว่าด้วยอุบาสิกากาณมาตา  
+<span class="LineNumber"> 006 </span>	๕. ปฐมปวารณาสิกขาบท            ว่าด้วยห้ามภัตแล้วฉันอีก  
+<span class="LineNumber"> 007 </span>	๖. ทุติยปวารณาสิกขาบท            ว่าด้วยห้ามภัตแล้วถูกแค่นให้ฉัน  
+<span class="LineNumber"> 008 </span>	๗. วิกาลโภชนสิกขาบท             ว่าด้วยฉันอาหารในเวลาวิกาล  
+<span class="LineNumber"> 009 </span>	๘. สันนิธิการกสิกขาบท             ว่าด้วยฉันอาหารที่ทำการสั่งสม  
+<span class="LineNumber"> 010 </span>	๙. ปณีตโภชนสิกขาบท		ว่าด้วยขอโภชนะอันประณีต  
+<span class="LineNumber"> 011 </span>	๑๐. ทันตโปณสิกขาบท		 ว่าด้วยรับประเคนเว้นน้ำและไม้ชำระฟัน  
+<span class="LineNumber"> 012 </span>				___________  

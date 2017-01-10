@@ -1,0 +1,16 @@
+<span class="LineNumber"> 001 </span>		อาหุเนยฺยา จ ปุตฺตานํ       ปชาย อนุกมฺปกา ฯ     
+<span class="LineNumber"> 002 </span>		ตสฺมา หิ เต นมสฺเสยฺย      สกฺกเรยฺย จ ปณฺฑิโต   
+<span class="LineNumber"> 003 </span>		อนฺเนน อโถ ปาเนน        วตฺเถน สยเนน จ    
+<span class="LineNumber"> 004 </span>		อุจฺฉาทเนน นฺหาเนน        ปาทานํ โธวเนน จ ฯ      
+<span class="LineNumber"> 005 </span>		ตาย นํ ปาริจริยาย ๑      มาตาปิตูสุ ปณฺฑิตา     
+<span class="LineNumber"> 006 </span>		อิเธว นํ ปสํสนฺติ           เปจฺจ สคฺเค ปโมทตีติ ฯ    
+<span class="LineNumber"> 007 </span>			โสณนนฺทชาตกํ ทุติยํ ฯ    
+<span class="LineNumber"> 008 </span>			____________     
+<span class="LineNumber"> 009 </span>				ตสฺสุทฺทานํ   
+<span class="LineNumber"> 010 </span>		อถ สตฺตติมมฺหิ นิปาตวเร    
+<span class="LineNumber"> 011 </span>		สภาวนฺตุกุสาวติราชวโร    
+<span class="LineNumber"> 012 </span>		อถ โสณสุนนฺทวโร จ ปุน    
+<span class="LineNumber"> 013 </span>		อภิวาสิต สตฺตติมมฺหิ สุเต ฯ    
+<span class="LineNumber"> 014 </span>			สตฺตตินิปาตํ นิฏฺ€ิตํ ฯ     
+<span class="LineNumber"> 015 </span>			____________     
+<span class="LineNumber"> 016 </span>#๑ ยุ. ปริจริยาย ฯ   

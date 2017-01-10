@@ -1,0 +1,6 @@
+<span class="LineNumber"> 001 </span>                   รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 002 </span>     	๑. สีหสูตร 				๒. อธิมุตติสูตร 
+<span class="LineNumber"> 003 </span>     	๓. กายสูตร 				๔. จุนทสูตร 
+<span class="LineNumber"> 004 </span>     	๕. กสิณสูตร 				๖. กาลีสูตร 
+<span class="LineNumber"> 005 </span>     	๗. มหาปัญหาสูตรที่ ๑ 	๘. มหาปัญหาสูตรที่ ๒
+<span class="LineNumber"> 006 </span>     	๙. โกศลสูตรที่ ๑ 			๑๐. โกศลสูตรที่ ๒ ฯ

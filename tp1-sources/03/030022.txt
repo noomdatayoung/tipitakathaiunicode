@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>เสยฺยถาปิ   นาม  ตาโล  มตฺถกจฺฉินฺโน  อภพฺโพ  ปุนวิรุฬฺหิยา  เอวเมว 
+<span class="LineNumber"> 002 </span>ภิกฺขุนี   อฏฺ€มํ   วตฺถุํ   ปริปูเรนฺตี   อสฺสมณี   โหติ  อสกฺยธีตา  เตน  
+<span class="LineNumber"> 003 </span>วุจฺจติ   ปาราชิกา   โหตีติ   ฯ   อสํวาสาติ  สํวาโส  นาม  เอกกมฺมํ  
+<span class="LineNumber"> 004 </span>เอกุทฺเทโส   สมสิกฺขาตา   เอโส   สํวาโส   นาม   โส  ตาย  สทฺธึ  
+<span class="LineNumber"> 005 </span>นตฺถิ เตน วุจฺจติ อสํวาสาติ ฯ   
+<span class="LineNumber"> 006 </span>   [๒๙]   อนาปตฺติ   อสฺจิจฺจ  อสติยา  อชานนฺติยา  อสาทิยนฺติยา  
+<span class="LineNumber"> 007 </span>อุมฺมตฺติกาย ขิตฺตจิตฺตาย เวทนฏฺฏาย อาทิกมฺมิกายาติ ฯ   
+<span class="LineNumber"> 008 </span>   จตุตฺถปาราชิกํ นิฏฺ€ิตํ ฯ  
+<span class="LineNumber"> 009 </span>   _______________  
+<span class="LineNumber"> 010 </span>   [๓๐]   อุทฺทิฏฺ€า  โข  อยฺยาโย  อฏฺ€  ปาราชิกา  ธมฺมา  เยสํ  
+<span class="LineNumber"> 011 </span>ภิกฺขุนี   อฺตรํ   วา   อฺตรํ   วา  อาปชฺชิตฺวา  น  ลภติ  ภิกฺขุนีหิ  
+<span class="LineNumber"> 012 </span>สทฺธึ  สํวาสํ  ยถา  ปุเร  ตถา   ปจฺฉา   ปาราชิกา   โหติ   
+<span class="LineNumber"> 013 </span>อสํวาสา   ฯ   ตตฺถยฺยาโย   ปุจฺฉามิ   กจฺจิตฺถ  ปริสุทฺธา  ฯ  ทุติยมฺปิ
+<span class="LineNumber"> 014 </span>ปุจฺฉามิ  กจฺจิตฺถ  ปริสุทฺธา  ฯ  ตติยมฺปิ  ปุจฺฉามิ   กจฺจิตฺถ 
+<span class="LineNumber"> 015 </span>ปริสุทฺธา  ฯ  ปริสุทฺเธตฺถยฺยาโย  ตสฺมา   ตุณฺหี   ฯ   เอวเมตํ
+<span class="LineNumber"> 016 </span>ธารยามีติ ฯ   
+<span class="LineNumber"> 017 </span>   ปาราชิกกณฺฑํ นิฏฺ€ิตํ ฯ 

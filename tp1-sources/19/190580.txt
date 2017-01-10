@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>     [๑๗๖๔]  เอวเมว  โข ภิกฺขเว อปฺปกา เต สตฺตา เย พฺราหฺมฺา  
+<span class="LineNumber"> 002 </span>อถ โข เอเตว พหุตรา สตฺตา เย อพฺราหฺมฺา ฯเปฯ  
+<span class="LineNumber"> 003 </span>     [๑๗๖๕]   เอวเมว   โข   ภิกฺขเว   อปฺปกา  เต  สตฺตา  เย  
+<span class="LineNumber"> 004 </span>กุเลเชฏฺ€าปจายิโน   อถ   โข   เอเตว   ๑   พหุตรา  สตฺตา  เย  
+<span class="LineNumber"> 005 </span>อกุเลเชฏฺ€าปจายิโนติ ๒ ฯ  
+<span class="LineNumber"> 006 </span>                         วคฺโค ฯ  
+<span class="LineNumber"> 007 </span>                         อุทฺทานํ  
+<span class="LineNumber"> 008 </span>      อฺตฺร ปจฺจนฺตํ ปฺาย ๓   สุราเมรยโอทกา  
+<span class="LineNumber"> 009 </span>      มตฺเตยฺยเปตฺเตยฺยา จาปิ ๔  สามฺํ พฺราหฺมปจายิกนฺติ ฯ  
+<span class="LineNumber"> 010 </span>                       _____________
+<span class="LineNumber"> 011 </span>#๑ ยุ. เอเต ฯ เอวมุปริปิ ฯ ๒ ม. กุเลอเชฏฺ€าปจายิโนติ ฯ ยุ. กุเล  
+<span class="LineNumber"> 012 </span>#เชฏฺ€าปจายิโนติ ฯ ๓ ม. ปฺา ฯ ๔ ยุ. เมตฺเตยฺยา เปตฺเตยฺยา จาปิ ฯ  

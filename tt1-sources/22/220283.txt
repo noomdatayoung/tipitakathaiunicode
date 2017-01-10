@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>ดูกรภิกษุทั้งหลาย ก็มรณัสสติอันภิกษุเจริญแล้วอย่างนี้ ทำให้มากแล้วอย่างนี้ ย่อมมีผลมาก
+<span class="LineNumber"> 002 </span> มีอานิสงส์มาก หยั่งลงสู่อมตะ มีอมตะเป็นที่สุด ฯ
+<span class="LineNumber"> 003 </span>		          จบสูตรที่ ๑๐
+<span class="LineNumber"> 004 </span>		      จบสาราณิยาทิวรรคที่ ๒
+<span class="LineNumber"> 005 </span>		        __________________
+<span class="LineNumber"> 006 </span>		    รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 007 </span>     	๑. สาราณิยสูตรที่ ๑ 			๒. สาราณิยสูตรที่ ๒ 
+<span class="LineNumber"> 008 </span>๓. เมตตสูตร				๔. ภัททกสูตร 
+<span class="LineNumber"> 009 </span>๕. อนุตัปปิยสูตร 			๖. นกุลสูตร 
+<span class="LineNumber"> 010 </span>๗. กุสลสูตร				๘. มัจฉสูตร 
+<span class="LineNumber"> 011 </span>๙. มรณัสสติสูตรที่ ๑ 		๑๐. มรณัสสติสูตรที่ ๒ ฯ
+<span class="LineNumber"> 012 </span>		       __________________

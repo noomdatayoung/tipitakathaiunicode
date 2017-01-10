@@ -1,0 +1,10 @@
+<span class="LineNumber"> 001 </span>	[๕๒๑]  อตฺตนา  วิปฺปกตํ  อตฺตนา  ปริโยสาเปติ  อาปตฺติ  
+<span class="LineNumber"> 002 </span>สงฺฆาทิเสสสฺส  ฯ  อตฺตนา  วิปฺปกตํ  ปเรหิ  ปริโยสาเปติ  อาปตฺติ  
+<span class="LineNumber"> 003 </span>สงฺฆาทิเสสสฺส  ฯ  ปเรหิ  วิปฺปกตํ  อตฺตนา  ปริโยสาเปติ  อาปตฺติ  
+<span class="LineNumber"> 004 </span>สงฺฆาทิเสสสฺส  ฯ  ปเรหิ  วิปฺปกตํ  ปเรหิ  ปริโยสาเปติ  อาปตฺติ  
+<span class="LineNumber"> 005 </span>สงฺฆาทิเสสสฺส ฯ  
+<span class="LineNumber"> 006 </span>	[๕๒๒]  อนาปตฺติ  เลเณ  คุหาย  ติณกุฏิกาย  อฺสฺสตฺถาย  
+<span class="LineNumber"> 007 </span>วาสาคารํ  €เปตฺวา  สพฺพตฺถ  อนาปตฺติ  อุมฺมตฺตกสฺส  
+<span class="LineNumber"> 008 </span>อาทิกมฺมิกสฺสาติ ฯ  
+<span class="LineNumber"> 009 </span>				ฉฏฺ€สงฺฆาทิเสสํ นิฏฺ€ิตํ ฯ  
+<span class="LineNumber"> 010 </span>				________________________

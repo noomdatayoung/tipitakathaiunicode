@@ -1,0 +1,15 @@
+<span class="LineNumber"> 001 </span>จ    อายตนกุสลตา    จ    ปฏิจฺจสมุปฺปาทกุสลตา    จ   €านกุสลตา  
+<span class="LineNumber"> 002 </span>จ    อฏฺ€านกุสลตา    จ   อาชฺชโว   จ   มทฺทโว   จ   ขนฺติ   จ  
+<span class="LineNumber"> 003 </span>โสรจฺจฺจ   สาขลฺยฺจ   ปฏิสนฺถาโร   จ   อินฺทฺริเยสุอคุตฺตทฺวารตา  จ  
+<span class="LineNumber"> 004 </span>โภชเน    อมตฺตฺุตา   จ   อินฺทฺริเยสุ   คุตฺตทฺวารตา   จ   โภชเน  
+<span class="LineNumber"> 005 </span>มตฺตฺุตา    จ   มุฏฺ€สจฺจฺจ   อสมฺปชฺฺจ   สติ   จ   สมฺปชฺฺจ  
+<span class="LineNumber"> 006 </span>ปฏิสงฺขานพลฺจ     ภาวนาพลฺจ     สมโถ     จ    วิปสฺสนา    จ  
+<span class="LineNumber"> 007 </span>สมถนิมิตฺตฺจ       ปคฺคาหนิมิตฺตฺจ       ปคฺคาโหจ      อวิกฺเขโปจ  
+<span class="LineNumber"> 008 </span>สีลวิปตฺติ  จ  ทิฏฺ€ิวิปตฺติ  จ  สีลสมฺปทา  จ  ทิฏฺ€ิสมฺปทา  จ สีลวิสุทฺธิ จ  
+<span class="LineNumber"> 009 </span>ทิฏฺ€ิวิสุทฺธิ    จ    ทิฏฺ€ิวิสุทฺธิ   โข   ปน   ยถาทิฏฺ€ิสฺส   จ   ปธานํ  
+<span class="LineNumber"> 010 </span>สํเวโค  จ  สํเวชนิเยสุ  €าเนสุ  สํวิคฺคสฺส จ โยนิโส ปธานํ อสนฺตุฏฺ€ตา  
+<span class="LineNumber"> 011 </span>จ  กุสเลสุ  ธมฺเมสุ  อปฺปฏิวานิตา  จ  ปธานสฺมึ  วิชฺชา  จ  วิมุตฺติ  จ  
+<span class="LineNumber"> 012 </span>ขเย าณํ อนุปฺปาเท าณนฺติ ฯ  
+<span class="LineNumber"> 013 </span>		       สุตฺตนฺตมาติกา ฯ  
+<span class="LineNumber"> 014 </span>		       มาติกา นิฏฺ€ิตา  
+<span class="LineNumber"> 015 </span>		         _________  

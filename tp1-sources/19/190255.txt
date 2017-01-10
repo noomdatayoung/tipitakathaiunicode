@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>กาเย   กายานุปสฺสี   วิหรติ   อาตาปี   สมฺปชาโน   สติมา   วิเนยฺย  
+<span class="LineNumber"> 002 </span>โลเก   อภิชฺฌาโทมนสฺสํ   ฯ   เวทนาสุ   จิตฺเต  ธมฺเมสุ  ธมฺมานุปสฺสี  
+<span class="LineNumber"> 003 </span>วิหรติ  อาตาปี  สมฺปชาโน  สติมา  วิเนยฺย  โลเก  อภิชฺฌาโทมนสฺสํ  ฯ  
+<span class="LineNumber"> 004 </span>อิเมสํ        โข       ภิกฺขเว       ปฺจนฺนํ       อุทฺธมฺภาคิยานํ  
+<span class="LineNumber"> 005 </span>สฺโชนานํ    อภิฺาย    ปริฺาย    ปริกฺขยาย    ปหานาย   อิเม  
+<span class="LineNumber"> 006 </span>จตฺตาโร   สติปฏฺ€านา   ภาเวตพฺพาติ  ฯ  (ยถา  มคฺคสํยุตฺตํ  วิตฺถาริตํ  
+<span class="LineNumber"> 007 </span>เอวํ สติปฏฺ€านสํยุตฺตํ วิตฺถาเรตพฺพํ) ฯ  
+<span class="LineNumber"> 008 </span>         ฉ ปาจีนโต นินฺนา          ฉ นินฺนา จ สมุทฺทโต  
+<span class="LineNumber"> 009 </span>         เอเต เทฺว ฉ ทฺวาทส โหนฺติ  วคฺโค เตน ปวุจฺจติ ๑ ฯ  
+<span class="LineNumber"> 010 </span>			    สติปฏฺ€านสํยุตฺตํ นิฏฺ€ิตํ ฯ  
+<span class="LineNumber"> 011 </span>				  __________
+<span class="LineNumber"> 012 </span>#๑ ม. อิติสทฺโท อตฺถิ ฯ  

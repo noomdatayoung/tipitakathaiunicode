@@ -1,0 +1,16 @@
+<span class="LineNumber"> 001 </span>อุปสมฺปชฺช    วิหรติ    อยํ    จตุตฺถา    ๑    ทิสา   ฯ   สพฺพโส  
+<span class="LineNumber"> 002 </span>อากาสานฺจายตนํ    สมติกฺกมฺม   อนนฺตํ   วิฺาณนฺติ   วิฺาณฺจายตนํ  
+<span class="LineNumber"> 003 </span>อุปสมฺปชฺช     วิหรติ     อยํ     ปฺจมี     ทิสา     ฯ    สพฺพโส  
+<span class="LineNumber"> 004 </span>วิฺาณฺจายตนํ     สมติกฺกมฺม     นตฺถิ     กิฺจีติ    อากิฺจฺายตนํ  
+<span class="LineNumber"> 005 </span>อุปสมฺปชฺช   วิหรติ   อยํ   ฉฏฺ€า   ทิสา  ฯ  สพฺพโส  อากิฺจฺายตนํ  
+<span class="LineNumber"> 006 </span>สมติกฺกมฺม       เนวสฺานาสฺายตนํ       อุปสมฺปชฺช       วิหรติ  
+<span class="LineNumber"> 007 </span>อยํ   สตฺตมี   ทิสา   ฯ   สพฺพโส   เนวสฺานาสฺายตนํ  สมติกฺกมฺม  
+<span class="LineNumber"> 008 </span>สฺาเวทยิตนิโรธํ    อุปสมฺปชฺช    วิหรติ    อยํ   อฏฺ€มี   ทิสา   ฯ  
+<span class="LineNumber"> 009 </span>ตถาคเตน   ภิกฺขเว   อรหตา   สมฺมาสมฺพุทฺเธน   ปุริสทมฺโม   สาริโต  
+<span class="LineNumber"> 010 </span>อิมา   อฏฺ€   ทิสา  วิธาวติ  ฯ  โส  วุจฺจติ  โยคฺคาจริยานํ  อนุตฺตโร  
+<span class="LineNumber"> 011 </span>ปุริสทมฺมสารถีติ อิติ ยนฺตํ วุตฺตํ อิทเมตํ ปฏิจฺจ วุตฺตนฺติ ฯ  
+<span class="LineNumber"> 012 </span>     อิทมโวจ    ภควา    อตฺตมนา   เต   ภิกฺขู   ภควโต   ภาสิตํ  
+<span class="LineNumber"> 013 </span>อภินนฺทุนฺติ ฯ  
+<span class="LineNumber"> 014 </span>               สฬายตนวิภงฺคสุตฺตํ นิฏฺ€ิตํ สตฺตมํ ฯ  
+<span class="LineNumber"> 015 </span>                      ___________  
+<span class="LineNumber"> 016 </span>#๑ ม. จตุตฺถี ฯ  

@@ -1,0 +1,9 @@
+<span class="LineNumber"> 001 </span>                    รวมอปทานที่มีในวรรคนี้ คือ          
+<span class="LineNumber"> 002 </span>        ๑. อธิฉัตติยเถราปทาน            ๒. ถัมภาโรปกเถราปทาน  
+<span class="LineNumber"> 003 </span>        ๓. เวทิการกเถราปทาน           ๔. สปริวาริยเถราปทาน  
+<span class="LineNumber"> 004 </span>        ๕. อุมมาปุปผิยเถราปทาน          ๖. อนุโลมทายกเถราปทาน  
+<span class="LineNumber"> 005 </span>        ๗. มรรคทายกเถราปทาน          ๘. ผลกทายกเถราปทาน  
+<span class="LineNumber"> 006 </span>        ๙. วฏังสกิยเถราปทาน           ๑๐. ปัลลังกทายกเถราปทาน  
+<span class="LineNumber"> 007 </span>     บัณฑิตประกาศคาถา ๕๖ คาถา.  
+<span class="LineNumber"> 008 </span>                      จบ ฉัตตวรรคที่ ๑๕.                
+<span class="LineNumber"> 009 </span>                         ----------  

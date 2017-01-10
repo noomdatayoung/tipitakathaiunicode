@@ -1,0 +1,16 @@
+<span class="LineNumber"> 001 </span>          อธิศีล มีความเลื่อมใสเจริญยิ่งๆ ขึ้นไปในภิกษุทั้งหลาย
+<span class="LineNumber"> 002 </span>          ไม่ตั้งจิตติเตียนปรารถนาฟังสัทธรรม ไม่แสวงหาเขตบุญอื่น
+<span class="LineNumber"> 003 </span>          ภายนอกศาสนานี้ และกระทำสักการะก่อนในเขตบุญใน
+<span class="LineNumber"> 004 </span>          ศาสนานี้ อุบาสกนั้นซ่องเสพธรรมอันไม่เป็นที่ตั้งแห่งความ
+<span class="LineNumber"> 005 </span>          เสื่อม อันเราแสดงดีแล้ว ๗ ประการนี้แล ย่อมไม่เสื่อม
+<span class="LineNumber"> 006 </span>          จากสัทธรรม
+<span class="LineNumber"> 007 </span>                         จบสูตรที่ ๑๐
+<span class="LineNumber"> 008 </span>                        จบวัชชีวรรคที่ ๓
+<span class="LineNumber"> 009 </span>                        _________
+<span class="LineNumber"> 010 </span>                   รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 011 </span>      	๑. สารันททสูตร  		๒. วัสสการสูตร  
+<span class="LineNumber"> 012 </span>๓. ภิกขุสูตร   		๔. กรรมสูตร
+<span class="LineNumber"> 013 </span>๕. สัทธิยสูตร  		๖. โพธิยสูตร  
+<span class="LineNumber"> 014 </span>๗. สัญญาสูตร  		๘. เสขสูตร  
+<span class="LineNumber"> 015 </span>๙. หานิสูตร			๑๐. วิปัตติสัมภวสูตร
+<span class="LineNumber"> 016 </span>                        _________

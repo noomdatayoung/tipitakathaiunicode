@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>  	[๕๔๑] ถึงแม้เราออกบวช ถือภาชนะเที่ยวภิกขาจาร ไม่เบียดเบียนผู้อื่นในโลก            
+<span class="LineNumber"> 002 </span>            นั้น ประเสริฐกว่าราชสมบัติเสียอีก.          
+<span class="LineNumber"> 003 </span>		     จบ สัยหชาดกที่ ๑๐. 
+<span class="LineNumber"> 004 </span>		     จบ กาลิงควรรคที่ ๑.
+<span class="LineNumber"> 005 </span>		     _________________ 
+<span class="LineNumber"> 006 </span>		   รวมชาดกที่มีในวรรคนี้ คือ          
+<span class="LineNumber"> 007 </span>            ๑. จุลลกาลิงคชาดก  ๒. มหาอัสสาโรหชาดก       
+<span class="LineNumber"> 008 </span>            ๓. เอกราชชาดก    ๔. ทัททรชาดก 
+<span class="LineNumber"> 009 </span>            ๕. สีลวีมังสชาดก    ๖. สุชาตาชาดก           
+<span class="LineNumber"> 010 </span>            ๗. ปลาสชาดก      ๘. ชวสกุณชาดก
+<span class="LineNumber"> 011 </span>            ๙. ฉวชาดก       ๑๐. สัยหชาดก. 
+<span class="LineNumber"> 012 </span>		     _________________ 

@@ -1,0 +1,15 @@
+<span class="LineNumber"> 001 </span>ครหติ   ...   สมฺมาวิมุตฺติฺเจ   ภวํ  ครหติ  เย  [๑]  มิจฺฉาวิมุตฺตี  
+<span class="LineNumber"> 002 </span>สมณพฺราหฺมณา  เต  โภโต  ปุชฺชา  เต  โภโต  ปาสํสา  ฯ เยเกจิ ๒  
+<span class="LineNumber"> 003 </span>ภิกฺขเว    สมณา    วา    พฺราหฺมณา    วา    อิมํ   มหาจตฺตารีสกํ  
+<span class="LineNumber"> 004 </span>ธมฺมปริยายํ   ครหิตพฺพํ   ปฏิกฺโกสิตพฺพํ  มฺเยฺยุํ  ตสฺส  ทิฏฺเ€ว  ธมฺเม  
+<span class="LineNumber"> 005 </span>อิเม   ทส   สหธมฺมิกา   วาทานุวาทา   คารยฺหฏฺ€านํ   อาคจฺฉนฺติ  ฯ  
+<span class="LineNumber"> 006 </span>เยปิ   เต  ภิกฺขเว  อเหสุํ  อุกฺกลา  ๓  วสฺสภฺา  ๔  อเหตุวาทา  
+<span class="LineNumber"> 007 </span>อกิริยวาทา    นตฺถิกวาทา    เตปิ   มหาจตฺตารีสกํ   ธมฺมปริยายํ   น  
+<span class="LineNumber"> 008 </span>ครหิตพฺพํ     น     ปฏิกฺโกสิตพฺพํ    มฺเยฺยุํ    ตํ    กิสฺส    เหตุ  
+<span class="LineNumber"> 009 </span>นินฺทาพฺยาโรสอุปารมฺภภยาติ ฯ  
+<span class="LineNumber"> 010 </span>     อิทมโวจ    ภควา    อตฺตมนา   เต   ภิกฺขู   ภควโต   ภาสิตํ  
+<span class="LineNumber"> 011 </span>อภินนฺทุนฺติ ฯ  
+<span class="LineNumber"> 012 </span>               มหาจตฺตารีสกสุตฺตํ นิฏฺ€ิตํ สตฺตมํ ฯ  
+<span class="LineNumber"> 013 </span>                       ________  
+<span class="LineNumber"> 014 </span>#๑ ยุ. เอตฺถนฺตเร จสทฺโท อตฺถิ ฯ  ๒ ยุ. โย หิ โกจิ ฯ โป. ม. โย  
+<span class="LineNumber"> 015 </span>#โกจิ ฯ ๓ ม. ยุ. โอกฺกลา ฯ   ๔ ม. วยภิฺา ฯ  

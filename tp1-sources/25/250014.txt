@@ -1,0 +1,10 @@
+<span class="LineNumber"> 001 </span>         เมตฺตฺจ สพฺพโลกสฺมึ        มานสมฺภาวเย อปริมาณํ  
+<span class="LineNumber"> 002 </span>         อุทฺธํ อโธ จ ติริยฺจ        อสมฺพาธํ อเวรํ อสปตฺตํ  
+<span class="LineNumber"> 003 </span>         ติฏฺ€ฺจรํ นิสินฺโน วา        สยาโน วา ยาว ตสฺส วิคตมิทฺโธ  
+<span class="LineNumber"> 004 </span>         เอตํ สตึ อธิฏฺเ€ยฺย         พฺรหฺมเมตํ วิหารํ อิธมาหุ ๑ ฯ  
+<span class="LineNumber"> 005 </span>         ทิฏฺ€ิฺจ อนุปคมฺม           สีลวา ทสฺสเนน สมฺปนฺโน  
+<span class="LineNumber"> 006 </span>         กาเมสุ วิเนยฺย ๒ เคธํ     น หิ ชาตุ คพฺภเสยฺยํ ปุนเรตีติ ฯ  
+<span class="LineNumber"> 007 </span>                    เมตฺตสุตฺตํ นิฏฺ€ิตํ ฯ  
+<span class="LineNumber"> 008 </span>                   ขุทฺทกปาโ€ สมตฺโต ฯ  
+<span class="LineNumber"> 009 </span>                        _________  
+<span class="LineNumber"> 010 </span>#๑ ม. วิหารมิธมาหุ ฯ    ๒ ม. วินย ฯ  

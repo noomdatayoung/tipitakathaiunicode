@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>ที่ข้าพระองค์ได้แล้วนี้แล อันข้าพระองค์เจริญแล้ว กระทำให้มากแล้ว จักน้อมนำข้าพระองค์ผู้อยู่           
+<span class="LineNumber"> 002 </span>โดยอาการนั้นๆ ไป เพื่อความเป็นอย่างนั้น โดยที่ข้าพระองค์จักรู้ชัดว่า ชาติสิ้นแล้ว พรหม               
+<span class="LineNumber"> 003 </span>จรรย์อยู่จบแล้ว กิจที่ควรทำ ทำเสร็จแล้ว กิจอื่นเพื่อความเป็นอย่างนี้มิได้มี.        
+<span class="LineNumber"> 004 </span>	[๔๖๒] พระผู้มีพระภาคตรัสว่า ดีละๆ อุทายี มรรคที่เธอได้แล้วนั้นแล อันเธอ         
+<span class="LineNumber"> 005 </span>เจริญแล้ว กระทำให้มากแล้ว จักน้อมนำเธอผู้อยู่โดยอาการนั้นๆ ไป เพื่อความเป็นอย่างนั้น 
+<span class="LineNumber"> 006 </span>โดยที่เธอจักรู้ชัดว่า ชาติสิ้นแล้ว พรหมจรรย์อยู่จบแล้ว กิจที่ควรทำ ทำเสร็จแล้ว กิจอื่นเพื่อ           
+<span class="LineNumber"> 007 </span>ความเป็นอย่างนี้มิได้มี.          
+<span class="LineNumber"> 008 </span>		           จบ สูตรที่ ๑๐             
+<span class="LineNumber"> 009 </span>		         จบ อุทายิวรรคที่ ๓          
+<span class="LineNumber"> 010 </span>		          -----------                
+<span class="LineNumber"> 011 </span>		     รวมพระสูตรที่มีในวรรคนี้ คือ    
+<span class="LineNumber"> 012 </span>     ๑. โพธนสูตร       ๒. เทสนาสูตร                
+<span class="LineNumber"> 013 </span>     ๓. ฐานิยสูตร       ๔. อโยนิโสสูตร             
+<span class="LineNumber"> 014 </span>     ๕. อปริหานิยสูตร    ๖. ขยสูตร
+<span class="LineNumber"> 015 </span>     ๗. นิโรธสูตร       ๘. นิพเพธสูตร              
+<span class="LineNumber"> 016 </span>     ๙. เอกธัมมสูตร    ๑๐. อุทายิสูตร              
+<span class="LineNumber"> 017 </span>		           ----------   

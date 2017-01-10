@@ -1,0 +1,14 @@
+<span class="LineNumber"> 001 </span>ภวิสฺสนฺติ   มานคตเมตํ   ฯ   มานคตเมตํ  ภิกฺขเว  โรโค  มานคตเมตํ  
+<span class="LineNumber"> 002 </span>คณฺโฑ    มานคตเมตํ    สลฺลํ   ฯ   ตสฺมาติห   ภิกฺขเว   นิหตมาเนน  
+<span class="LineNumber"> 003 </span>เจตสา   วิหริสฺสามาติ   ฯ   เอวฺหิ   โว   ภิกฺขเว  สิกฺขิตพฺพนฺติ  ฯ  
+<span class="LineNumber"> 004 </span>ทฺวาทสมํ ฯ  
+<span class="LineNumber"> 005 </span>                   อาสีวิสวคฺโค จตุตฺโถ ฯ  
+<span class="LineNumber"> 006 </span>                        ตสฺสุทฺทานํ  
+<span class="LineNumber"> 007 </span>         อาสีวิโส รโถ กุมฺโม      เทฺวทารุกฺขนฺเธน ๑ อวสฺสุโต  
+<span class="LineNumber"> 008 </span>         ทุกฺขธมฺมา กึสุกา วีณา     ฉปฺปาณา ยวกลาปิเกน ๒ จาติ ฯ  
+<span class="LineNumber"> 009 </span>                  จตุปณฺณาสเก วคฺคสฺสุทฺทานํ  
+<span class="LineNumber"> 010 </span>         นนฺทิกฺขยา สฏฺ€ินยา ๓    สมุทฺโท อุทเกน ๔ จ  
+<span class="LineNumber"> 011 </span>         จตุปณฺณาสกา เอเต       นิปาเตสุ ปกาสิตาติ ฯ  
+<span class="LineNumber"> 012 </span>                     __________________  
+<span class="LineNumber"> 013 </span>#๑ ม. ยุ. เทฺว ทารุกฺขนฺธา ... ฯ ๒ ม. ยุ. ยวกลาปิติ ฯ ๓ ม. นนฺทิกฺขโย  
+<span class="LineNumber"> 014 </span>#สฏฺ€ินโย ฯ  ๔ ม. ยุ. อุรเคน จ ฯ  

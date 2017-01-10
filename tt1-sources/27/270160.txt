@@ -1,0 +1,13 @@
+<span class="LineNumber"> 001 </span>		   รวมชาดกที่มีในวรรคนี้ คือ          
+<span class="LineNumber"> 002 </span>            ๑. กุณฑลิกชาดก ๒. วานรชาดก    
+<span class="LineNumber"> 003 </span>            ๓. กุนตินีชาดก๔. อัมพชาดก   
+<span class="LineNumber"> 004 </span>            ๕. คชกุมภชาดก ๖. เกสวชาดก     
+<span class="LineNumber"> 005 </span>            ๗. อยกูฏชาดก๘. อรัญญชาดก    
+<span class="LineNumber"> 006 </span>            ๙. สันธิเภทชาดก             ๑๐. เทวตาปัญหาชาดก
+<span class="LineNumber"> 007 </span>		    _________________  
+<span class="LineNumber"> 008 </span>		 รวมวรรคที่มีในจตุกกนิบาตนี้ คือ      
+<span class="LineNumber"> 009 </span>            ๑. กาลิงควรรค๒. ปุจิมันทวรรค  
+<span class="LineNumber"> 010 </span>            ๓. กุฏิทูสกวรรค๔. โกกิลวรรค   
+<span class="LineNumber"> 011 </span>            ๕. จุลลกุณาวรรค.            
+<span class="LineNumber"> 012 </span>		     จบ จตุกกนิบาตชาดก. 
+<span class="LineNumber"> 013 </span>		     _________________ 

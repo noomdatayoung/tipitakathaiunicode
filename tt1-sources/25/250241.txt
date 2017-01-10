@@ -1,0 +1,13 @@
+<span class="LineNumber"> 001 </span>	เป็นผู้มีไตรวิชชาด้วยวิชชา ๓ ว่าเป็นพราหมณ์ เราไม่กล่าวบุคคลอื่นผู้
+<span class="LineNumber"> 002 </span>	มีการกล่าวตามที่เขากล่าวไว้แล้วว่าเป็นพราหมณ์ ฯ
+<span class="LineNumber"> 003 </span>เนื้อความแม้นี้พระผู้มีพระภาคตรัสแล้ว เพราะเหตุนั้น ข้าพเจ้าได้สดับมาแล้วฉะนี้แล ฯ
+<span class="LineNumber"> 004 </span>	จบสูตรที่ ๑๐
+<span class="LineNumber"> 005 </span>	จบวรรคที่ ๕
+<span class="LineNumber"> 006 </span>	_______________
+<span class="LineNumber"> 007 </span>	รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 008 </span>	๑. ปสาทสูตร 			๒. ชีวิตสูตร 
+<span class="LineNumber"> 009 </span>	๓. สังฆาฏิสูตร 			๔. อัคคิสูตร
+<span class="LineNumber"> 010 </span>	๕. อุปปริกขยสูตร 		๖. อุปปัตติสูตร 
+<span class="LineNumber"> 011 </span>	๗. กามสูตร 				๘. กัลยาณสูตร
+<span class="LineNumber"> 012 </span>	๙. ทานสูตร 				๑๐. ธรรมสูตร ฯ
+<span class="LineNumber"> 013 </span>	 จบติกนิบาต

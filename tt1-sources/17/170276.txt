@@ -1,0 +1,9 @@
+<span class="LineNumber"> 001 </span>		      รวมพระสูตรที่มีในสังยุตนี้ คือ          
+<span class="LineNumber"> 002 </span>            ๑. สุทธกสูตร           ๖. อุโปสถสูตร ๔         
+<span class="LineNumber"> 003 </span>            ๒. ปณีตตรสูตร          ๗. สุตสูตรที่ ๑         
+<span class="LineNumber"> 004 </span>            ๓. อุโปสถสูตรที่ ๑       ๘. สุตสูตรที่ ๒       
+<span class="LineNumber"> 005 </span>            ๔. อุโปสถสูตรที่ ๒       ๙. สุตสูตรที่ ๓       
+<span class="LineNumber"> 006 </span>            ๕. อุโปสถสูตรที่ ๓      ๑๐. สุตสูตรที่ ๔       
+<span class="LineNumber"> 007 </span>            ๑๑-๒๐ อัณฑชทานูปการสูตรที่ ๑-๑๐ 
+<span class="LineNumber"> 008 </span>            ๒๑-๕๐ ชลาพุชาทิทานนูปการสูตร ๑-๓๐              
+<span class="LineNumber"> 009 </span>		         -----------------------------------

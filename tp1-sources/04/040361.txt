@@ -1,0 +1,10 @@
+<span class="LineNumber"> 001 </span>		คนฺตพฺพํ น นิสินฺนาย          ฉนฺททาเน ปวารณา ๑   
+<span class="LineNumber"> 002 </span>		สฺจเรหิ ๒ เขปิตา เมโฆ    อนฺตรา จ ปวารณา   
+<span class="LineNumber"> 003 </span>		น กโรนฺติ ๓ ปุรมฺหากํ       อฏฺ€ปิตา จ ภิกฺขุโน   
+<span class="LineNumber"> 004 </span>		กิมฺหิ จาติ ๔ กตมฺจ        ทิฏฺเ€น สุตสงฺกาย   
+<span class="LineNumber"> 005 </span>		โจทโก จุทิตโก จ           ถุลฺลวตฺถุ ๕ จ ภณฺฑนํ   
+<span class="LineNumber"> 006 </span>		ปวารณสฺส สงฺคโห ๖        อนิสฺสโร ปวารเยติ ฯ  
+<span class="LineNumber"> 007 </span>		      _____________________
+<span class="LineNumber"> 008 </span>#๑ ยุ. ฉนฺททานปวารณา ฯ  ๒ สี. ม. ยุ. สวเรหิ ฯ  ๓ ม. น อิจฺฉนฺติ ฯ   
+<span class="LineNumber"> 009 </span>#๔ ม. ยุ. กิมฺหิ วาติ  ฯ  ๕ ม. ยุ. ถุลฺลจฺจยวตฺถุ ...  ฯ   
+<span class="LineNumber"> 010 </span>#๖ ม. ยุ. ปวารณาสงฺคโห จ ฯ  

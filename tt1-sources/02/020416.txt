@@ -1,0 +1,7 @@
+<span class="LineNumber"> 001 </span>				ไม่ต้องอาบัติ  
+<span class="LineNumber"> 002 </span>	ไม่ได้ชักชวน ภิกษุสำคัญว่าไม่ได้ชักชวน ..., ไม่ต้องอาบัติ.  
+<span class="LineNumber"> 003 </span>				อนาปัตติวาร  
+<span class="LineNumber"> 004 </span>	[๔๖๐] ข้ามฟาก ๑, ไม่ได้ชักชวนกันโดยสาร ๑, ภิกษุณีชักชวน ภิกษุไม่ได้ชักชวน ๑,  
+<span class="LineNumber"> 005 </span>โดยสารเรือผิดนัก ๑, มีอันตราย ๑, ภิกษุวิกลจริต ๑, ภิกษุอาทิกัมมิกะ ๑, ไม่ต้องอาบัติแล.  
+<span class="LineNumber"> 006 </span>			โอวาทวรรค สิกขาบทที่ ๘ จบ.  
+<span class="LineNumber"> 007 </span>				___________  

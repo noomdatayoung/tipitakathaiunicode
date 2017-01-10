@@ -1,0 +1,13 @@
+<span class="LineNumber"> 001 </span>     อีกประการหนึ่ง ภิกษุ เพราะล่วงเนวสัญญานาสัญญายตนฌานโดยประการทั้งปวง บรรลุ
+<span class="LineNumber"> 002 </span>สัญญาเวทยิตนิโรธ และอาสวะทั้งหลายของเธอย่อมสิ้นไปเพราะเห็นด้วยปัญญา ดูกรอาวุโส 
+<span class="LineNumber"> 003 </span>โดยนิปปริยายแม้เพียงเท่านี้แล พระผู้มีพระภาคตรัสทิฏฐธรรมนิพพาน ฯ
+<span class="LineNumber"> 004 </span>                         จบสูตรที่ ๑๐
+<span class="LineNumber"> 005 </span>                       จบปัญจาลวรรคที่ ๕
+<span class="LineNumber"> 006 </span>                         ________
+<span class="LineNumber"> 007 </span>                   รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 008 </span>     	๑. ปัญจาลสูตร 		๒. กามเหสสูตรที่ ๑  
+<span class="LineNumber"> 009 </span>๓. กามเหสสูตรที่ ๒		๔. กามเหสสูตรที่ ๓ 
+<span class="LineNumber"> 010 </span>๕. สันทิฏฐิกสูตรที่ ๑	 ๖. สันทิฏฐิกสูตรที่ ๒
+<span class="LineNumber"> 011 </span>๗. นิพพานสูตร 		๘. ปรินิพพานสูตร 
+<span class="LineNumber"> 012 </span>๙. ตทังคสูตร 		๑๐. ทิฏฐธัมมิกสูตร ฯ
+<span class="LineNumber"> 013 </span>                         ________

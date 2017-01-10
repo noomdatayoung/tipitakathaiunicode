@@ -1,0 +1,13 @@
+<span class="LineNumber"> 001 </span>  [๑๒๙๔] กติ ปาฏิเทสนียา วุตฺตา       พุทฺเธนาทิจฺจพนฺธุนา  
+<span class="LineNumber"> 002 </span>         วินยํ ปฏิชานนฺตสฺส           วิสยานิ สุโณม เต ฯ  
+<span class="LineNumber"> 003 </span>         ทฺวาทส ปาฏิเทสนียา วุตฺตา    พุทฺเธนาทิจฺจพนฺธุนา  
+<span class="LineNumber"> 004 </span>         วินยํ ปฏิชานนฺตสฺส           วิสยานิ สุโณหิ เม ฯ  
+<span class="LineNumber"> 005 </span>  [๑๒๙๕] กติ เสขิยา วุตฺตา           พุทฺเธนาทิจฺจพนฺธุนา  
+<span class="LineNumber"> 006 </span>         วินยํ ปฏิชานนฺตสฺส           วิสยานิ สุโณม เต ฯ  
+<span class="LineNumber"> 007 </span>         ปฺจสตฺตติ เสขิยา วุตฺตา      พุทฺเธนาทิจฺจพนฺธุนา  
+<span class="LineNumber"> 008 </span>         วินยํ ปฏิชานนฺตสฺส           วิสยานิ สุโณหิ เม ฯ  
+<span class="LineNumber"> 009 </span>         ยาว สุปุจฺฉิตํ ตยา           ตาว ๑ สุวิสฺสชฺชิตํ มยา  
+<span class="LineNumber"> 010 </span>         ปุจฺฉาวิสฺสชฺชนาย วา         นตฺถิ กิฺจิ อสุตฺตกนฺติ ฯ  
+<span class="LineNumber"> 011 </span>                  ทุติยคาถาสงฺคณิกํ นิฏฺ€ิตํ ฯ  
+<span class="LineNumber"> 012 </span>                     ___________________  
+<span class="LineNumber"> 013 </span>#๑ ม. ยุ. ยาว ฯ  

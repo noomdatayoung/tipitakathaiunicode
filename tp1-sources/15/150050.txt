@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>			ชราวคฺโค ฉฏฺโ€  
+<span class="LineNumber"> 002 </span>			_______
+<span class="LineNumber"> 003 </span>			ป€มํ ชราสุตฺตํ  
+<span class="LineNumber"> 004 </span>	[๑๕๘] กึสุ ยาว ชรา สาธุ        กึสุ สาธุ ปติฏฺ€ิตํ  
+<span class="LineNumber"> 005 </span>		กึสุ นรานํ รตนํ           กึสุ โจเรหิ ทูหรนฺติ ฯ  
+<span class="LineNumber"> 006 </span>	[๑๕๙] สีลํ ยาว ชรา สาธุ        สทฺธา สาธุ ปติฏฺ€ิตา  
+<span class="LineNumber"> 007 </span>		ปฺา นรานํ รตนํ         ปุฺํ โจเรหิ ทูหรนฺติ ฯ  
+<span class="LineNumber"> 008 </span>			ทุติยํ อชรสาสุตฺตํ  
+<span class="LineNumber"> 009 </span>	[๑๖๐] กึสุ อชรสา สาธุ          กึสุ สาธุ อธิฏฺ€ิตํ  
+<span class="LineNumber"> 010 </span>		กึสุ นรานํ รตนํ           กึสุ โจเรหิ หาริยนฺติ ฯ  
+<span class="LineNumber"> 011 </span>	[๑๖๑] สีลํ อชรสา สาธุ          สทฺธา สาธุ อธิฏฺ€ิตา  
+<span class="LineNumber"> 012 </span>		ปฺา นรานํ รตนํ         ปุฺํ โจเรหิ หาริยนฺติ ฯ  
+<span class="LineNumber"> 013 </span>			ตติยํ มิตฺตสุตฺตํ  
+<span class="LineNumber"> 014 </span>	[๑๖๒] กึสุ ปสวโต ๑ มิตฺตํ       กึสุ มิตฺตํ สเก ฆเร  
+<span class="LineNumber"> 015 </span>		กึ มิตฺตํ อตฺถชาตสฺส        กึ มิตฺตํ สมฺปรายิกนฺติ ฯ  
+<span class="LineNumber"> 016 </span>	[๑๖๓] สตฺโถ ปสวโต ๒ มิตฺตํ     มาตา มิตฺตํ สเก ฆเร  
+<span class="LineNumber"> 017 </span>#๑ สี. ม. ปวสโต ฯ ยุ. ปถวโต ฯ ๒ สี. ปฺจสโต ฯ  

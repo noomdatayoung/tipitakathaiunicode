@@ -1,0 +1,11 @@
+<span class="LineNumber"> 001 </span>		อุทฺทานํ  
+<span class="LineNumber"> 002 </span>	ตมาลิ ติณสนฺถาโร         ขณฺฑผุลฺลิ อโสกิโย  
+<span class="LineNumber"> 003 </span>	องฺโกลโก กิสลโย         ตินฺทุโก เนลปุปฺผิโย  
+<span class="LineNumber"> 004 </span>	ติกณฺฑิโก จ ยูถิโก         คาถา ปฺาส อฏฺ€ จ ฯ  
+<span class="LineNumber"> 005 </span>		ตมาลปุปฺผิยวคฺโค วีสติโม ฯ  
+<span class="LineNumber"> 006 </span>		อถ วคฺคุทฺทานํ  
+<span class="LineNumber"> 007 </span>	ภิกฺขทายิ ปริวาโร         เสเรยฺโย โสภิโต ตถา  
+<span class="LineNumber"> 008 </span>	ฉตฺโต จ พนฺธุชีวิ จ        สุปาริจริโยปิจ  
+<span class="LineNumber"> 009 </span>	กุมุโท กุฏโช เจว         ตมาลิ ทสโม กโต  
+<span class="LineNumber"> 010 </span>	ฉ สตานิ จ คาถานํ        ฉสฏฺ€ิ จ ตตุตฺตริ ฯ  
+<span class="LineNumber"> 011 </span>		ภิกฺขวคฺคทสกํ ทุติยสตกํ สมตฺตํ ฯ  

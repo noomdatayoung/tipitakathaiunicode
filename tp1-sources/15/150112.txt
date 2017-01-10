@@ -1,0 +1,15 @@
+<span class="LineNumber"> 001 </span>		น ตํ ทฬฺหํ พนฺธนมาหุ ธีรา  
+<span class="LineNumber"> 002 </span>		ยทายสํ ทารุชํ ปพฺพชฺจ ๑  
+<span class="LineNumber"> 003 </span>		สารตฺตรตฺตา มณิกุณฺฑเลสุ  
+<span class="LineNumber"> 004 </span>		ปุตฺเตสุ ทาเรสุ จ ยา อเปกฺขา  
+<span class="LineNumber"> 005 </span>		เอตํ ทฬฺหํ พนฺธนมาหุ ธีรา  
+<span class="LineNumber"> 006 </span>		โอหารินํ สิถิลํ ทุปฺปมุฺจํ  
+<span class="LineNumber"> 007 </span>		เอตมฺปิ เฉตฺวาน ปริพฺพชนฺติ  
+<span class="LineNumber"> 008 </span>		อนเปกฺขิโน กามสุขํ ปหายาติ ฯ  
+<span class="LineNumber"> 009 </span>			ป€โม วคฺโค ฯ  
+<span class="LineNumber"> 010 </span>			ตสฺสุทฺทานํ  
+<span class="LineNumber"> 011 </span>		รหโท ๒ ปุริโส ราชา     ปิยํ อตฺตานรกฺขิตา ๓  
+<span class="LineNumber"> 012 </span>		อปฺปกา อตฺถกรณา ๔      มลฺลิกา ยฺพนฺธนนฺติ ฯ  
+<span class="LineNumber"> 013 </span>			________________
+<span class="LineNumber"> 014 </span>#๑ พพฺพชฺจาติ วา ปาโ€ ฯ  ๒ ม. ยุ. ทหโร ฯ  ๓ สี. อตฺเตน ฯ ม. ยุ.  
+<span class="LineNumber"> 015 </span>#ปิยอตฺตานรกฺขิโต ฯ  ๔ ม. อฏฺฏกรณํ ฯ  

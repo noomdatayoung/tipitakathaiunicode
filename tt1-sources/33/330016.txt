@@ -1,0 +1,9 @@
+<span class="LineNumber"> 001 </span>รวมอปทานที่มีในวรรนี้ คือ
+<span class="LineNumber"> 002 </span>๑. ภัททาลิเถราปทาน๖. เอกทีปิยเถราปทาน 
+<span class="LineNumber"> 003 </span>๒. เอกฉัตติยเถราปทาน๗. อุจฉังคปุปผิยเถราปทาน
+<span class="LineNumber"> 004 </span>๓. ติณสูลฉาทนิยเถราปทาน ๘. ยาคุทายกเถราปทาน 
+<span class="LineNumber"> 005 </span>๔. มธุมังสทายกเถราปทาน ๙. ปัตโถทนทายกเถราปทาน 
+<span class="LineNumber"> 006 </span>๕. นาคปัลลวกเถราปทาน ๑๐. มัญจทายกเถราปทาน 
+<span class="LineNumber"> 007 </span>บัณฑิตคำนวณคาถาแผนกหนึ่งได้ ๒๐๑ คาถา.
+<span class="LineNumber"> 008 </span>จบ ภัททาลิกวรรคที่ ๔๒ 
+<span class="LineNumber"> 009 </span>----------------- 

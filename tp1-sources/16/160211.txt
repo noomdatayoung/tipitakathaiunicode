@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>     [๔๒๐]  เย  จ  โข  เกจิ  ภิกฺขเว  สมณา  วา  พฺราหฺมณา วา  
+<span class="LineNumber"> 002 </span>ป€วีธาตุํ     ปชานนฺติ    ป€วีธาตุสมุทยํ    ปชานนฺติ    ป€วีธาตุนิโรธํ  
+<span class="LineNumber"> 003 </span>ปชานนฺติ    ป€วีธาตุนิโรธคามินึ    ปฏิปทํ   ปชานนฺติ   ฯ   อาโปธาตุํ  
+<span class="LineNumber"> 004 </span>ปชานนฺติ   ฯเปฯ   เตโชธาตุํ   ปชานนฺติ   ...  วาโยธาตุํ  ปชานนฺติ  
+<span class="LineNumber"> 005 </span>วาโยธาตุสมุทยํ  ปชานนฺติ  วาโยธาตุนิโรธํ ปชานนฺติ วาโยธาตุนิโรธคามินึ  
+<span class="LineNumber"> 006 </span>ปฏิปทํ     ปชานนฺติ     เต     จ     โขเม     ภิกฺขเว    สมณา  
+<span class="LineNumber"> 007 </span>วา    พฺราหฺมณา    วา   สมเณสุ   เจว   สมณสมฺมตา   พฺราหฺมเณสุ  
+<span class="LineNumber"> 008 </span>จ     พฺราหฺมณสมฺมตา     เต    จ    ปนายสฺมนฺโต    สามฺตฺถฺจ  
+<span class="LineNumber"> 009 </span>พฺราหฺมฺตฺถฺจ     ทิฏฺเ€ว    ธมฺเม    สยํ    อภิฺา    สจฺฉิกตฺวา  
+<span class="LineNumber"> 010 </span>อุปสมฺปชฺช วิหรนฺตีติ ฯ ทสมํ ฯ  
+<span class="LineNumber"> 011 </span>                   จตุตฺถวคฺโค จตุตฺโถ ฯ  
+<span class="LineNumber"> 012 </span>                  จตุตฺถสฺส วคฺคสฺส อุทฺทานํ  
+<span class="LineNumber"> 013 </span>         จตสฺโส ปุพฺเพ อจริ ๑      โน เจทํ ๒ ทุกฺเขน จ  
+<span class="LineNumber"> 014 </span>         อภินนฺทนฺจ อุปฺปาทํ ๓      ตโย สมณพฺราหฺมณาติ ฯ  
+<span class="LineNumber"> 015 </span>                  ธาตุสํยุตฺตํ ทุติยํ สมตฺตํ ฯ  
+<span class="LineNumber"> 016 </span>                       ____________  
+<span class="LineNumber"> 017 </span>#๑ ม. ยุ. อจรึ ฯ  ๒ ม โนเจทํ จ ฯ ยุ. โย โน เจทํ ฯ  ๓ ม. ยุ. อุปฺปาโท ฯ  

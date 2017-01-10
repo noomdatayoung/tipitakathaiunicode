@@ -1,0 +1,9 @@
+<span class="LineNumber"> 001 </span>		         _____________________  
+<span class="LineNumber"> 002 </span>		       รวมวิมานที่มีในวรรคนี้ คือ  
+<span class="LineNumber"> 003 </span>	๑. อุฬารวิมาน                  ๒. อังฉุวิมาน  
+<span class="LineNumber"> 004 </span>	๓. ปัลลังกวิมาน                 ๔. ลตาวิมาน  
+<span class="LineNumber"> 005 </span>	๕. คุตติลวิมาน                  ๖. ทัททัลลวิมาน  
+<span class="LineNumber"> 006 </span>	๗. เสสวดีวิมาน                 ๘. มัลลิกาวิมาน  
+<span class="LineNumber"> 007 </span>	๙. วิสาลักขิวิมาน               ๑๐. ปาริฉัตตกวิมาน.  
+<span class="LineNumber"> 008 </span>		        จบ ปาริฉัตตกวรรคที่ ๓.  
+<span class="LineNumber"> 009 </span>		       ___________________________  

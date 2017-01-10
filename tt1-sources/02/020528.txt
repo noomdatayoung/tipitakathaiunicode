@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>				บทภาชนีย์  
+<span class="LineNumber"> 002 </span>				ติกะปาจิตตีย์  
+<span class="LineNumber"> 003 </span>	[๖๑๗] หย่อนกึ่งเดือน ภิกษุสำคัญว่าหย่อน อาบน้ำ เว้นไว้แต่สมัย ต้องอาบัติ-  
+<span class="LineNumber"> 004 </span>ปาจิตตีย์.  
+<span class="LineNumber"> 005 </span>	หย่อนกึ่งเดือน ภิกษุสงสัย อาบน้ำ เว้นไว้แต่สมัย ต้องอาบัติปาจิตตีย์.  
+<span class="LineNumber"> 006 </span>	หย่อนกึ่งเดือน ภิกษุสำคัญว่าเกิน อาบน้ำ เว้นไว้แต่สมัย ต้องอาบัติปาจิตตีย์.  
+<span class="LineNumber"> 007 </span>				ทุกะทุกกฏ  
+<span class="LineNumber"> 008 </span>	เกินกึ่งเดือน ภิกษุสำคัญว่าหย่อน ... ต้องอาบัติทุกกฏ.  
+<span class="LineNumber"> 009 </span>	เกินกึ่งเดือน ภิกษุสงสัย ... ต้องอาบัติทุกกฏ.  
+<span class="LineNumber"> 010 </span>				ไม่ต้องอาบัติ  
+<span class="LineNumber"> 011 </span>	เกินกึ่งเดือน ภิกษุสำคัญว่าเกิน ... ไม่ต้องอาบัติ.  
+<span class="LineNumber"> 012 </span>				อนาปัตติวาร  
+<span class="LineNumber"> 013 </span>	[๖๑๘] ภิกษุอาบน้ำในสมัย ๑ ภิกษุอาบน้ำในเวลากึ่งเดือน ๑ ภิกษุอาบน้ำในเวลาเกิน  
+<span class="LineNumber"> 014 </span>กึ่งเดือน ๑ ภิกษุข้ามฟากอาบน้ำ ๑ ภิกษุอาบน้ำในปัจจันตชนบท ทุกๆ แห่ง ๑ ภิกษุอาบน้ำ  
+<span class="LineNumber"> 015 </span>เพราะมีอันตราย ๑ ภิกษุวิกลจริต ๑ ภิกษุอาทิกัมมิกะ ๑ ไม่ต้องอาบัติแล.  
+<span class="LineNumber"> 016 </span>			สุราปานวรรค สิกขาบทที่ ๗ จบ.  
+<span class="LineNumber"> 017 </span>			____________  

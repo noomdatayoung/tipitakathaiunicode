@@ -1,0 +1,15 @@
+<span class="LineNumber"> 001 </span>อพหุลีกตา    ฯ   อมตนฺเตสํ   ภิกฺขเว   พหุลีกตํ   เยสํ   กายคตาสติ  
+<span class="LineNumber"> 002 </span>พหุลีกตาติ ฯ  
+<span class="LineNumber"> 003 </span>     [๒๔๔]   อมตนฺเตสํ   ภิกฺขเว   อนภิฺาตํ   เยสํ   กายคตาสติ  
+<span class="LineNumber"> 004 </span>อนภิฺาตา   ฯ   อมตนฺเตสํ   ภิกฺขเว   อภิฺาตํ   เยสํ  กายคตาสติ  
+<span class="LineNumber"> 005 </span>อภิฺาตาติ ฯ  
+<span class="LineNumber"> 006 </span>     [๒๔๕]   อมตนฺเตสํ   ภิกฺขเว   อปริฺาตํ   เยสํ   กายคตาสติ  
+<span class="LineNumber"> 007 </span>อปริฺาตา   ฯ   อมตนฺเตสํ   ภิกฺขเว   ปริฺาตํ   เยสํ  กายคตาสติ  
+<span class="LineNumber"> 008 </span>ปริฺาตาติ ฯ  
+<span class="LineNumber"> 009 </span>     [๒๔๖]    อมตนฺเตสํ   ภิกฺขเว   อสจฺฉิกตํ   เยสํ   กายคตาสติ  
+<span class="LineNumber"> 010 </span>อสจฺฉิกตา    ฯ   อมตนฺเตสํ   ภิกฺขเว   สจฺฉิกตํ   เยสํ   กายคตาสติ  
+<span class="LineNumber"> 011 </span>สจฺฉิกตาติ ฯ [๑]- [๒]-  
+<span class="LineNumber"> 012 </span>                    _______________  
+<span class="LineNumber"> 013 </span>              เอกนิปาตสฺส สุตฺตสหสฺสํ สมตฺตํ ๓ ฯ  
+<span class="LineNumber"> 014 </span>#๑ ม. อิทมโว จ ภควา อตฺตมนา เต ภิกฺขู ภควโต ภาสิตํ อภินนฺทุนฺติ ฯ  
+<span class="LineNumber"> 015 </span>#๒ ม. อมตวคฺโค ฯ ๓ ม. เอกกนิปาตปาลิ นิฏฺ€ิตา ฯ  

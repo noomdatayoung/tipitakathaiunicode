@@ -1,0 +1,11 @@
+<span class="LineNumber"> 001 </span>     [๑๕๘๓]   เอวํ  วุตฺเต  อฺตโร  ปุริโส  นนฺทกํ  ลิจฺฉวิมหามตฺตํ  
+<span class="LineNumber"> 002 </span>เอตทโวจ   นฺหานกาโล   ๑   ภนฺเตติ   ฯ  อลนฺทานิ  ภเณ  เอเตน  
+<span class="LineNumber"> 003 </span>พาหิเรน    นฺหาเนน    อลมิทํ    อชฺฌตฺตํ    นฺหานํ   ภวิสฺสติ   ยทิทํ  
+<span class="LineNumber"> 004 </span>ภควติ ปสาโทติ ฯ  
+<span class="LineNumber"> 005 </span>		      สรกานิวคฺโค ตติโย ฯ  
+<span class="LineNumber"> 006 </span>			   ตสฺสุทฺทานํ  
+<span class="LineNumber"> 007 </span>	  มหานาเมน เทฺว วุตฺตา      โคธา จ สรกา ทุเว  
+<span class="LineNumber"> 008 </span>	  ทุสฺสีเลฺยน จ เทฺว วุตฺตา ๒  ทุเว เวรภเยน จ  
+<span class="LineNumber"> 009 </span>	  ลิจฺฉวี ทสโม วุตฺโต         วคฺโค เตน ปวุจฺจตีติ ฯ  
+<span class="LineNumber"> 010 </span>			 _____________
+<span class="LineNumber"> 011 </span>#๑ นหานกาโลติปิ ปาโ€ ฯ ๒ ม. ทุเว อนาถปิณฺฑิกา ฯ  

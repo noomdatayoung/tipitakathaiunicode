@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>     ทราบว่า ท่านพระเรณุปูชกเถระได้กล่าวคาถาเหล่านี้ ด้วยประการฉะนี้แล.                
+<span class="LineNumber"> 002 </span>                     จบ เรณุปูชกเถราปทาน                
+<span class="LineNumber"> 003 </span>                         ----------  
+<span class="LineNumber"> 004 </span>                    รวมอปทานที่มีในวรรคนี้ คือ          
+<span class="LineNumber"> 005 </span>        ๑. ภิกขาทายกเถราปทาน            ๒. ญาณสัญญิกเถราปทาน  
+<span class="LineNumber"> 006 </span>        ๓. อุปลหัตถิยเถราปทาน             ๔. ปทปูชกเถราปทาน  
+<span class="LineNumber"> 007 </span>        ๕. มุฏฐิปุปผิยเถราปทาน             ๖. อุทกปูชกเถราปทาน  
+<span class="LineNumber"> 008 </span>        ๗. นฬมาลิยเถราปทาน              ๘. อาสนุปัฏฐายกเถราปทาน  
+<span class="LineNumber"> 009 </span>        ๙. พิฬาลิทายกเถราปทาน           ๑๐. เรณุปูชกเถราปทาน  
+<span class="LineNumber"> 010 </span>            มีคาถา ๖๖ คาถา  
+<span class="LineNumber"> 011 </span>                     จบ ภิกขาทายิวรรคที่ ๑๑             
+<span class="LineNumber"> 012 </span>            ------------------------------------ 

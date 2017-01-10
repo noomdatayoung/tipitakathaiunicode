@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>	ปฏิสมฺภิทา จตสฺโส         วิโมกฺขาปิจ อฏฺ€ิเม  
+<span class="LineNumber"> 002 </span>	ฉฬภิฺา สจฺฉิกตา         กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 003 </span>	อิตฺถํ สุทํ อายสฺมา กิลฺชทายโก เถโร อิมา คาถาโย  
+<span class="LineNumber"> 004 </span>อภาสิตฺถาติ ฯ  
+<span class="LineNumber"> 005 </span>		กิลฺชทายกตฺเถรสฺส อปทานํ สมตฺตํ ฯ  
+<span class="LineNumber"> 006 </span>		ปฺจมํ เวทิทายกตฺเถราปทานํ (๒๓๕)  
+<span class="LineNumber"> 007 </span>	[๒๓๗] วิปสฺสิโน ภควโต          โพธิยา ปาทปุตฺตเม  
+<span class="LineNumber"> 008 </span>	ปสนฺนจิตฺโต สุมโน         กาเรสึ เวทิกํ อหํ ฯ  
+<span class="LineNumber"> 009 </span>	เอกนวุเต อิโต กปฺเป      กาเรสึ เวทิกํ อหํ  
+<span class="LineNumber"> 010 </span>	ทุคฺคตึ นาภิชานามิ         เวทิกาย อิทํ ผลํ ฯ  
+<span class="LineNumber"> 011 </span>	อิโต เอกาทเส กปฺเป      อโหสึ สูริยสฺสโม  
+<span class="LineNumber"> 012 </span>	สตฺตรตนสมฺปนฺโน          จกฺกวตฺติ มหพฺพโล ฯ  
+<span class="LineNumber"> 013 </span>	ปฏิสมฺภิทา จตสฺโส         วิโมกฺขาปิจ อฏฺ€ิเม  
+<span class="LineNumber"> 014 </span>	ฉฬภิฺา สจฺฉิกตา         กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 015 </span>	อิตฺถํ สุทํ อายสฺมา เวทิทายโก เถโร อิมา คาถาโย  
+<span class="LineNumber"> 016 </span>อภาสิตฺถาติ ฯ  
+<span class="LineNumber"> 017 </span>		เวทิทายกตฺเถรสฺส อปทานํ สมตฺตํ ฯ  

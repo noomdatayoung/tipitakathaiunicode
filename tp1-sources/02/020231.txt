@@ -1,0 +1,15 @@
+<span class="LineNumber"> 001 </span>ทหติ  วา  ทหาเปติ  วา  อนาปตฺติ ฯ  อป€วิยา  ป€วีสฺี  
+<span class="LineNumber"> 002 </span>อาปตฺติ  ทุกฺกฏสฺส ฯ  อป€วิยา  เวมติโก  อาปตฺติ  ทุกฺกฏสฺส ฯ  
+<span class="LineNumber"> 003 </span>อป€วิยา  อป€วีสฺี  อนาปตฺติ ฯ  
+<span class="LineNumber"> 004 </span>	[๓๕๓]  อนาปตฺติ  อิมํ  ชาน  อิมํ  เทหิ  อิมํ  อาหร  
+<span class="LineNumber"> 005 </span>อิมินา  อตฺโถ  อิมํ  กปฺปิยํ  กโรหีติ  ภณติ  อสฺจิจฺจ  อสติยา  
+<span class="LineNumber"> 006 </span>อชานนฺตสฺส  อุมฺมตฺตกสฺส  อาทิกมฺมิกสฺสาติ ฯ  
+<span class="LineNumber"> 007 </span>		  ทสมสิกฺขาปทํ  นิฏฺ€ิตํ  ๑ ฯ  
+<span class="LineNumber"> 008 </span>		  มุสาวาทวคฺโค  ป€โม  ๒ ฯ  
+<span class="LineNumber"> 009 </span>		  _____________  
+<span class="LineNumber"> 010 </span>		  ตสฺสุทฺทานํ ฯ  
+<span class="LineNumber"> 011 </span>	  มุสาโอมสเปสุฺํ  ปทเสยฺยาย  เว  ทุเว  
+<span class="LineNumber"> 012 </span>	  อฺตฺร  วิฺุนา  ภูตา  ทุฏฺ€ุลฺลาปตฺติ  ขณนาติ ฯ  
+<span class="LineNumber"> 013 </span>		  _____________  
+<span class="LineNumber"> 014 </span>#  ๑  ม.  ปถวีขณนสิกฺขาปทํ  นิฏฺ€ิตํ  ทสมํ ฯ  ๒  ม.  มุสาวาทวคฺโค  นิฏฺ€ิโต  ป€โม ฯ  
+<span class="LineNumber"> 015 </span>#  ยุ.  ป€โม  วคฺโค ฯ  

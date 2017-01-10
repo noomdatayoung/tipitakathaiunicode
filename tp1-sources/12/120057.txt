@@ -1,0 +1,10 @@
+<span class="LineNumber"> 001 </span>น    พาหุลฺลิกา   น   สาถิลิกา   โอกฺกมเน   นิกฺขิตฺตธุรา   ปวิเวเก  
+<span class="LineNumber"> 002 </span>ปุพฺพงฺคมา   อารทฺธวิริยา   ปหิตตฺตา   อุปฏฺ€ิตสตี  สมฺปชานา  สมาหิตา  
+<span class="LineNumber"> 003 </span>เอกคฺคจิตฺตา   ปฺวนฺโต   อเนลมูคา   เต   อายสฺมโต   สารีปุตฺตสฺส  
+<span class="LineNumber"> 004 </span>อิมํ   ธมฺมปริยายํ   สุตฺวา   ปิวนฺติ   มฺเ   ฆสนฺติ   มฺเ   วจสา  
+<span class="LineNumber"> 005 </span>เจว   มนสา   จ  สาธุ  วต  โภ  สพฺรหฺมจารี  อกุสลา  วุฏฺ€าเปตฺวา  
+<span class="LineNumber"> 006 </span>กุสเล ปติฏฺ€าเปตีติ ฯ  
+<span class="LineNumber"> 007 </span>     อิติห     เต     อุโภ    มหานาคา    อฺมฺสฺส    สุภาสิตํ  
+<span class="LineNumber"> 008 </span>สมนุโมทึสูติ ฯ  
+<span class="LineNumber"> 009 </span>                 อนงฺคณสุตฺตํ นิฏฺ€ิตํ ปฺจมํ ฯ  
+<span class="LineNumber"> 010 </span>                      ____________  

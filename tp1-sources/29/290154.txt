@@ -1,0 +1,21 @@
+<span class="LineNumber"> 001 </span>                 ทิฏฺ€าปิ สุตาปิ เต ชนา  
+<span class="LineNumber"> 002 </span>                 เยสํ นามมิทํ ปวุจฺจติ  
+<span class="LineNumber"> 003 </span>                 นามเมวาวสิสฺสติ  
+<span class="LineNumber"> 004 </span>                 อกฺเขยฺยํ เปตสฺส ชนฺตุโนติ ฯ  
+<span class="LineNumber"> 005 </span>           [๒๐๕] โสกปริเทวมจฺฉรํ  
+<span class="LineNumber"> 006 </span>                 น ชหนฺติ คิทฺธา มมายิเต  
+<span class="LineNumber"> 007 </span>                 ตสฺมา มุนโย ปริคฺคหํ  
+<span class="LineNumber"> 008 </span>                 หิตฺวา อจรึสุ เขมทสฺสิโน ฯ  
+<span class="LineNumber"> 009 </span>     [๒๐๖]  โสกปริเทวมจฺฉรํ  น  ชหนฺติ  คิทฺธา  มมายิเตติ  โสโกติ  
+<span class="LineNumber"> 010 </span>าติพฺยสเนน   วา   ผุฏฺ€สฺส  โภคพฺยสเนน  วา  ผุฏฺ€สฺส  โรคพฺยสเนน  
+<span class="LineNumber"> 011 </span>วา   ผุฏฺ€สฺส   สีลพฺยสเนน   วา  ผุฏฺ€สฺส  ทิฏฺ€ิพฺยสเนน  วา  ผุฏฺ€สฺส  
+<span class="LineNumber"> 012 </span>อฺตรฺตเรน    วา    พฺยสเนน    สมนฺนาคตสฺส    อฺตรฺตเรน  
+<span class="LineNumber"> 013 </span>วา   ทุกฺขธมฺเมน   ผุฏฺ€สฺส   โสโก   โสจนา   โสจิตตฺตํ  อนฺโตโสโก  
+
+<span class="LineNumber"> 014 </span>อนฺโตปริโสโก    อนฺโตฑาโห    อนฺโตปริฑาโห   เจตโส   ปริชฺฌายนา  
+<span class="LineNumber"> 015 </span>โทมนสฺสํ   โสกสลฺลํ  ฯ  ปริเทโวติ  าติพฺยสเนน  วา  ผุฏฺ€สฺส  ฯเปฯ  
+<span class="LineNumber"> 016 </span>ทิฏฺ€ิพฺยสเนน    วา    ผุฏฺ€สฺส    อฺตรฺตเรน    วา    พฺยสเนน  
+<span class="LineNumber"> 017 </span>สมนฺนาคตสฺส   อฺตรฺตเรน   วา   ทุกฺขธมฺเมน   ผุฏฺ€สฺส  อาเทโว  
+<span class="LineNumber"> 018 </span>ปริเทโว   อาเทวนา   ปริเทวนา   อาเทวิตตฺตํ   ปริเทวิตตฺตํ   วาจา  
+<span class="LineNumber"> 019 </span>ปลาโป    วิปฺปลาโป    ลาลปฺโป   ลาลปฺปายนา   ลาลปฺปายิตตฺตํ   ฯ  
+<span class="LineNumber"> 020 </span>มจฺฉริยนฺติ   ปฺจ   มจฺฉริยานิ   อาวาสมจฺฉริยํ  กุลมจฺฉริยํ  ลาภมจฺฉริยํ  

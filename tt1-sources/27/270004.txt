@@ -1,0 +1,7 @@
+<span class="LineNumber"> 001 </span>		   รวมชาดกที่มีในวรรคนี้ คือ          
+<span class="LineNumber"> 002 </span>          ๑. อปัณณกชาดก     ๒. วัณณุปถชาดก
+<span class="LineNumber"> 003 </span>          ๓. เสรีววาณิชชาดก  ๔. จุลลกเศรษฐีชาดก         
+<span class="LineNumber"> 004 </span>          ๕. ตัณฑุลนาฬิชาดก   ๖. เทวธรรมชาดก            
+<span class="LineNumber"> 005 </span>          ๗. กัฏฐหาริชาดก    ๘. คามนิชาดก 
+<span class="LineNumber"> 006 </span>          ๙. มฆเทวชาดก    ๑๐. สุขวิหาริชาดก.            
+<span class="LineNumber"> 007 </span>		     _________________ 

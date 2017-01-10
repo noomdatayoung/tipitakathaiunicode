@@ -1,0 +1,14 @@
+<span class="LineNumber"> 001 </span>อุตฺตราย  เจปิ  ทิสาย  ฯ  ทกฺขิณาย  เจปิ  ทิสาย  อาคจฺเฉยฺย  สมโณ  
+<span class="LineNumber"> 002 </span>วา  พฺราหฺมโณ  วา  วาทตฺถิโก  วาทคเวสี  วาทมสฺส อาโรเปสฺสามีติ ฯ  
+<span class="LineNumber"> 003 </span>ตํ    วต    สหธมฺเมน    สงฺกมฺเปสฺสติ    วา   สมฺปกมฺเปสฺสติ   วา  
+<span class="LineNumber"> 004 </span>สมฺปจาเลสฺสติ  วาติ  เนตํ  €านํ  วิชฺชติ  ฯ  ตํ กิสฺส เหตุ ฯ สุทิฏฺ€ตฺตา  
+<span class="LineNumber"> 005 </span>ภิกฺขเว    จตุนฺนํ   อริยสจฺจานํ   ฯ   กตเมสํ   จตุนฺนํ   ฯ   ทุกฺขสฺส  
+<span class="LineNumber"> 006 </span>อริยสจฺจสฺส   ฯเปฯ   ทุกฺขนิโรธคามินีปฏิปทาย   อริยสจฺจสฺส  ฯ  ตสฺมา  
+<span class="LineNumber"> 007 </span>ติห  ภิกฺขเว  อิทํ  ทุกฺขนฺติ  โยโค  กรณีโย  ฯเปฯ  อยํ ทุกฺขนิโรธคามินี  
+<span class="LineNumber"> 008 </span>ปฏิปทาติ โยโค กรณีโยติ ฯ  
+<span class="LineNumber"> 009 </span>		    สีสปาปณฺณวคฺโค ๑ จตุตฺโถ ฯ  
+<span class="LineNumber"> 010 </span>			   ตสฺสุทฺทานํ  
+<span class="LineNumber"> 011 </span>	  สีสปา ขทิโร ทณฺโฑ         เจลา สตฺติสเตน จ  
+<span class="LineNumber"> 012 </span>	  ปาณา สุริยูปมา เทฺวธา      อินฺทขีโล จ วาทินาติ ๒ ฯ  
+<span class="LineNumber"> 013 </span>		  ____________________________
+<span class="LineNumber"> 014 </span>#๑ สีสปาวนวคฺโคติ วา ปาโ€ ฯ ๒ ม. ยุ. วาทิโนติ ฯ  

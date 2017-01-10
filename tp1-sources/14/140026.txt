@@ -1,0 +1,10 @@
+<span class="LineNumber"> 001 </span>สตฺตา   อภิชาติเหตุ   สุขทุกฺขํ   ปฏิสํเวเทนฺติ   ปาสํโส   ตถาคโต  ฯ  
+<span class="LineNumber"> 002 </span>สเจ    ภิกฺขเว   สตฺตา   ทิฏฺ€ธมฺมูปกฺกมเหตุ   สุขทุกฺขํ   ปฏิสํเวเทนฺติ  
+<span class="LineNumber"> 003 </span>ปาสํโส   ตถาคโต   โน   เจ   สตฺตา   ทิฏฺ€ธมฺมูปกฺกมเหตุ   สุขทุกฺขํ  
+<span class="LineNumber"> 004 </span>ปฏิสํเวเทนฺติ   ปาสํโส   ตถาคโต   ฯ   เอวํวาที   ภิกฺขเว  ตถาคโต  
+<span class="LineNumber"> 005 </span>เอวํวาทึ    ภิกฺขเว   ตถาคตํ   อิเม   ทส   สหธมฺมิกา   ปาสํสฏฺ€านํ  
+<span class="LineNumber"> 006 </span>อาคจฺฉนฺตีติ ฯ  
+<span class="LineNumber"> 007 </span>     อิทมโวจ    ภควา    อตฺตมนา   เต   ภิกฺขู   ภควโต   ภาสิตํ  
+<span class="LineNumber"> 008 </span>อภินนฺทุนฺติ ฯ  
+<span class="LineNumber"> 009 </span>                  เทวทหสุตฺตํ นิฏฺ€ิตํ ป€มํ ฯ  
+<span class="LineNumber"> 010 </span>                      ___________  

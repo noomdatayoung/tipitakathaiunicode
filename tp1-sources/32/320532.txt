@@ -1,0 +1,8 @@
+<span class="LineNumber"> 001 </span>		อถ วคฺคุทฺทานํ  
+<span class="LineNumber"> 002 </span>	ปทุมารกฺขโท เจว         อุมฺมา คนฺโธทเกน จ  
+<span class="LineNumber"> 003 </span>	เอกปฺปทสทฺทสฺี          มนฺทารํ โพธิวนฺทโก ฯ  
+<span class="LineNumber"> 004 </span>	อมฺพฏฺจ ปิลินฺที จ         คาถาโย คณิตาปิจ  
+<span class="LineNumber"> 005 </span>	จตุสตฺตติ คาถาโย         เอกาทสสตานิ จ ฯ  
+<span class="LineNumber"> 006 </span>		ปทุมวคฺคทสกํ ฯ  
+<span class="LineNumber"> 007 </span>		จตุตฺถํ สตกํ สมตฺตํ ฯ  
+<span class="LineNumber"> 008 </span>		______________  

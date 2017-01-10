@@ -1,0 +1,8 @@
+<span class="LineNumber"> 001 </span>	รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 002 </span>	๑. จิตตฌายีสูตร 			๒. อุโภอัตถสูตร 
+<span class="LineNumber"> 003 </span>	๓. บุญญสูตร 			๔. เวปุลลปัพพตสูตร
+<span class="LineNumber"> 004 </span>	๕. สัมปชานมุสาวาทสูตร 	๖. ทานสูตร
+<span class="LineNumber"> 005 </span>	๗. เมตตาภาวสูตร
+<span class="LineNumber"> 006 </span>	ในธรรมหมวดหนึ่งมีพระสูตรรวม ๒๗ สูตร คือ พระสูตรเหล่านี้๗ สูตร และ
+<span class="LineNumber"> 007 </span>พระสูตรข้างต้น ๒๐ สูตร ฉะนี้แล ฯ
+<span class="LineNumber"> 008 </span>	จบเอกนิบาต ฯ

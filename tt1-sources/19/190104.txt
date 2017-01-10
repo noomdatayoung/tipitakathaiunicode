@@ -1,0 +1,10 @@
+<span class="LineNumber"> 001 </span>		         จบ ปัพพตวรรคที่ ๑           
+<span class="LineNumber"> 002 </span>		          ------------               
+<span class="LineNumber"> 003 </span>		     รวมพระสูตรที่มีในวรรคนี้ คือ    
+
+<span class="LineNumber"> 004 </span>     ๑. หิมวันตสูตร    ๒. กายสูตร 
+<span class="LineNumber"> 005 </span> ๓. สีลสูตร           ๔. วัตตสูตร 
+<span class="LineNumber"> 006 </span> ๕. ภิกขุสูตร          ๖. กุณฑลิยสูตร              
+<span class="LineNumber"> 007 </span> ๗. กูฏสูตร           ๘. อุปวาณสูตร                
+<span class="LineNumber"> 008 </span> ๙. อุปาทสูตรที่ ๑     ๑๐. อุปาทสูตรที่ ๒          
+<span class="LineNumber"> 009 </span>		         --------------   

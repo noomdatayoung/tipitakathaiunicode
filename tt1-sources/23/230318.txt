@@ -1,0 +1,7 @@
+<span class="LineNumber"> 001 </span>                   รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 002 </span>     	๑. วุฏฐสูตร 		๒. สอุปาทิเสสสูตร 
+<span class="LineNumber"> 003 </span>๓. โกฏฐิตสูตร 	๔.  สมิทธิสูตร
+<span class="LineNumber"> 004 </span> 	๕. คัณฑสูตร 	๖. สัญญาสูตร
+<span class="LineNumber"> 005 </span> 	๗. กุลสูตร 		๘. สัตตสูตร
+<span class="LineNumber"> 006 </span>๙. เทวตาสูตร 		๑๐. เวลามสูตร ฯ
+<span class="LineNumber"> 007 </span>                      ____________

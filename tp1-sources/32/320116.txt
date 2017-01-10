@@ -1,0 +1,20 @@
+<span class="LineNumber"> 001 </span>	ปฏิสมฺภิทา จตสฺโส         วิโมกฺขาปิจ อฏฺ€ิเม  
+<span class="LineNumber"> 002 </span>	ฉฬภิฺา สจฺฉิกตา         กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 003 </span>	อิตฺถํ สุทํ อายสฺมา โขมทายโก เถโร อิมา คาถาโย  
+<span class="LineNumber"> 004 </span>อภาสิตฺถาติ ฯ  
+<span class="LineNumber"> 005 </span>		โขมทายกตฺเถรสฺส อปทานํ สมตฺตํ ฯ  
+<span class="LineNumber"> 006 </span>		อุทฺทานํ  
+<span class="LineNumber"> 007 </span>	สุภูติ อุปวาโณ จ          สรโณ สีลคาหโก  
+<span class="LineNumber"> 008 </span>	อนฺนสํสาวโก ธูโป         ปุฬิโน อุตฺติเยน จ ฯ  
+<span class="LineNumber"> 009 </span>	อฺชลี โขมทายี จ         ทเสว ตติเย คเณ  
+<span class="LineNumber"> 010 </span>	ปฺจาสีติสตํ วุตฺตา         คาถาโย สพฺพปิณฺฑิตา ฯ  
+<span class="LineNumber"> 011 </span>		สุภูติวคฺโค ตติโย ฯ
+	
+<span class="LineNumber"> 012 </span>		จตุตฺถํ ภาณวารํ ฯ  
+<span class="LineNumber"> 013 </span>		______________  
+<span class="LineNumber"> 014 </span>		จตุตฺโถ กุณฺฑธานวคฺโค  
+<span class="LineNumber"> 015 </span>		ป€มํ กุณฺฑธานตฺเถราปทานํ (๓๑)  
+<span class="LineNumber"> 016 </span>	[๓๓] สตฺตาหํ ปฏิสลฺลีนํ          สยมฺภุํ อคฺคปุคฺคลํ  
+<span class="LineNumber"> 017 </span>	ปสนฺนจิตฺโต สุมโน         พุทฺธเสฏฺ€ํ อุปฏฺ€หึ ฯ  
+<span class="LineNumber"> 018 </span>	วุฏฺ€ิตํ กาลมฺาย         ปทุมุตฺตรํ มหามุนึ  
+<span class="LineNumber"> 019 </span>	มหนฺตํ กทลิกณฺณึ           คเหตฺวา อุปคฺฉหํ ฯ  

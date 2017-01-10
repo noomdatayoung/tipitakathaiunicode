@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>				   ตสฺสุทฺทานํ  
+<span class="LineNumber"> 002 </span>		  เขมา เถรี อนุราโธ      สารีปุตฺตาติ ๑ โกฏฺ€ิโต  
+<span class="LineNumber"> 003 </span>		  โมคฺคลฺลาโน จ วจฺโฉ จ   กุตุหลสาลานนฺโท  
+<span class="LineNumber"> 004 </span>		  สภิโย เอกาทสมนฺติ ฯ  
+<span class="LineNumber"> 005 </span>			  สฬายตนวคฺคสํยุตฺตํ สมตฺตํ ๒ ฯ  
+<span class="LineNumber"> 006 </span>				   ตสฺสุทฺทานํ  
+<span class="LineNumber"> 007 </span>		  สฬายตนเวทนา          มาตุคาโม ชมฺพุขาทโก  
+<span class="LineNumber"> 008 </span>		  สามณฺฑโก โมคฺคลฺลาโน    จิตฺโต คามณฺยสงฺขตํ ๓  
+<span class="LineNumber"> 009 </span>		  อพฺยากตนฺติ ทส จาติ ๔ ฯ  
+<span class="LineNumber"> 010 </span>				 ______________  
+<span class="LineNumber"> 011 </span>#๑ ม. ยุ. สารีปุตฺโตติ ฯ ๒ ม. สฬายตนวคฺโค จตุตฺโถ ฯ ๓ ม. ยุ. คามณิ  
+<span class="LineNumber"> 012 </span>#สงฺขตํ ฯ  ๔ ม. ยุ. ทสธาติ ฯ  

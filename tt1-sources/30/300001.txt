@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>                         พระสุตตันตปิฎก         
+<span class="LineNumber"> 002 </span>                           	เล่ม ๒๒             
+<span class="LineNumber"> 003 </span>                      ขุททกนิกาย จูฬนิทเทส     
+<span class="LineNumber"> 004 </span>       ขอนอบน้อมแด่พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้าพระองค์นั้น     
+<span class="LineNumber"> 005 </span>                         ปารายนวรรค            
+<span class="LineNumber"> 006 </span>                          วัตถุคาถา            
+<span class="LineNumber"> 007 </span>                เรื่องพราหมณ์พาวรีส่งศิษย์ทูลถามปัญหา  
+<span class="LineNumber"> 008 </span>     [๑] พราหมณ์พาวรี เป็นผู้เรียนจบมนต์ ปรารถนาความเป็นผู้ไม่         
+<span class="LineNumber"> 009 </span>         มีกังวล ออกจากพระนครโกศลอันน่ารื่นรมย์ ไปสู่ทักขิณา-  
+<span class="LineNumber"> 010 </span>         ปถชนบท  
+<span class="LineNumber"> 011 </span>     [๒] พราหมณ์นั้นอยู่ที่ฝั่งแม่น้ำโคธาวารี อันเป็นพรมแดนแว่น        
+<span class="LineNumber"> 012 </span>         แคว้นอัสสกะและแว่นแคว้นมุฬกะต่อกัน เลี้ยงชีวิตอยู่ด้วย        
+<span class="LineNumber"> 013 </span>         การเที่ยวภิกขาและผลไม้.  
+<span class="LineNumber"> 014 </span>     [๓] เมื่อพราหมณ์นั้นเข้าไปอาศัย (อยู่) บ้านได้เป็นหมู่ใหญ่ด้วย    
+<span class="LineNumber"> 015 </span>         ความเจริญอันเกิดแต่บ้านนั้น พราหมณ์นั้นได้บูชามหายัญ          
+<span class="LineNumber"> 016 </span>     [๔] พราหมณ์นั้นบูชามหายัญแล้วก็กลับเข้าไปสู่อาศรม เมื่อ           
+<span class="LineNumber"> 017 </span>         พราหมณ์นั้นกลับเข้าไปแล้ว พราหมณ์อื่นก็มา.  

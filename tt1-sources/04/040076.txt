@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>		๑. หาความรักใคร่อย่างยิ่งในอุปัชฌายะมิได้  
+<span class="LineNumber"> 002 </span>		๒. หาความเลื่อมใสอย่างยิ่งมิได้  
+<span class="LineNumber"> 003 </span>		๓. หาความละอายอย่างยิ่งมิได้  
+<span class="LineNumber"> 004 </span>		๔. หาความเคารพอย่างยิ่งมิได้ และ  
+<span class="LineNumber"> 005 </span>		๕. หาความหวังดีต่ออย่างยิ่งมิได้  
+<span class="LineNumber"> 006 </span>	ดูกรภิกษุทั้งหลาย สัทธิวิหาริกผู้ประกอบด้วยองค์ ๕ นี้แล อุปัชฌายะ เมื่อไม่ประณาม  
+<span class="LineNumber"> 007 </span>มีโทษ เมื่อประณาม ไม่มีโทษ.  
+<span class="LineNumber"> 008 </span>	ดูกรภิกษุทั้งหลาย สัทธิวิหาริกผู้ประกอบด้วยองค์ ๕ อุปัชฌายะ เมื่อประณาม มีโทษ  
+<span class="LineNumber"> 009 </span>เมื่อไม่ประณามไม่มีโทษ คือ  
+<span class="LineNumber"> 010 </span>		๑. มีความรักใคร่อย่างยิ่งในอุปัชฌายะ  
+<span class="LineNumber"> 011 </span>		๒. มีความเลื่อมใสอย่างยิ่ง  
+<span class="LineNumber"> 012 </span>		๓. มีความละอายอย่างยิ่ง  
+<span class="LineNumber"> 013 </span>		๔. มีความเคารพอย่างยิ่ง และ  
+<span class="LineNumber"> 014 </span>		๕. มีความหวังดีต่ออย่างยิ่ง  
+<span class="LineNumber"> 015 </span>	ดูกรภิกษุทั้งหลาย สัทธิวิหาริกผู้ประกอบด้วยองค์ ๕ นี้แล อุปัชฌายะ เมื่อประณาม  
+<span class="LineNumber"> 016 </span>มีโทษ เมื่อไม่ประณาม ไม่มีโทษ  
+<span class="LineNumber"> 017 </span>				_____________  

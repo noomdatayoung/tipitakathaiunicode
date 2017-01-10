@@ -1,0 +1,7 @@
+<span class="LineNumber"> 001 </span>                   รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 002 </span>     	๑. วิหารสูตรที่ ๑ 		๒. วิหารสูตรที่ ๒ 
+<span class="LineNumber"> 003 </span>๓. นิพพานสูตร 		๔. คาวีสูตร
+<span class="LineNumber"> 004 </span>๕. ฌานสูตร 			๖. อานันทสูตร 
+<span class="LineNumber"> 005 </span>๗. พราหมณสูตร 		๘. เทวสูตร 
+<span class="LineNumber"> 006 </span>๙. นาคสูตร			๑๐. ตปุสสสูตร ฯ
+<span class="LineNumber"> 007 </span>                         ________

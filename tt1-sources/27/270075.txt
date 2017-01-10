@@ -1,0 +1,7 @@
+<span class="LineNumber"> 001 </span>		   รวมชาดกที่มีในวรรคนี้ คือ          
+<span class="LineNumber"> 002 </span>            ๑. รุหกชาดก           ๒. สิริกาฬกัณณิชาดก   
+<span class="LineNumber"> 003 </span>            ๓. จุลลปทุมชาดก        ๔. มณิโจรชาดก        
+<span class="LineNumber"> 004 </span>            ๕. ปัพพตูปัตถรชาดก      ๖. วลาหกัสสชาดก     
+<span class="LineNumber"> 005 </span>            ๗. มิตตามิตตชาดก       ๘. ราธชาดก           
+<span class="LineNumber"> 006 </span>            ๙. คหปติชาดก         ๑๐. สาธุสีลชาดก.       
+<span class="LineNumber"> 007 </span>		     _________________ 

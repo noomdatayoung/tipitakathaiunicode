@@ -1,0 +1,21 @@
+<span class="LineNumber"> 001 </span>                 ตติโย ทุฏฺ€ฏฺ€กสุตฺตนิทฺเทโส  
+<span class="LineNumber"> 002 </span>            [๗๐] วทนฺติ เว ทุฏฺ€มนาปิ เอเก  
+<span class="LineNumber"> 003 </span>                 อฺเปิ ๑ เว สจฺจมนา วทนฺติ  
+<span class="LineNumber"> 004 </span>                 วาทฺจ ชาตํ มุนิ โน อุเปติ  
+<span class="LineNumber"> 005 </span>                 ตสฺมา มุนี นตฺถิ ขิโล กุหิฺจิ ฯ  
+<span class="LineNumber"> 006 </span>     [๗๑]   วทนฺติ  เว  ทุฏฺ€มนาปิ  เอเกติ  เต  ติตฺถิยา  ทุฏฺ€มนา  
+<span class="LineNumber"> 007 </span>ปทุฏฺ€มนา    วิรุทฺธมนา    ปฏิวิรุทฺธมนา    อาหตมนา    ปจฺจาหตมนา  
+
+<span class="LineNumber"> 008 </span>อาฆาฏิตมนา     ปจฺจาฆาฏิตมนา     วทนฺติ    อุปวทนฺติ    ภควนฺตฺจ  
+<span class="LineNumber"> 009 </span>ภิกฺขุสงฺฆฺจ อภูเตนาติ วทนฺติ เว ทุฏฺ€มนาปิ เอเก ฯ  
+<span class="LineNumber"> 010 </span>     [๗๒]  อฺเปิ  ๑  เว  สจฺจมนา  วทนฺตีติ  เย  เตสํ ติตฺถิยานํ  
+<span class="LineNumber"> 011 </span>สทฺทหนฺตา     โอกปฺเปนฺตา    อธิมุจฺจนฺตา    สจฺจมนา    สจฺจสฺิโน  
+<span class="LineNumber"> 012 </span>ภูตมนา   ภูตสฺิโน   ตถมนา   ตถสฺิโน  ยาถาวมนา  ยาถาวสฺิโน  
+<span class="LineNumber"> 013 </span>อวิปรีตมนา     อวิปรีตสฺิโน     วทนฺติ     อุปวทนฺติ     ภควนฺตฺจ  
+<span class="LineNumber"> 014 </span>ภิกฺขุสงฺฆฺจ อภูเตนาติ อฺเปิ ๑ เว สจฺจมนา วทนฺติ ฯ  
+<span class="LineNumber"> 015 </span>     [๗๓]   วาทฺจ   ชาตํ   มุนิ  โน  อุเปตีติ  โส  วาโท  ชาโต  
+<span class="LineNumber"> 016 </span>โหติ   สฺชาโต   นิพฺพตฺโต   อภินิพฺพตฺโต   ปาตุภูโต   ปรโต   โฆโส  
+<span class="LineNumber"> 017 </span>อกฺโกโส    อุปวาโท    ภควโต    จ   ภิกฺขุสงฺฆสฺส   จ   อภูเตนาติ  
+<span class="LineNumber"> 018 </span>วาทฺจ   ชาตํ   ฯ   มุนิ   โน   อุเปตีติ   มุนีติ  โมนํ  วุจฺจติ  าณํ  
+<span class="LineNumber"> 019 </span>ยา    ปฺา    ปชานนา   ฯเปฯ   อโมโห   ธมฺมวิจโย   สมฺมาทิฏฺ€ิ  
+<span class="LineNumber"> 020 </span>#๑ ม. อโตปิ ฯ  

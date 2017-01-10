@@ -1,0 +1,11 @@
+<span class="LineNumber"> 001 </span>		ข้าพเจ้ามีจิตเลื่อมใส ได้ถวายข้าวและน้ำเป็นทานอันไพบูลย์ โดยความ  
+<span class="LineNumber"> 002 </span>		เคารพ ข้าพเจ้ามีวรรณะงามเช่นนี้ เพราะบุญนั้น ฯลฯ และมีรัศมีสว่าง  
+<span class="LineNumber"> 003 </span>		ไสวไปทั่วทุกทิศอย่างนี้ เพราะบุญนั้น.  
+<span class="LineNumber"> 004 </span>		         จบ อุตตรวิมานที่ ๑๐  
+<span class="LineNumber"> 005 </span>		       รวมวิมานที่มีในวรรคนี้ คือ  
+<span class="LineNumber"> 006 </span>		๑. อาคาริยวิมานที่ ๑           ๒. อาคาริยวิมานที่ ๒  
+<span class="LineNumber"> 007 </span>		๓. ผลทายกวิมาน              ๔. อุปัสสยทายกวิมานที่ ๑  
+<span class="LineNumber"> 008 </span>		๕. อุปัสสยทายกวิมานที่ ๒       ๖. ภิกขาทายกวิมาน  
+<span class="LineNumber"> 009 </span>		๗. ยวปาลกวิมาน              ๘. กุณฑลีวิมานที่ ๑  
+<span class="LineNumber"> 010 </span>		๙. กุณฑลีวิมานที่ ๒            ๑๐. อุตตรวิมาน.  
+<span class="LineNumber"> 011 </span>		            จบ วรรคที่ ๖  

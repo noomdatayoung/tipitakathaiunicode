@@ -1,0 +1,13 @@
+<span class="LineNumber"> 001 </span>     เตน    โข    ปน    สมเยน    อฺตโร    ภิกฺขุ    ภควโต  
+<span class="LineNumber"> 002 </span>อุปสฺสุติ   €ิโต   โหติ   ฯ   อทฺทสา   โข  ภควา  ตํ  ภิกฺขุํ  อุปสฺสุตึ  
+<span class="LineNumber"> 003 </span>€ิตํ   ทิสฺวาน   ตํ   ภิกฺขุํ  เอตทโวจ  อสฺโสสิ  [๑]  ตฺวํ  ภิกฺขุ  อิมํ  
+<span class="LineNumber"> 004 </span>ธมฺมปริยายนฺติ   ฯ   เอวํ   ภนฺเต   ฯ   อุคฺคณฺหาหิ   ตฺวํ  ภิกฺขุ  อิมํ  
+<span class="LineNumber"> 005 </span>ธมฺมปริยายํ    ปริยาปุณาหิ   ตฺวํ   ภิกฺขุ   อิมํ   ธมฺมปริยายํ   ธาเรหิ  
+<span class="LineNumber"> 006 </span>ตฺวํ    ภิกฺขุ   อิมํ   ธมฺมปริยายํ   อตฺถสฺหิโตยํ   ภิกฺขุ   ธมฺมปริยาโย  
+<span class="LineNumber"> 007 </span>อาทิพฺรหฺมจริยโกติ ฯ ทสมํ ฯ  
+<span class="LineNumber"> 008 </span>                  โยคกฺเขมิวคฺโค ป€โม ฯ  
+<span class="LineNumber"> 009 </span>                        ตสฺสุทฺทานํ  
+<span class="LineNumber"> 010 </span>         โยคกฺเขมิ อุปาทาย       ทุกฺขโลโก จ เสยฺโย จ  
+<span class="LineNumber"> 011 </span>         สฺโชนํ อุปาทานํ        เทฺวปริชานํ ๒ อุปสฺสูตีติ ฯ  
+<span class="LineNumber"> 012 </span>                     __________________  
+<span class="LineNumber"> 013 </span>#๑ ม. โน ฯ     ๒ ยุ. เทฺวปชานํ ฯ  

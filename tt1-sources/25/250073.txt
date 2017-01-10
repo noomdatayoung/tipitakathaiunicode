@@ -1,0 +1,6 @@
+<span class="LineNumber"> 001 </span>	รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 002 </span>	๑. มุจจลินทสูตร 		๒. ราชสูตร 
+<span class="LineNumber"> 003 </span>	๓. ทัณฑสูตร 		๔. สักการสูตร
+<span class="LineNumber"> 004 </span>	๕. อุปาสกสูตร 		๖. คัพภินีสูตร 
+<span class="LineNumber"> 005 </span>	๗. เอกปุตตสูตร 		๘. สุปปวาสาสูตร
+<span class="LineNumber"> 006 </span>	๙. วิสาขาสูตร 		๑๐. กาฬิโคธาภัททิยสูตร ฯ

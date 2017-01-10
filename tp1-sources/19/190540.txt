@@ -1,0 +1,13 @@
+<span class="LineNumber"> 001 </span>อนฺถเมตํ  ฯ  อยํ  ทุกฺขสมุทโยติ  ตถเมตํ  อวิตถเมตํ  อนฺถเมตํ  ฯ  
+<span class="LineNumber"> 002 </span>เมตํ   ฯ   อยํ   ทุกฺขนิโรโธติ  ฯเปฯ  อยํ  ทุกฺขนิโรธคามินี  ปฏิปทาติ  
+<span class="LineNumber"> 003 </span>ตถเมตํ   อวิตถเมตํ   อนฺถเมตํ   ฯ   อิมานิ  โข  ภิกฺขเว  จตฺตาริ  
+<span class="LineNumber"> 004 </span>ตถานิ   อวิตถานิ   อนฺถานิ   ฯ  ตสฺมา  ติห  ภิกฺขเว  อิทํ  ทุกฺขนฺติ  
+<span class="LineNumber"> 005 </span>โยโค    กรณีโย   ฯเปฯ   อยํ   ทุกฺขนิโรธคามินี   ปฏิปทาติ   โยโค  
+<span class="LineNumber"> 006 </span>กรณีโยติ ฯ  
+<span class="LineNumber"> 007 </span>		   ธมฺมจกฺกปฺปวตฺตนวคฺโค ทุติโย ฯ  
+<span class="LineNumber"> 008 </span>			   ตสฺสุทฺทานํ  
+<span class="LineNumber"> 009 </span>	ตถาคเตน เทฺว วุตฺตา ๑         ขนฺธา อายตเนน จ  
+<span class="LineNumber"> 010 </span>	ธารณาย ๒ จ เทฺว วุตฺตา อวิชฺชา  วิชฺชา สงฺกาสนา ตเถน จาติ ๓ ฯ  
+<span class="LineNumber"> 011 </span>			  _____________
+<span class="LineNumber"> 012 </span>#๑ ม. ธมฺมจกฺกํ ตถาคตํ ฯ ๒ ม. ธารณา จ เทฺว อวิชฺชา ฯ ยุ. ธารณาย เทฺว ... ฯ  
+<span class="LineNumber"> 013 </span>#๓ ม. ... ตถาติ ฯ  

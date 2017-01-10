@@ -1,0 +1,13 @@
+<span class="LineNumber"> 001 </span>วสีภาวตาปฺา     อาสวานํ    ขเย    าณํ    ปริฺฏฺเ€    ปฺา    
+<span class="LineNumber"> 002 </span>ทุกฺเข    าณํ    ปหานฏฺเ€   ปฺา   สมุทเย   าณํ   สจฺฉิกิริยฏฺเ€   
+<span class="LineNumber"> 003 </span>ปฺา   นิโรเธ   าณํ   ภาวนฏฺเ€   ปฺา   มคฺเค   าณํ   ทุกฺเข   
+<span class="LineNumber"> 004 </span>าณํ    ทุกฺขสมุทเย    าณํ   ทุกฺขนิโรเธ   าณํ   ทุกฺขนิโรธคามินิยา   
+<span class="LineNumber"> 005 </span>ปฏิปทาย      าณํ      อตฺถปฏิสมฺภิเท      าณํ     ธมฺมปฏิสมฺภิเท   
+<span class="LineNumber"> 006 </span>าณํ      นิรุตฺติปฏิสมฺภิเท      าณํ      ปฏิภาณปฏิสมฺภิเท     าณํ   
+<span class="LineNumber"> 007 </span>อินฺทฺริยปโรปริยตฺเต      าณํ     สตฺตานํ     อาสยานุสเย     าณํ   
+<span class="LineNumber"> 008 </span>ยมกปาฏิหิเร   ๑   าณํ   มหากรุณาสมาปตฺติยา   าณํ  สพฺพฺุตาณํ   
+<span class="LineNumber"> 009 </span>อนาวรณาณํ   อิมานิ   เตสตฺตติ   าณานิ   อิเมสํ   เตสตฺตติยา  ๒    
+<span class="LineNumber"> 010 </span>าณานํ     สตฺตสฏฺ€ี    าณานิ    สาวกสาธารณานิ    ฉ    าณานิ     
+<span class="LineNumber"> 011 </span>อสาธารณานิ สาวเกหีติ ฯ    
+<span class="LineNumber"> 012 </span>                     มาติกา นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 013 </span>#๑ ม. ยุ. ยมกปาฏิหีเร ฯ ๒ ยุ. เตสตฺตตีนํ ฯ   

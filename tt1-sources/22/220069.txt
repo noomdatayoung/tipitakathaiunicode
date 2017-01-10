@@ -1,0 +1,15 @@
+<span class="LineNumber"> 001 </span>		        ๑๐. ทุลลภสูตรที่ ๒
+<span class="LineNumber"> 002 </span> 	[๖๐] ดูกรภิกษุทั้งหลาย ภิกษุบวชเมื่อแก่ ผู้ประกอบด้วยธรรม ๕  ประการ หาได้
+<span class="LineNumber"> 003 </span>ยาก ธรรม ๕ ประการเป็นไฉน ดูกรภิกษุทั้งหลาย ภิกษุบวชเมื่อแก่ เป็นผู้ว่าง่าย หาได้ยาก
+<span class="LineNumber"> 004 </span> เป็นผู้คงแก่เรียน หาได้ยาก เป็นผู้รับโอวาทด้วยความเคารพ หาได้ยาก เป็นธรรมกถึก หาได้
+<span class="LineNumber"> 005 </span>ยาก เป็นวินัยธร หาได้ยาก ดูกรภิกษุทั้งหลาย ภิกษุบวชเมื่อแก่ ผู้ประกอบด้วยธรรม ๕ 
+<span class="LineNumber"> 006 </span>ประการนี้แล หาได้ยาก ฯ
+<span class="LineNumber"> 007 </span>		          จบสูตรที่ ๑๐
+<span class="LineNumber"> 008 </span>		        จบนิวรณวรรคที่ ๑
+<span class="LineNumber"> 009 </span>		    รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 010 </span> 	 ๑. อาวรณสูตร 		๒. ราสิสูตร 
+<span class="LineNumber"> 011 </span>๓. อังคสูตร 			๔. สมยสูตร
+<span class="LineNumber"> 012 </span>๕. มาตุปุตติกสูตร 		๖. อุปัชฌายสูตร 
+<span class="LineNumber"> 013 </span>๗. ฐานสูตร 			๘. กุมารลิจฉวิสูตร
+<span class="LineNumber"> 014 </span>๙. ทุลลภสูตรที่ ๑ 		๑๐. ทุลลภสูตรที่ ๒ ฯ
+<span class="LineNumber"> 015 </span>		         __________________

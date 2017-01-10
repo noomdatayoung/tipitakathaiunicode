@@ -1,0 +1,7 @@
+<span class="LineNumber"> 001 </span>รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 002 </span>๑. ทสพลสูตรที่ ๑ 			๒. ทสพลสูตรที่ ๒
+<span class="LineNumber"> 003 </span>๓. อุปนิสสูตร    			๔. อัญญติตถิยสูตร
+<span class="LineNumber"> 004 </span>๕. ภูมิชสูตร 				๖. อุปวาณสูตร 
+<span class="LineNumber"> 005 </span>๗. ปัจจยสูตร				๘. ภิกขุสูตร 
+<span class="LineNumber"> 006 </span>๙. สมณพราหมณสูตรที่ ๑		๑๐. สมณพราหมสูณตรที่ ๒ ฯ
+<span class="LineNumber"> 007 </span>___________

@@ -1,0 +1,14 @@
+<span class="LineNumber"> 001 </span>        โลหภณฺฑํ อนุฺาสิ           €ปยิตฺวา ปหรณึ ฯ   
+<span class="LineNumber"> 002 </span>        €ปยิตฺวาสนฺทึ ปลฺลงฺกํ ๑      ทารุปตฺตฺจ ปาทุกํ   
+<span class="LineNumber"> 003 </span>        สพฺพํ ทารุมยํ ภณฺฑํ           อนุฺาสิ มหามุนิ ฯ#  
+<span class="LineNumber"> 004 </span>        กตกํ กุมฺภการฺจ            €ปยิตฺวา ตถาคโต   
+<span class="LineNumber"> 005 </span>        สพฺพมฺปิ มตฺติกาภณฺฑํ          อนุฺาสิ อนุกมฺปโก ฯ  
+<span class="LineNumber"> 006 </span>        ยสฺส วตฺถุสฺส นิทฺเทโส        ปุริเมน ยทิ สมํ   
+<span class="LineNumber"> 007 </span>        ตมฺปิ สงฺขิตฺตํ อุทฺทาเน        นยโต ตํ วิชานิยา ฯ  
+<span class="LineNumber"> 008 </span>        เอวํ ทสสตา วตฺถู           วินเย ขุทฺทกวตฺถุเก  
+<span class="LineNumber"> 009 </span>        สทฺธมฺมฏฺ€ิติโก ๒ เจว       เปสลานฺจนุคฺคโห   
+<span class="LineNumber"> 010 </span>        สุสิกฺขิโต วินยธโร           หิตจิตฺโต สุเปสโล  
+<span class="LineNumber"> 011 </span>        ปทีปกรโณ ธีโร             ปูชารโห พหุสฺสุโตติ ฯ   
+<span class="LineNumber"> 012 </span>				ขุทฺทกวตฺถุกฺขนฺธโก นิฏฺ€ิโต   
+<span class="LineNumber"> 013 </span>					______________  
+<span class="LineNumber"> 014 </span>#๑ ม. ยุ. €ปยิตฺวาสนฺทิปลฺลงฺกํ ฯ ๒ ยุ. สทฺธมฺม€ิฏฺติกา ฯ   

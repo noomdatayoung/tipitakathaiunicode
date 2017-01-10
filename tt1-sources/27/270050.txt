@@ -1,0 +1,11 @@
+<span class="LineNumber"> 001 </span>		 รวมวรรคที่มีในเอกกนิบาตนี้ คือ       
+<span class="LineNumber"> 002 </span>            ๑. อปัณณกวรรค          ๒. สีลวรรค           
+<span class="LineNumber"> 003 </span>            ๓. กุรุงควรรค           ๔. กุลาวกวรรค       
+<span class="LineNumber"> 004 </span>            ๕. อัตถกามวรรค         ๖. อาสิงสวรรค        
+<span class="LineNumber"> 005 </span>            ๗. อิตถีวรรค            ๘. วรุณวรรค         
+<span class="LineNumber"> 006 </span>            ๙. อปายิมหวรรค        ๑๐. ลิตตวรรค          
+<span class="LineNumber"> 007 </span>           ๑๑. ปโรสตวรรค         ๑๒. หังสิวรรค          
+<span class="LineNumber"> 008 </span>           ๑๓. กุสนาฬิวรรค         ๑๔. อสัมปทานวรรค     
+<span class="LineNumber"> 009 </span>           ๑๕. กกัณฏกวรรค.
+<span class="LineNumber"> 010 </span>		     จบ เอกกนิบาตชาดก 
+<span class="LineNumber"> 011 </span>		     _________________ 

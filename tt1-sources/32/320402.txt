@@ -1,0 +1,10 @@
+<span class="LineNumber"> 001 </span>                  และรวมวรรคได้ ๑๐ วรรค คือ             
+<span class="LineNumber"> 002 </span>           ๑. ปทุมเกสริยวรรค           ๒. อารักขทายกวรรค  
+<span class="LineNumber"> 003 </span>           ๓. อุมมาปุปผิยวรรค           ๔. คันโธทกวรรค  
+<span class="LineNumber"> 004 </span>           ๕. เอกปทุมวรรค           ๖. สัททสัญญิกวรรค   
+<span class="LineNumber"> 005 </span>           ๗. มันทารวปุปผิยวรรค             ๘. โพธิวันทกวรรค  
+<span class="LineNumber"> 006 </span>           ๙. อัมพฏผลวรรค           ๑๐. ปิลินทวรรค      
+<span class="LineNumber"> 007 </span>                และท่านคำนวณคาถาได้ ๑๑๗๕ คาถา           
+<span class="LineNumber"> 008 </span>                   จบหมวด ๑๐ แห่งปทุมวรรค.              
+<span class="LineNumber"> 009 </span>                      จบ หมวด ๑๐๐ ที่ ๔.                
+<span class="LineNumber"> 010 </span>                         ---------- 

@@ -1,0 +1,10 @@
+<span class="LineNumber"> 001 </span>          แก่เขาทุกเมื่อ ทั้งกลางวันและกลางคืน เขาทำกรรมอัน
+<span class="LineNumber"> 002 </span>          เจริญแล้ว ย่อมเขาถึงฐานะคือสวรรค์ ฯ
+<span class="LineNumber"> 003 </span>                             จบสูตรที่ ๑๐
+<span class="LineNumber"> 004 </span>                         จบปุญญาภิสันทวรรคที่ ๑
+<span class="LineNumber"> 005 </span>                            __________________
+<span class="LineNumber"> 006 </span>                       รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 007 </span>     ๑. ปุญญาภิสันทสูตรที่ ๑ ๒. ปุญญาภิสันทสูตรที่ ๒ ๓. สังวาสสูตรที่ ๑ ๔. สังวาส
+<span class="LineNumber"> 008 </span>สูตรที่ ๒ ๕. สมชีวิสูตรที่ ๑ ๖. สมชีวิสูตรที่ ๒๗. สุปปวาสาสูตร ๘. สุทัตตสูตร ๙. โภชน
+<span class="LineNumber"> 009 </span>สูตร ๑๐. คิหิสามีจิสูตร ฯ
+<span class="LineNumber"> 010 </span>                            ________

@@ -1,0 +1,10 @@
+<span class="LineNumber"> 001 </span>     [๑๕๔]   สจฺฉิกาตพฺพฺจ   โว   ภิกฺขเว   ธมฺมํ   เทสิสฺสามิ  น  
+<span class="LineNumber"> 002 </span>สจฺฉิกาตพฺพฺจ    ตํ    สุณาถ   สาธุกํ   มนสิกโรถ   ภาสิสฺสามีติ   ฯ  
+<span class="LineNumber"> 003 </span>เอวํ  ภนฺเตติ  โข  เต  ภิกฺขู  ภควโต  ปจฺจสฺโสสุํ  ฯ ภควา เอตทโวจ  
+<span class="LineNumber"> 004 </span>กตโม   จ   ภิกฺขเว   น   สจฺฉิกาตพฺโพ   ธมฺโม   มิจฺฉาทิฏฺ€ิ  ฯเปฯ  
+<span class="LineNumber"> 005 </span>มิจฺฉาวิมุตฺติ   อยํ  วุจฺจติ  ภิกฺขเว  น  สจฺฉิกาตพฺโพ  ธมฺโม  ฯ  กตโม  
+<span class="LineNumber"> 006 </span>จ   ภิกฺขเว   สจฺฉิกาตพฺโพ   ธมฺโม   สมฺมาทิฏฺ€ิ   ฯเปฯ  สมฺมาวิมุตฺติ  
+<span class="LineNumber"> 007 </span>อยํ วุจฺจติ ภิกฺขเว สจฺฉิกาตพฺโพ ธมฺโมติ ฯ  
+<span class="LineNumber"> 008 </span>                  อริยมคฺควคฺโค ปฺจโม ฯ  
+<span class="LineNumber"> 009 </span>                   ตติยปณฺณาสโก ตติโย ฯ  
+<span class="LineNumber"> 010 </span>                     ____________  

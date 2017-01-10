@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>			อาทิตฺตวคฺโค ปฺจโม  
+<span class="LineNumber"> 002 </span>			__________
+<span class="LineNumber"> 003 </span>			ป€มํ อาทิตฺตสุตฺตํ  
+<span class="LineNumber"> 004 </span>	[๑๓๕]   เอวมฺเม   สุตํ   เอกํ  สมยํ  ภควา  สาวตฺถิยํ  วิหรติ  
+<span class="LineNumber"> 005 </span>เชตวเน   อนาถปิณฺฑิกสฺส   อาราเม   ฯ  อถ  โข  อฺตรา  เทวตา  
+<span class="LineNumber"> 006 </span>อภิกฺกนฺตาย     รตฺติยา     อภิกฺกนฺตวณฺณา     เกวลกปฺปํ     เชตวนํ  
+<span class="LineNumber"> 007 </span>โอภาเสตฺวา    เยน    ภควา   เตนุปสงฺกมิ   อุปสงฺกมิตฺวา   ภควนฺตํ  
+<span class="LineNumber"> 008 </span>อภิวาเทตฺวา เอกมนฺตํ อฏฺ€าสิ ฯ  
+<span class="LineNumber"> 009 </span>	[๑๓๖]   เอกมนฺตํ   €ิตา   โข  สา  เทวตา  ภควโต  สนฺติเก  
+<span class="LineNumber"> 010 </span>อิมา คาถาโย อภาสิ  
+<span class="LineNumber"> 011 </span>		อาทิตฺตสฺมึ อคารสฺมึ        ยํ นีหรติ ภาชนํ  
+<span class="LineNumber"> 012 </span>		ตํ ตสฺส โหติ อตฺถาย       โน จ ยํ ตตฺถ ฑยฺหติ  
+<span class="LineNumber"> 013 </span>		เอวมาทิตฺตโก โลโก ๑    ชราย มรเณน จ  
+<span class="LineNumber"> 014 </span>		นีหเรเถว ทาเนน         ทินฺนํ โหติ สุนิพฺภตํ  
+<span class="LineNumber"> 015 </span>		ทินฺนํ สุขผลํ โหติ          นาทินฺนํ โหติ ตํ ตถา  
+<span class="LineNumber"> 016 </span>		โจรา หรนฺติ ราชาโน      อคฺคิ ฑยฺหติ นสฺสติ  
+<span class="LineNumber"> 017 </span>#๑ สี. ยุ. เอวมาทีปิโต โลโก ฯ เอวมาทิตฺตเก โลเกติปิ ปาเ€น ปน ภวิตพฺพํ ฯ  

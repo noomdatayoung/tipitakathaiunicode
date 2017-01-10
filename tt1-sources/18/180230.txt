@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>ผัสสะเป็นมูล มีผัสสะเป็นเหตุ มีผัสสะเป็นปัจจัย เวทนาอันเกิดแต่ผัสสะ เกิดขึ้นเพราะอาศัยผัสสะที่เกิด
+<span class="LineNumber"> 002 </span>แต่ปัจจัยนั้น ย่อมดับเพราะผัสสะที่เกิดแต่ปัจจัยนั้นดับไป ฯ
+<span class="LineNumber"> 003 </span>จบสูตรที่ ๑๐
+<span class="LineNumber"> 004 </span>จบเวทนาสังยุตต์ ปฐมกสคาถวรรค
+<span class="LineNumber"> 005 </span>__________________
+<span class="LineNumber"> 006 </span>รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 007 </span>๑. สมาธิสูตร 		๒. สุขสูตร
+<span class="LineNumber"> 008 </span>๓. ปหานสูตร 		๔. ปาตาลสูตร
+<span class="LineNumber"> 009 </span>๕. ทัฏฐัพพสูตร 		๖. สัลลัตถสูตร
+<span class="LineNumber"> 010 </span>๗. เคลัญญสูตรที่ ๑ 		๘. เคลัญญสูตรที่ ๒
+<span class="LineNumber"> 011 </span>๙. อนิจจสูตร 		๑๐. ผัสสมูลกสูตร ฯ
+<span class="LineNumber"> 012 </span>___________________

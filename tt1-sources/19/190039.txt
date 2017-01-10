@@ -1,0 +1,9 @@
+<span class="LineNumber"> 001 </span>		    รวมพระสูตรที่มีในเปยยาลนี้ คือ   
+<span class="LineNumber"> 002 </span> ๑. กัลยาณมิตตสูตรที่ ๑ ๒. สีลสัมปทาสูตรที่ ๑      
+<span class="LineNumber"> 003 </span> ๓. ฉันทสัมปทาสูตรที่ ๑ ๔. อัตตสัมปทาสูตรที่ ๑     
+<span class="LineNumber"> 004 </span> ๕. ทิฏฐิสัมปทาสูตรที่ ๑ ๖. อัปปมาทสัมปทาสูตรที่ ๑ 
+<span class="LineNumber"> 005 </span> ๗. โยนิโสมนสิการสัมปทาสูตรที่ ๑          ๘. กัลยาณมิตตสูตรที่ ๒    
+<span class="LineNumber"> 006 </span> ๙. สีลสัมปทาสูตรที่ ๒ ๑๐. ฉันทสัมปทาสูตรที่ ๒     
+<span class="LineNumber"> 007 </span> ๑๑. อัตตสัมปทาสูตรที่ ๒๑๒. ทิฏฐิสัมปทาสูตรที่ ๒   
+<span class="LineNumber"> 008 </span> ๑๓. อัปปมาทสัมปทาสูตรที่ ๒              ๑๔. โยนิโสมนสิการสัมปทาสูตรที่ ๒            
+<span class="LineNumber"> 009 </span>		          ------------  

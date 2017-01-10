@@ -1,0 +1,7 @@
+<span class="LineNumber"> 001 </span>		      รวมพระสูตรที่มีในสังยุตนี้ คือ          
+<span class="LineNumber"> 002 </span>          ๑. เทสนาสูตร     ๕๓. สีตวลาหกสูตร 
+<span class="LineNumber"> 003 </span>          ๒. สุจริตสูตร      ๕๔. อุณหวลาหกสูตร             
+<span class="LineNumber"> 004 </span>        ๓-๑๒ สีตวลาหกทานูปการสูตรที่ ๑-๑๐     ๕๕. อัพภวลาหกสูตร           
+<span class="LineNumber"> 005 </span>       ๑๓-๕๒ อุณหวลาหกทานูปการาทิสูตรที่ ๑-๕๐   ๕๖. วาตวลาหกสูตร          
+<span class="LineNumber"> 006 </span>		         ๕๗. วัสสวลาหกสูตร.    
+<span class="LineNumber"> 007 </span>		        -------------------------------------------

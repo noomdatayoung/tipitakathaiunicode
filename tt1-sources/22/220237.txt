@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>ที่มาตุคามเป็นผู้มักประทุษร้ายมิตร คือ โดยมากมาตุคามมักประพฤตินอกใจ ดูกรภิกษุทั้งหลาย
+<span class="LineNumber"> 002 </span>โทษในมาตุคาม ๕ ประการนี้แล ฯ
+<span class="LineNumber"> 003 </span>		          จบสูตรที่ ๑๐
+<span class="LineNumber"> 004 </span>		       จบทีฆจาริกวรรคที่ ๓
+<span class="LineNumber"> 005 </span>		       __________________
+<span class="LineNumber"> 006 </span>		    รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 007 </span>     	๑. ทีฆจาริกสูตรที่ ๑ 		๒. ทีฆจาริกสูตรที่ ๒ 
+<span class="LineNumber"> 008 </span>๓. อภินิวาสสูตร			๔. มัจฉรสูตร 
+<span class="LineNumber"> 009 </span>๕. กุลุปกสูตรที่ ๑ 			๖. กุลุปกสูตรที่ ๒ 
+<span class="LineNumber"> 010 </span>๗. โภคสูตร				๘. ภัตตสูตร 
+<span class="LineNumber"> 011 </span>๙. สัปปสูตรที่ ๑ 			๑๐. สัปปสูตรที่ ๒ ฯ
+<span class="LineNumber"> 012 </span>		        __________________

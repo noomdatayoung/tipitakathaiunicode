@@ -1,0 +1,26 @@
+<span class="LineNumber"> 001 </span>	  ๑๒. สมฺปยุตฺเตน สงฺคหิตํ  	ธรรมที่สงเคราะห์ได้ ธรรมที่สงเคราะห์ไม่ได้  ด้วย
+<span class="LineNumber"> 002 </span>อสงฺคหิตํ          		ธรรมที่ประกอบได้
+<span class="LineNumber"> 003 </span>	  ๑๓. อสงฺคหิเตน สมฺปยุตฺตํ 	ธรรมที่ประกอบได้ ธรรมที่สงเคราะห์ไม่ได้   ด้วย
+<span class="LineNumber"> 004 </span>		 วิปฺปยุตฺตํ          		ธรรมที่สงเคราะห์ไม่ได้
+			
+<span class="LineNumber"> 005 </span>	  ๑๔. วิปฺปยุตฺเตน สงฺคหิตํ  		ธรรมที่สงเคราะห์ได้ ธรรมที่สงเคราะห์ไม่ได้  ด้วย
+<span class="LineNumber"> 006 </span>		 อสงฺคหิตํ          		ธรรมที่ประกอบไม่ได้
+<span class="LineNumber"> 007 </span>			 ๒. อัพภันตรมาติกา ๑๒๕ บท
+<span class="LineNumber"> 008 </span>	  ๑. ปฺจกฺขนฺธา         		ขันธ์ ๕
+<span class="LineNumber"> 009 </span>	  ๒. ทฺวาทสายตนานิ      	อายตนะ ๑๒
+<span class="LineNumber"> 010 </span>	  ๓. อฏฺ€ารส ธาตุโย     		ธาตุ ๑๘
+<span class="LineNumber"> 011 </span>	  ๔. จตฺตาริ สจฺจานิ      		สัจจะ ๔
+<span class="LineNumber"> 012 </span>	  ๕. พาวีสตินฺทฺริยานิ      	อินทรีย์ ๒๒
+<span class="LineNumber"> 013 </span>	  ๖. ปฏิจฺจสมุปฺปาโท      	ปฏิจจสมุปบาท
+<span class="LineNumber"> 014 </span>	  ๗. จตฺตาโร สติปฏฺ€านา  	สติปัฏฐาน ๔
+<span class="LineNumber"> 015 </span>	  ๘. จตฺตาโร สมฺมปฺปธานา 	สัมมัปปธาน ๔
+<span class="LineNumber"> 016 </span>	  ๙. จตฺตาโร อิทฺธิปาทา  	อิทธิบาท ๔
+<span class="LineNumber"> 017 </span>	 ๑๐. จตฺตาริ ฌานานิ     		ฌาน ๔
+<span class="LineNumber"> 018 </span>	 ๑๑. จตสฺโส อปฺปมฺาโย  อัปปมัญญา ๔
+<span class="LineNumber"> 019 </span>	 ๑๒. ปฺจินฺทฺริยานิ       		อินทรีย์ ๕
+<span class="LineNumber"> 020 </span>	 ๑๓. ปฺจ พลานิ        		พละ ๕
+<span class="LineNumber"> 021 </span>	 ๑๔. สตฺต โพชฺฌงฺคา     	โพชฌงค์ ๗
+<span class="LineNumber"> 022 </span>	 ๑๕. อริโย อฏ€งฺคิโค มคฺโค  อริยมรรคมีองค์ ๘
+<span class="LineNumber"> 023 </span>	 ๑๖. ผสฺโส            			ผัสสะ
+<span class="LineNumber"> 024 </span>	 ๑๗. เวทนา           			เวทนา
+<span class="LineNumber"> 025 </span>	 ๑๘. สฺา            			สัญญา

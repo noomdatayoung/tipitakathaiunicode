@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>ปริยาเยน ฯเปฯ   
+<span class="LineNumber"> 002 </span>     ปุน    จปรํ   อาวุโส   ภิกฺขุ   สพฺพโส   เนวสฺานาสฺายตนํ   
+<span class="LineNumber"> 003 </span>สมติกฺกมฺม    สฺาเวทยิตนิโรธํ    อุปสมฺปชฺช    วิหรติ    ปฺายปสฺส           
+<span class="LineNumber"> 004 </span>ทิสฺวา    อาสวา    ปริกฺขีณา   โหนฺติ   เอตฺตาวตาปิ   โข   อาวุโส   
+<span class="LineNumber"> 005 </span>ทิฏฺ€ธมฺมนิพฺพานํ วุตฺตํ ภควตา นิปฺปริยาเยนาติ ฯ        
+<span class="LineNumber"> 006 </span>                    ปฺจาลวคฺโค ปฺจโม ฯ    
+<span class="LineNumber"> 007 </span>                        ตสฺสุทฺทานํ   
+<span class="LineNumber"> 008 </span>         ปฺจาโล กามเหสฺจ ๑   อุโภ ๒ สนฺทิฏฺ€ิกา เทฺว    
+<span class="LineNumber"> 009 </span>         นิพฺพานํ ปรินิพฺพานํ        ตทงฺคทิฏฺ€ธมฺมิเกน จาติ ฯ    
+<span class="LineNumber"> 010 </span>                นวกนิปาเต ปณฺณาสโก สมตฺโต ฯ   
+<span class="LineNumber"> 011 </span>                     _______________   
+<span class="LineNumber"> 012 </span>#๑ ม. สมุพาโธ กายสกฺขิปฺา ฯ  ๒ ม. อุภโตภาโค ฯ         

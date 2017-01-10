@@ -1,0 +1,15 @@
+<span class="LineNumber"> 001 </span>อากิฺจฺายตนสฺา      ยา      จ     เนวสฺานาสฺายตนสฺา  
+<span class="LineNumber"> 002 </span>เอส   สกฺกาโย   ยาวตา   สกฺกาโย   เอตํ   อมตํ   ยทิทํ  อนุปาทา  
+<span class="LineNumber"> 003 </span>จิตฺตสฺส  วิโมกฺโข  ฯ  อิติ  โข  อานนฺท  เทสิตา มยา อาเนฺชสปฺปายา  
+<span class="LineNumber"> 004 </span>ปฏิปทา        เทสิตา        อากิฺจฺายตนสปฺปายา       ปฏิปทา  
+<span class="LineNumber"> 005 </span>เทสิตา    เนวสฺานาสฺายตนสปฺปายา   ปฏิปทา   เทสิตา   นิสฺสาย  
+<span class="LineNumber"> 006 </span>นิสฺสาย   โอฆนิตฺถรณา   [๑]  อริโย  วิโมกฺโข  ฯ  ยํ  โข  อานนฺท  
+<span class="LineNumber"> 007 </span>สตฺถารา   กรณียํ   สาวกานํ  หิเตสินา  อนุกมฺปเกน  อนุกมฺปํ  อุปาทาย  
+<span class="LineNumber"> 008 </span>กตํ  โว  ตํ  มยา  เอตานิ  อานนฺท  รุกฺขมูลานิ เอตานิ สุฺาคารานิ ฯ  
+<span class="LineNumber"> 009 </span>ฌายถานนฺท    มา   ปมาทตฺถ   มา   ปจฺฉา   วิปฺปฏิสาริโน   อหุวตฺถ  
+<span class="LineNumber"> 010 </span>อยํ โว อมฺหากํ อนุสาสนีติ ฯ  
+<span class="LineNumber"> 011 </span>     อิทมโวจ    ภควา    อตฺตมโน   อายสฺมา   อานนฺโท   ภควโต  
+<span class="LineNumber"> 012 </span>ภาสิตํ อภินนฺทีติ ฯ  
+<span class="LineNumber"> 013 </span>               อาเนฺชสปฺปายสุตฺตํ นิฏฺ€ิตํ ฉฏฺ€ํ ฯ  
+<span class="LineNumber"> 014 </span>                       ___________  
+<span class="LineNumber"> 015 </span>#๑ ม. ยุ. เอตฺถนฺตเร เทสิโตติ ทิสฺสติ ฯ  

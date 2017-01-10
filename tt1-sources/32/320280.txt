@@ -1,0 +1,10 @@
+<span class="LineNumber"> 001 </span>                    รวมอปทานที่มีในวรรคนี้ คือ          
+<span class="LineNumber"> 002 </span>     ๑. สุวรรณพิมโพหนิยเถราปทาน            ๒. ติลมุฏฐิยเถราปทาน  
+<span class="LineNumber"> 003 </span>     ๓. จังโกฏกิยเถราปทาน                 ๔. อัพภัญชนทายกเถราปทาน  
+<span class="LineNumber"> 004 </span>     ๕. เอกัญชลิยเถราปทาน                 ๖. โปตถทายกเถราปทาน  
+<span class="LineNumber"> 005 </span>     ๗. จิตกปูชกเถราปทาน                  ๘. อาลุวทายกเถราปทาน  
+<span class="LineNumber"> 006 </span>     ๙. ปุณฑรีกเถราปทาน                  ๑๐. ตรณิยเถราปทาน  
+<span class="LineNumber"> 007 </span>        บัณฑิตนับคาถาได้ ๔๒ คาถา  
+<span class="LineNumber"> 008 </span>                    จบ สุวรรณพิมโพหนวรรคที่ ๒๘           
+<span class="LineNumber"> 009 </span>                       จบ ภาณวารที่ ๑๑  
+<span class="LineNumber"> 010 </span>                       -------------  

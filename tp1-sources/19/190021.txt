@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>อฏฺ€งฺคิโก   มคฺโค   พฺรหฺมจริยํ   ฯ   เสยฺยถีทํ  ฯ  สมฺมาทิฏฺ€ิ  ฯเปฯ  
+<span class="LineNumber"> 002 </span>สมฺมาสมาธิ   ฯ   โย   โข   อาวุโส   อิมินา   อริเยน  อฏฺ€งฺคิเกน  
+<span class="LineNumber"> 003 </span>มคฺเคน   สมนฺนาคโต   อยํ   วุจฺจติ  พฺรหฺมจารี  ฯ  โย  โข  อาวุโส  
+<span class="LineNumber"> 004 </span>ราคกฺขโย   โทสกฺขโย   โมหกฺขโย   อิทํ   พฺรหฺมจริยปริโยสานนฺติ   ฯ  
+<span class="LineNumber"> 005 </span>สุตฺตตฺตยํ ๑ เอกนิทานํ ฯ  
+<span class="LineNumber"> 006 </span>			      วิหารวคฺโค ทุติโย ฯ  
+<span class="LineNumber"> 007 </span>				   ตสฺสุทฺทานํ  
+<span class="LineNumber"> 008 </span>		  เทฺว วิหารา จ เสโข จ     อุปฺปาเท ๒ อปเร ทุเว  
+<span class="LineNumber"> 009 </span>		  ปริสุทฺเธน เทฺว วุตฺตา       กุกฺกุฏาราเมน ตโยติ ฯ  
+<span class="LineNumber"> 010 </span>				  _____________
+<span class="LineNumber"> 011 </span>#๑ ม. ตีณิ สุตฺตนฺตานิ เอกนิทานานิ ฯ ยุ. อิเมสํ ติณฺณํ สุตฺตนฺตานํ เอกนิทานํ ฯ  
+<span class="LineNumber"> 012 </span>#๒ ม. อุปฺปาทา ... ฯ  

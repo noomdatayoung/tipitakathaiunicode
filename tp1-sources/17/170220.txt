@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>    [๓๔๕]    สาวตฺถี    ฯ   สทฺธาปพฺพชิตสฺส   ภิกฺขเว   กุลปุตฺตสฺส  
+<span class="LineNumber"> 002 </span>อยมนุธมฺโม   โหติ   ยํ   รูเป   อนตฺตานุปสฺสี  วิหเรยฺย  เวทนาย  ฯ  
+<span class="LineNumber"> 003 </span>สฺาย   ฯ   สงฺขาเรสุ   ฯ   วิฺาเณ   อนตฺตานุปสฺสี  วิหเรยฺย  ฯ  
+<span class="LineNumber"> 004 </span>โส    รูเป   อนตฺตานุปสฺสี   วิหรนฺโต   เวทนาย   ฯ   สฺาย   ฯ  
+<span class="LineNumber"> 005 </span>สงฺขาเรสุ   ฯ   วิฺาเณ   อนตฺตานุปสฺสี   วิหรนฺโต   รูปํ  ปริชานาติ  
+<span class="LineNumber"> 006 </span>เวทนํ   ฯ   สฺํ   ฯ   สงฺขาเร   ฯ  วิฺาณํ  ปริชานาติ  โส  รูปํ  
+<span class="LineNumber"> 007 </span>ปริชานํ   เวทนํ   ฯ   สฺํ   ฯ   สงฺขาเร   ฯ   วิฺาณํ   ปริชานํ  
+<span class="LineNumber"> 008 </span>ปริมุจฺจติ     รูปมฺหา    ปริมุจฺจติ    เวทนาย    ปริมุจฺจติ    สฺาย  
+<span class="LineNumber"> 009 </span>ปริมุจฺจติ    สงฺขาเรหิ    ปริมุจฺจติ   วิฺาณมฺหา   ปริมุจฺจติ   ชาติยา  
+<span class="LineNumber"> 010 </span>ชราย  ๑  มรเณน  โสเกหิ  ปริเทเวหิ ทุกฺเขหิ โทมนสฺเสหิ อุปายาเสหิ  
+<span class="LineNumber"> 011 </span>ปริมุจฺจติ ทุกฺขสฺมาติ วทามีติ ฯ  
+<span class="LineNumber"> 012 </span>                      กุกฺกุฬวคฺโค จตุตฺโถ  
+<span class="LineNumber"> 013 </span>                         ตสฺสุทฺทานํ  
+<span class="LineNumber"> 014 </span>         กุกฺกุฬา ตโย อนิจฺเจน       ทุกฺเขน อปเร ตโย  
+<span class="LineNumber"> 015 </span>         อนตฺเตน ตโย วุตฺตา        กุลปุตฺเตน เทฺว ทุกฺขาติ ฯ  
+<span class="LineNumber"> 016 </span>                       ______________  
+<span class="LineNumber"> 017 </span># ๑. โป. ยุ. ชราเมรเณน ฯ

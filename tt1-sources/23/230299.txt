@@ -1,0 +1,15 @@
+<span class="LineNumber"> 001 </span> ๙ จำพวกเป็นไฉน คือ พระอรหันต์ ๑ ท่านผู้ปฏิบัติเพื่อความเป็นพระอรหันต์ ๑ พระอนาคามี ๑ 
+<span class="LineNumber"> 002 </span>ท่านผู้ปฏิบัติเพื่อกระทำให้แจ้งซึ่งอนาคามิผล ๑ พระสกทาคามี ๑ ท่านผู้ปฏิบัติเพื่อกระทำให้แจ้ง
+<span class="LineNumber"> 003 </span>ซึ่งสกทาคามิผล ๑ พระโสดาบัน ๑ ท่านผู้ปฏิบัติเพื่อกระทำให้แจ้งซึ่งโสดาปัตติผล ๑โคตรภู
+<span class="LineNumber"> 004 </span>บุคคล ๑ ดูกรภิกษุทั้งหลาย บุคคล ๙ จำพวกเหล่านี้แล เป็นผู้ควรของคำนับ ฯลฯ เป็นนาบุญ
+<span class="LineNumber"> 005 </span>ของโลก ไม่มีนาบุญอื่นยิ่งกว่า ฯ
+<span class="LineNumber"> 006 </span>                         จบสูตรที่ ๑๐
+<span class="LineNumber"> 007 </span>                       จบสัมโพธวรรคที่ ๑
+<span class="LineNumber"> 008 </span>                         _______
+<span class="LineNumber"> 009 </span>                   รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 010 </span>     	๑. สัมโพธิสูตร 		๒. นิสสยสูตร 
+<span class="LineNumber"> 011 </span>๓. เมฆิยสูตร 		๔. นันทกสูตร
+<span class="LineNumber"> 012 </span>๕. พลสูตร 			๖. เสวนาสูตร
+<span class="LineNumber"> 013 </span> 	๗. สุตวาสูตร 		๘. สัชฌสูตร 
+<span class="LineNumber"> 014 </span>๙. ปุคคลสูตร			๑๐. อาหุเนยยสูตร ฯ
+<span class="LineNumber"> 015 </span>                         _______

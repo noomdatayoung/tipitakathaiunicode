@@ -1,0 +1,10 @@
+<span class="LineNumber"> 001 </span>ประการเป็นไฉน คือ ราคะ ๑ โทสะ ๑ โมหะ ๑ ปฏิภาณ ๑จิตคิดจะไป ๑ ดูกรภิกษุ
+<span class="LineNumber"> 002 </span>ทั้งหลาย ธรรม ๕ ประการนี้ เกิดขึ้นแล้วบรรเทาได้ยาก ฯ
+<span class="LineNumber"> 003 </span>		          จบสูตรที่ ๑๐
+<span class="LineNumber"> 004 </span>		       จบสัทธรรมวรรคที่ ๑
+<span class="LineNumber"> 005 </span>		       __________________
+<span class="LineNumber"> 006 </span>		    รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 007 </span>     	สัทธรรมนิยามสูตร ๓ สูตร 		สัทธรรมสัมโมสสูตร ๓ สูตร 
+<span class="LineNumber"> 008 </span>ทุกถาสูตร 					สารัชชสูตร 
+<span class="LineNumber"> 009 </span>อุทายิสูตร 					ทุพพิโนทยสูตร ฯ
+<span class="LineNumber"> 010 </span>		       __________________

@@ -1,0 +1,7 @@
+<span class="LineNumber"> 001 </span>		     รวมพระสูตรที่มีในวรรคนี้ คือ    
+<span class="LineNumber"> 002 </span>         ๑. จินตสูตร            ๒. ปปาตสูตร        
+<span class="LineNumber"> 003 </span>         ๓. ปริฬาหสูตร          ๔. กูฏสูตร         
+<span class="LineNumber"> 004 </span>         ๕. วาลสูตร            ๖. อันธการีสูตร     
+<span class="LineNumber"> 005 </span>         ๗. ฉิคคฬสูตรที่ ๑        ๘. ฉิคคฬสูตรที่ ๒
+<span class="LineNumber"> 006 </span>         ๙. สิเนรุสูตรที่ ๑        ๑๐. สิเนรุสูตรที่ ๒              
+<span class="LineNumber"> 007 </span>		          -----------   

@@ -1,0 +1,8 @@
+<span class="LineNumber"> 001 </span>		   รวมชาดกที่มีในวรรคนี้ คือ          
+<span class="LineNumber"> 002 </span>            ๑. กัจจานิชาดก ๒. อัฏฐสัททชาดก
+<span class="LineNumber"> 003 </span>            ๓. สุลสาชาดก  ๔. สุมังคลชาดก
+<span class="LineNumber"> 004 </span>            ๕. คังคมาลชาดก๖. เจติยราชชาดก 
+<span class="LineNumber"> 005 </span>            ๗. อินทริยชาดก ๘. อาทิตตชาดก
+<span class="LineNumber"> 006 </span>            ๙. อัฏฐานชาดก๑๐. ทีปิชาดก.  
+<span class="LineNumber"> 007 </span>		     จบ อัฏฐกนิบาตชาดก. 
+<span class="LineNumber"> 008 </span>		     _________________ 

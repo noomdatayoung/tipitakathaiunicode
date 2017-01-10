@@ -1,0 +1,11 @@
+<span class="LineNumber"> 001 </span>อันเป็นภายในไม่เกิดขึ้น เพราะจักษุสัมผัสเป็นปัจจัย ฯลฯ เมื่อใจไม่มี สุขและทุกข์อันเป็นภาย
+<span class="LineNumber"> 002 </span>ในก็ไม่เกิดขึ้น เพราะมโนสัมผัสเป็นปัจจัย ฉันนั้นเหมือนกัน ฯ
+<span class="LineNumber"> 003 </span>จบสูตรที่ ๑๐
+<span class="LineNumber"> 004 </span>จบสมุททวรรคที่ ๓
+<span class="LineNumber"> 005 </span>______________________
+<span class="LineNumber"> 006 </span>รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 007 </span>๑. สมุทรสูตรที่ ๑	 	๒. สมุทรสูตรที่ ๒ 	
+<span class="LineNumber"> 008 </span>๓. พาลิสิกสูตร		๔. ขีรรุกขสูตร 	
+<span class="LineNumber"> 009 </span>๕. โกฏฐิกสูตร 		๖. กามภูสูตร 	
+<span class="LineNumber"> 010 </span>๗. อุทายีสูตร			๘. อาทิตตปริยายสูตร 	
+<span class="LineNumber"> 011 </span>๙. หัตถปาทปัพพสูตรที่ ๑ 	๑๐. หัตถปาทปัพพสูตรที่ ๒ ฯ

@@ -1,0 +1,9 @@
+<span class="LineNumber"> 001 </span>รวมวรรคมี ๑๐ วรรค คือ
+<span class="LineNumber"> 002 </span>๑. เมตเตยยวรรค ๖. ชคติวรรค
+<span class="LineNumber"> 003 </span>๒. ภัททาลิวรรค ๗. สาลปุปผวรรค 
+<span class="LineNumber"> 004 </span>๓. สกิงสัมมัชชกวรรค ๘. นฬมาลิวรรค 
+<span class="LineNumber"> 005 </span>๔. เอกวิหาริวรรค ๙. ปังสุกูลวรรค
+<span class="LineNumber"> 006 </span>๕. วิเภทกิวรรค๑๐. กิงกณิปุปผวรรค
+<span class="LineNumber"> 007 </span>มีคาถา ๑,๕๘๒ คาถา.
+<span class="LineNumber"> 008 </span>จบ เมตเตยยวัคคทสกะที่ ๕๐.
+<span class="LineNumber"> 009 </span>----------------

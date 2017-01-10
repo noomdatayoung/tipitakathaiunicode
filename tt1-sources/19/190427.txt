@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>ไม่แปรผัน ไม่เป็นอย่างอื่น ดูกรภิกษุทั้งหลาย เพราะฉะนั้นแหละ เธอทั้งหลายพึงกระทำความเพียร             
+<span class="LineNumber"> 002 </span>เพื่อรู้ตามความเป็นจริงว่า นี้ทุกข์ นี้ทุกขสมุทัย นี้ทุกขนิโรธ นี้ทุกขนิโรธคามินีปฏิปทา.              
+<span class="LineNumber"> 003 </span>		           จบ สูตรที่ ๑๐             
+<span class="LineNumber"> 004 </span>		    จบ ธรรมจักกัปปวัตตนวรรคที่ ๒     
+<span class="LineNumber"> 005 </span>		           ----------                
+<span class="LineNumber"> 006 </span>		     รวมพระสูตรที่มีในวรรคนี้ คือ    
+<span class="LineNumber"> 007 </span>         ๑. ตถาคตสูตรที่ ๑      ๒. ตถาคตสูตรที่ ๒  
+<span class="LineNumber"> 008 </span>         ๓. ขันธสูตร           ๔. อายตนสูตร        
+<span class="LineNumber"> 009 </span>         ๕. ธารณสูตรที่ ๑       ๖. ธารณสูตรที่ ๒   
+<span class="LineNumber"> 010 </span>         ๗. อวิชชาสูตร         ๘. วิชชาสูตร        
+<span class="LineNumber"> 011 </span>         ๙. สังกาสนสูตร        ๑๐. ตถสูตร          
+<span class="LineNumber"> 012 </span>		           ----------  

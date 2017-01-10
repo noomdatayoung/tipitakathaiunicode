@@ -1,0 +1,13 @@
+<span class="LineNumber"> 001 </span>	ที่ชื่อว่า ข้าวเปลือกสด ได้แก่ ข้าวสาลี ข้าวเปลือก ข้าวเหนียว ข้าวละมาน ข้าวฟ่าง  
+<span class="LineNumber"> 002 </span>ลูกเดือย หญ้ากับแก้.  
+<span class="LineNumber"> 003 </span>	บทว่า ขอ คือ ขอเอง. บทว่า ให้ขอ คือ ให้ผู้อื่นขอแทน.  
+<span class="LineNumber"> 004 </span>	บทว่า คั่ว คือ คั่วเอง. บทว่า ให้คั่ว คือ ให้ผู้อื่นคั่ว.  
+<span class="LineNumber"> 005 </span>	บทว่า ตำ คือ ตำเอง. บทว่า ให้ตำ คือ ให้ผู้อื่นตำ.  
+<span class="LineNumber"> 006 </span>	บทว่า หุง คือ หุงเอง. บทว่า ให้หุง คือ ให้ผู้อื่นหุง.  
+<span class="LineNumber"> 007 </span>	ภิกษุณีรับประเคนไว้ด้วยหมายใจว่า จักฉัน ต้องอาบัติทุกกฏ. ฉัน ต้องอาบัติปาจิตตีย์  
+<span class="LineNumber"> 008 </span>ทุกๆ คำกลืน.  
+<span class="LineNumber"> 009 </span>		อนาปัตติวาร  
+<span class="LineNumber"> 010 </span>	[๑๗๔] เพราะเหตุอาพาธ ๑ ขออปรัณณชาติ ๑ วิกลจริต ๑ อาทิกัมมิกา ๑ ไม่ต้อง  
+<span class="LineNumber"> 011 </span>อาบัติแล.  
+<span class="LineNumber"> 012 </span>		ลสุณวรรค สิกขาบทที่ ๗ จบ.  
+<span class="LineNumber"> 013 </span>		______________  

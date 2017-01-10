@@ -1,0 +1,7 @@
+<span class="LineNumber"> 001 </span>		    รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 002 </span>     	๑. รัชนียสูตร 		๒. วีตราคสูตร 
+<span class="LineNumber"> 003 </span>	๓. กุหกสูตร 		๔. อสัทธสูตร
+<span class="LineNumber"> 004 </span>	๕. อักขมสูตร 		๖. ปฏิสัมภิทาสูตร 
+<span class="LineNumber"> 005 </span>	๗. สีลสูตร 			๘. เถรสูตร 
+<span class="LineNumber"> 006 </span>	๙. เสขสูตรที่ ๑		๑๐. เสขสูตรที่ ๒ ฯ
+<span class="LineNumber"> 007 </span>		         __________________

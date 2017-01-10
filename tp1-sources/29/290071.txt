@@ -1,0 +1,14 @@
+<span class="LineNumber"> 001 </span>ปรโลกํ   นาสึสติ   ฉ   พาหิรานิ   อายตนานิ  ฯ  อิมํ  โลกํ  นาสึสติ  
+<span class="LineNumber"> 002 </span>มนุสฺสโลกํ   ปรโลกํ   นาสึสติ   เทวโลกํ   ฯ   อิมํ   โลกํ   นาสึสติ  
+<span class="LineNumber"> 003 </span>กามธาตุํ    ปรโลกํ   นาสึสติ   รูปธาตุํ   อรูปธาตุํ   ฯ   อิมํ   โลกํ  
+<span class="LineNumber"> 004 </span>นาสึสติ   กามธาตุํ   รูปธาตุํ   ปรโลกํ   นาสึสติ   อรูปธาตุํ   ฯ  ปุน  
+<span class="LineNumber"> 005 </span>คตึ   วา   อุปปตฺตึ   วา   ปฏิสนฺธึ  วา  ภวํ  วา  สํสารํ  วา  วฏฺฏํ  
+<span class="LineNumber"> 006 </span>วา   นาสึสติ   น   อิจฺฉติ   น   สาทิยติ   น   ปตฺเถติ   น  ปิเหติ  
+<span class="LineNumber"> 007 </span>นาภิชปฺปตีติ ๑ นาสึสตี โลกมิมํ ปรฺจ ฯ เตนาห ภควา  
+<span class="LineNumber"> 008 </span>                 สฺํ ปริฺา วิตเรยฺย โอฆํ  
+<span class="LineNumber"> 009 </span>                 ปริคฺคเหสู มุนิ โนปลิตฺโต  
+<span class="LineNumber"> 010 </span>                 อพฺพูฬฺหสลฺโล จรมปฺปมตฺโต  
+<span class="LineNumber"> 011 </span>                 นาสึสตี โลกมิมํ ปรฺจาติ ฯ  
+<span class="LineNumber"> 012 </span>              ทุติโย คุหฏฺ€กสุตฺตนิทฺเทโส นิฏฺ€ิโต ฯ  
+<span class="LineNumber"> 013 </span>                     ______________  
+<span class="LineNumber"> 014 </span>#๑ โป. ม. นาติชปฺปตีติ ฯ  

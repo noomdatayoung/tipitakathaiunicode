@@ -1,0 +1,14 @@
+<span class="LineNumber"> 001 </span>     [๙๗]  เย  จ  โข  เกจิ  ภิกฺขเว  สมณา  วา  พฺราหฺมณา  วา  
+<span class="LineNumber"> 002 </span>ชรามรณํ     ปชานนฺติ    ชรามรณสมุทยํ    ปชานนฺติ    ชรามรณนิโรธํ  
+<span class="LineNumber"> 003 </span>ปชานนฺติ   ชรามรณนิโรธคามินึ   ปฏิปทํ   ปชานนฺติ  เต  วต  ชรามรณํ  
+<span class="LineNumber"> 004 </span>สมติกฺกมฺม  €สฺสนฺตีติ  €านเมตํ  วิชฺชติ  ฯ ชาตึ ปชานนฺติ ฯเปฯ ภวํ ...  
+<span class="LineNumber"> 005 </span>อุปาทานํ  ...   ตณฺหํ  ...   เวทนํ  ...  ผสฺสํ ...  สฬายตนํ ...  
+<span class="LineNumber"> 006 </span>นามรูปํ  ...   วิฺาณํ  ...  สงฺขาเร ปชานนฺติ สงฺขารสมุทยํ ปชานนฺติ  
+<span class="LineNumber"> 007 </span>สงฺขารนิโรธํ   ปชานนฺติ   สงฺขารนิโรธคามินึ   ปฏิปทํ   ปชานนฺติ   เต  
+<span class="LineNumber"> 008 </span>วต สงฺขาเร สมติกฺกมฺม €สฺสนฺตีติ €าเมตํ วิชฺชตีติ ฯ ทสมํ ฯ  
+<span class="LineNumber"> 009 </span>                    ทสพลวคฺโค ตติโย ฯ  
+<span class="LineNumber"> 010 </span>                       ตสฺส อุทฺทานํ  
+<span class="LineNumber"> 011 </span>         เทฺว ทสพลา อุปนิสา จ      อฺติตฺถิยภูมิโช ๑  
+<span class="LineNumber"> 012 </span>         อุปวาโณ ปจฺจโย ภิกฺขุ       เทฺว จ สมณพฺราหฺมณาติ ฯ  
+<span class="LineNumber"> 013 </span>                       ________________  
+<span class="LineNumber"> 014 </span>#๑ ยุ. อฺติตฺถิยา ภูมิชํ ฯ  

@@ -1,0 +1,18 @@
+<span class="LineNumber"> 001 </span>ภควา  จตุนฺนํ  สติปฏฺ€านานํ  จตุนฺนํ  สมฺมปฺปธานานํ  จตุนฺนํ อิทฺธิปฺปาทานํ  
+<span class="LineNumber"> 002 </span>ปฺจนฺนํ     อินฺทฺริยานํ    ปฺจนฺนํ    พลานํ    สตฺตนฺนํ    โพชฺฌงฺคานํ  
+<span class="LineNumber"> 003 </span>อริยสฺส   อฏฺ€งฺคิกสฺส   มคฺคสฺสาติ   ภควา   ฯ   ภาคี   วา   ภควา  
+<span class="LineNumber"> 004 </span>ทสนฺนํ    ตถาคตพลานํ    จตุนฺนํ   เวสารชฺชานํ   จตุนฺนํ   ปฏิสมฺภิทานํ  
+<span class="LineNumber"> 005 </span>ฉนฺนํ   อภิฺานํ   ฉนฺนํ   พุทฺธธมฺมานนฺติ   ภควา   ฯ   ภควาติ  เนตํ  
+<span class="LineNumber"> 006 </span>นามํ   มาตรา   กตํ   น   ปิตรา  กตํ  น  ภาตรา  กตํ  น  ภคินิยา  
+<span class="LineNumber"> 007 </span>กตํ  น  มิตฺตามจฺเจหิ  กตํ  น  าติสาโลหิเตหิ  กตํ  น สมณพฺราหฺมเณหิ  
+<span class="LineNumber"> 008 </span>กตํ      น      เทวตาหิ      กตํ     วิโมกฺขนฺติกเมตํ     พุทฺธานํ  
+<span class="LineNumber"> 009 </span>ภควนฺตานํ   โพธิยา   มูเล   สห   สพฺพฺุตาณสฺส  ปฏิลาภา  สจฺฉิกา  
+<span class="LineNumber"> 010 </span>ปฺตฺติ    ยทิทํ    ภควาติ    น   กปฺปิโย   นูปรโต   น   ปตฺถิโยติ  
+<span class="LineNumber"> 011 </span>ภควา ฯ เตนาห ภควา
+  
+<span class="LineNumber"> 012 </span>                 ส สพฺพธมฺเมสุ วิเสนิภูโต  
+<span class="LineNumber"> 013 </span>                 ยงฺกิฺจิ ทิฏฺ€ํว สุตํ มุตํ วา  
+<span class="LineNumber"> 014 </span>                 ส ปนฺนภาโร มุนิ วิปฺปมุตฺโต  
+<span class="LineNumber"> 015 </span>                 น กปฺปิโย นูปรโต น ปตฺถิโยติ ภควาติ ฯ  
+<span class="LineNumber"> 016 </span>            เตรสโม มหาวิยูหสุตฺตนิทฺเทโส นิฏฺ€ิโต ฯ  
+<span class="LineNumber"> 017 </span>                  ___________________  

@@ -1,0 +1,6 @@
+<span class="LineNumber"> 001 </span>	รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 002 </span>	๑. เมฆิยสูตร 					๒. อุทธตสูตร 
+<span class="LineNumber"> 003 </span>	๓. โคปาลสูตร 				๔. ชุณหสูตร
+<span class="LineNumber"> 004 </span>	๕. นาคสูตร 					๖. ปิณโฑลภารทวาชสูตร 
+<span class="LineNumber"> 005 </span>	๗. สาริปุตตสูตร 				๘. สุนทรีสูตร
+<span class="LineNumber"> 006 </span>	๙. อุปเสนวังคันตปุตตสูตร 	๑๐. สาริปุตตสูตร ฯ

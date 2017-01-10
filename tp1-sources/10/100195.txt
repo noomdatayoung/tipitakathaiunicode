@@ -1,0 +1,14 @@
+<span class="LineNumber"> 001 </span>           ตสฺเสว เตเชน อยํ วสุนฺธรา  
+<span class="LineNumber"> 002 </span>           อายาคเสฏฺเ€หิ มหี อลงฺกตา  
+<span class="LineNumber"> 003 </span>           เอวํ อิมํ จกฺขุมโต สรีรํ  
+<span class="LineNumber"> 004 </span>           สุสกฺกตํ สกฺกตสกฺกเตหิ ฯ  
+<span class="LineNumber"> 005 </span>           เทวินฺทนาคินฺทนรินฺทปูชิโต  
+<span class="LineNumber"> 006 </span>           มนุสฺสินฺทเสฏฺเ€หิ ๑ ตเถว ปูชิโต  
+<span class="LineNumber"> 007 </span>           ตํ ตํ ๒ วนฺทถ ปฺชลิกา ภวิตฺวา  
+<span class="LineNumber"> 008 </span>           พุทฺธา ๓ หเว กปฺปสเตหิ ทุลฺลภาติ ฯ  
+<span class="LineNumber"> 009 </span>     จตฺตาฬีสสมา ๔ ทนฺตา          เกสา โลมา จ สพฺพโส  
+<span class="LineNumber"> 010 </span>     เทวา หรึสุ เอเกกํ             จกฺกวาฬปรมฺปราติ ฯ  
+<span class="LineNumber"> 011 </span>               มหาปรินิพฺพานสุตฺตํ นิฏฺ€ิตํ ตติยํ ฯ  
+<span class="LineNumber"> 012 </span>                    ________________  
+<span class="LineNumber"> 013 </span>#๑ ยุ. มนุสฺสเสฏฺเ€หิ ฯ ๒ ม. ยุ. ตํ วนฺทถ ... ฯ ๓ ยุ. พุทฺโธ ... ทุลฺลโภติ ฯ  
+<span class="LineNumber"> 014 </span>#๔ ยุ. จตฺตาฬีสสมา ทนฺตา ... ปรมฺปราติ อิเม ปา€า นตฺถิ ฯ  

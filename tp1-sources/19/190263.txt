@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>สํเวเทติ  ยนฺตํ     อริยา     อาจิกฺขนฺติ     อุเปกฺขโก    สติมา    สุขวิหารีติ  
+<span class="LineNumber"> 002 </span>ตติยํ   ฌานํ   อุปสมฺปชฺช   วิหรติ   สุขสฺส   จ   ปหานา  ทุกฺขสฺส  จ  
+<span class="LineNumber"> 003 </span>ปหานา     ปุพฺเพว    โสมนสฺสโทมนสฺสานํ    อตฺถงฺคมา    อทุกฺขมสุขํ  
+<span class="LineNumber"> 004 </span>อุเปกฺขาสติปาริสุทฺธึ    จตุตฺถํ    ฌานํ   อุปสมฺปชฺช   วิหรติ   ฯ   อิทํ  
+<span class="LineNumber"> 005 </span>วุจฺจติ ภิกฺขเว สมาธินฺทฺริยํ ฯ  
+<span class="LineNumber"> 006 </span>     [๘๖๙]  กตมฺจ  ภิกฺขเว  ปฺินฺทฺริยํ  ฯ  อิธ ภิกฺขเว อริยสาวโก  
+<span class="LineNumber"> 007 </span>ปฺวา    โหติ    อุทยตฺถคามินิยา    ปฺาย   สมนฺนาคโต   อริยาย  
+<span class="LineNumber"> 008 </span>นิพฺเพธิกาย   สมฺมาทุกฺขกฺขยคามินิยา   ฯ   โส   อิทํ  ทุกฺขนฺติ  ยถาภูตํ  
+<span class="LineNumber"> 009 </span>ปชานาติ   อยํ   ทุกฺขสมุทโยติ   ยถาภูตํ   ปชานาติ  อยํ  ทุกฺขนิโรโธติ  
+<span class="LineNumber"> 010 </span>ยถาภูตํ       ปชานาติ      อยํ      ทุกฺขนิโรธคามินี      ปฏิปทาติ  
+<span class="LineNumber"> 011 </span>ยถาภูตํ   ปชานาติ   ฯ   อิทํ   วุจฺจติ  ภิกฺขเว  ปฺินฺทฺริยํ  ฯ  อิมานิ  
+<span class="LineNumber"> 012 </span>โข ภิกฺขเว ปฺจินฺทฺริยานีติ ฯ  
+<span class="LineNumber"> 013 </span>		      สุทฺธิกวคฺโค ป€โม ฯ  
+<span class="LineNumber"> 014 </span>			   ตสฺสุทฺทานํ  
+<span class="LineNumber"> 015 </span>	  สุทฺธิกฺเจว เทฺว โสตา      อรหนฺตา อปเร เทฺว  
+<span class="LineNumber"> 016 </span>	  สมณพฺราหฺมณา ทฏฺ€พฺพํ       วิภงฺเค อปเร ทุเวติ ฯ  
+<span class="LineNumber"> 017 </span>			   _________

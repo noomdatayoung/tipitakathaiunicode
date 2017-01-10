@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>อาศัยซึ่งธรรมเป็นที่อยู่ของพระอริยเจ้า ๑๐ ประการเหล่านี้เทียว ดูกรภิกษุทั้งหลาย ธรรมเป็นที่
+<span class="LineNumber"> 002 </span>อยู่ของพระอริยเจ้า ที่พระอริยเจ้าอยู่อาศัยแล้วก็ดี กำลังอยู่อาศัยก็ดี จักอยู่อาศัยก็ดี๑๐ ประการ
+<span class="LineNumber"> 003 </span>นี้แล ฯ
+<span class="LineNumber"> 004 </span>                         จบสูตรที่ ๑๐
+<span class="LineNumber"> 005 </span>                      จบนาถกรณวรรคที่ ๒
+<span class="LineNumber"> 006 </span>                     _________________
+<span class="LineNumber"> 007 </span>                   รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 008 </span>     	๑. เสนาสนสูตร 		๒. อังคสูตร 
+<span class="LineNumber"> 009 </span>     	๓. สังโยชนสูตร 		๔. ขีลสูตร
+<span class="LineNumber"> 010 </span>	๕. อัปปมาทสูตร 		๖. อาหุเนยยสูตร 
+<span class="LineNumber"> 011 </span>	๗. นาถสูตรที่ ๑ 		๘. นาถสูตรที่ ๒
+<span class="LineNumber"> 012 </span>	๙. อริยวสสูตรที่ ๑ 	๑๐. อริยวสสูตรที่ ๒ ฯ

@@ -1,0 +1,16 @@
+<span class="LineNumber"> 001 </span>๓. สุวัณณนิกขสูตร
+<span class="LineNumber"> 002 </span>[๕๖๔] ... ดูกรภิกษุทั้งหลาย เรากำหนดรู้ใจด้วยใจแล้ว ย่อมรู้บุคคลบางคนในโลกนี้
+<span class="LineNumber"> 003 </span>อย่างนี้ว่า แม้เพราะแท่งทองคำเป็นเหตุ ... ฯ
+<span class="LineNumber"> 004 </span>จบสูตรที่ ๓
+<span class="LineNumber"> 005 </span>๔. สุวัณณนิกขสตสูตร
+<span class="LineNumber"> 006 </span>... ดูกรภิกษุทั้งหลาย เรากำหนดใจด้วยใจแล้ว ย่อมรู้บุคคลบางคนในโลกนี้อย่างนี้ว่า 
+<span class="LineNumber"> 007 </span>แม้เพราะร้อยแห่งแท่งทองคำเป็นเหตุ ... ฯ
+<span class="LineNumber"> 008 </span>จบสูตรที่ ๔
+<span class="LineNumber"> 009 </span>๕. สิงคินิกขสูตร
+<span class="LineNumber"> 010 </span>... ดูกรภิกษุทั้งหลาย เรากำหนดรู้ใจด้วยใจแล้ว ย่อมรู้บุคคลบางคนในโลกนี้อย่างนี้ว่า แม้
+<span class="LineNumber"> 011 </span>เพราะแท่งแห่งทองสิงคิเป็นเหตุ ... ฯ
+<span class="LineNumber"> 012 </span>จบสูตรที่ ๕
+<span class="LineNumber"> 013 </span>๖. สิงคินิกขสตสูตร
+<span class="LineNumber"> 014 </span>... ดูกรภิกษุทั้งหลาย เรากำหนดรู้ใจด้วยใจแล้ว ย่อมรู้บุคคลบางคนในโลกนี้อย่างนี้ว่า 
+<span class="LineNumber"> 015 </span>แม้เพราะร้อยแท่งแห่งทองสิงคิเป็นเหตุ ... ฯ
+<span class="LineNumber"> 016 </span>จบสูตรที่ ๖

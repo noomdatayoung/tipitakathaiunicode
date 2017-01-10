@@ -1,0 +1,13 @@
+<span class="LineNumber"> 001 </span>                       ตสฺส อุทฺทานํ  
+<span class="LineNumber"> 002 </span>         สตฺติมํ ๑ สนิทานฺจ        คิฺชกาวสเถน จ  
+<span class="LineNumber"> 003 </span>         หีนาธิมุตฺติ จงฺกมํ ๒        สตาปารทฺธสตฺตมํ ๓  
+<span class="LineNumber"> 004 </span>         อสฺสทฺธมูลกา ปฺจ          จตฺตาโร อหิริกมูลกา  
+<span class="LineNumber"> 005 </span>         อโนตฺตปฺปมูลกา ตีณิ         เทฺว อปฺปสฺสุเตน จ  
+<span class="LineNumber"> 006 </span>         กุสีตํ เอกกํ วุตฺตํ           สุตฺตนฺตา ตีณิ ปฺจกาติ ๔ ฯ  
+<span class="LineNumber"> 007 </span>                         [๕]-  
+<span class="LineNumber"> 008 </span>                      ________________  
+<span class="LineNumber"> 009 </span>#๑ ม. ยุ. สตฺติมา ฯ  ๒ ยุ. จ กมฺมํ ฯ  ๓ ม. สคาถาอสทฺธสตฺตมํ ฯ  
+<span class="LineNumber"> 010 </span>#ยุ. สคาถอสทฺธสตฺตมํ ฯ  
+<span class="LineNumber"> 011 </span>#๔ ยุ.    อโนตฺตปฺปมูลกา ตีณิ         เทฺว อปฺปสสุเตน จ  
+<span class="LineNumber"> 012 </span>#        กุสีตํ เอกกา วุตุตา         สุตฺตนฺตา ตีณิ ปฺจกา สุตฺตํ ฯ  
+<span class="LineNumber"> 013 </span>#๕ ม. ยุ.   พาวีสติ วุตฺตา สุตฺตา  ทุติโย วคฺโค ปวุจฺจตีติ ฯ  

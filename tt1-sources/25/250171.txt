@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>	พระผู้มีพระภาคได้ตรัสเนื้อความนี้แล้ว ในพระสูตรนั้น พระผู้มีพระภาคตรัสคาถา
+<span class="LineNumber"> 002 </span>ประพันธ์ดังนี้ว่า
+<span class="LineNumber"> 003 </span>	พระพุทธเจ้าทรงทราบบุคคลบางคนในโลกนี้ ผู้มีจิตขุ่นมัวได้ทรง
+<span class="LineNumber"> 004 </span>	พยากรณ์เนื้อความนี้แก่ภิกษุทั้งหลาย ในสำนักของพระองค์ว่า ถ้าใน
+<span class="LineNumber"> 005 </span>	สมัยนี้ บุคคลนี้พึงทำกาละไซร้ เขาพึงเข้าถึงนรก เพราะจิตของเขา
+<span class="LineNumber"> 006 </span>	ขุ่นมัว เขาเป็นอย่างนั้น เหมือนถูกนำมาทอดทิ้งไว้ฉะนั้น สัตว์ทั้งหลาย
+<span class="LineNumber"> 007 </span>	ย่อมไปสู่ทุคติ เพราะเหตุแห่งจิตขุ่นมัวนั่นแล ฯ
+<span class="LineNumber"> 008 </span>เนื้อความแม้นี้พระผู้มีพระภาคตรัสแล้ว เพราะเหตุนั้น ข้าพเจ้าได้สดับมาแล้วฉะนี้แล ฯ
+<span class="LineNumber"> 009 </span>	จบสูตรที่ ๑๐
+<span class="LineNumber"> 010 </span>	จบทุติยวรรคที่ ๒
+<span class="LineNumber"> 011 </span>	______________
+<span class="LineNumber"> 012 </span>	รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 013 </span>	๑. โมหสูตร 			๒. โกธสูตร 
+<span class="LineNumber"> 014 </span>	๓. มักขสูตร 			๔. โมหสูตร
+<span class="LineNumber"> 015 </span>	๕. กามสูตร 			๖. เสขสูตรที่ ๑ 
+<span class="LineNumber"> 016 </span>	๗. เสขสูตรที่ ๒ 		๘. เภทสูตร 
+<span class="LineNumber"> 017 </span>	๙. โมทสูตร 			๑๐. ปุคคลสูตร ฯ

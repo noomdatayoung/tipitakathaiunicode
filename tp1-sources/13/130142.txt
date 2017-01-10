@@ -1,0 +1,14 @@
+<span class="LineNumber"> 001 </span>สิกฺขติ    อนิจฺจานุปสฺสี    ปสฺสสิสฺสามีติ    สิกฺขติ    ฯ   วิราคานุปสฺสี  
+<span class="LineNumber"> 002 </span>อสฺสสิสฺสามีติ        สิกฺขติ        วิราคานุปสฺสี        ปสฺสสิสฺสามีติ  
+<span class="LineNumber"> 003 </span>สิกฺขติ    ฯ    นิโรธานุปสฺสี    อสฺสสิสฺสามีติ    สิกฺขติ   นิโรธานุปสฺสี  
+<span class="LineNumber"> 004 </span>ปสฺสสิสฺสามีติ    สิกฺขติ   ฯ   ปฏินิสฺสคฺคานุปสฺสี   อสฺสสิสฺสามีติ   สิกฺขติ  
+<span class="LineNumber"> 005 </span>ปฏินิสฺสคฺคานุปสฺสี    ปสฺสสิสฺสามีติ   สิกฺขติ   ฯ   เอวํ   ภาวิตา   โข  
+<span class="LineNumber"> 006 </span>ราหุล   อานาปานสติ   เอวํ   พหุลีกตา   มหปฺผลา   โหติ  มหานิสํสา  
+<span class="LineNumber"> 007 </span>เอวํ   ภาวิตาย   โข  ราหุล  อานาปานสติยา  เอวํ  พหุลีกตาย  เยปิ  
+<span class="LineNumber"> 008 </span>เต   จริมกา   อสฺสาสปสฺสาสา   ๑   เตปิ   วิทิตาว  นิรุชฺฌนฺติ  โน  
+<span class="LineNumber"> 009 </span>อวิทิตาติ ฯ  
+<span class="LineNumber"> 010 </span>     อิทมโวจ    ภควา    อตฺตมโน    อายสฺมา   ราหุโล   ภควโต  
+<span class="LineNumber"> 011 </span>ภาสิตํ อภินนฺทีติ ฯ  
+<span class="LineNumber"> 012 </span>               มหาราหุโลวาทสุตฺตํ นิฏฺ€ิตํ ทุติยํ ฯ  
+<span class="LineNumber"> 013 </span>                      _____________  
+<span class="LineNumber"> 014 </span>#๑ ม. อสฺสาสา ฯ  

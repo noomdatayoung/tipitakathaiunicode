@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>			__________________   
+<span class="LineNumber"> 002 </span>			   ตสฺสุทฺทานํ   
+<span class="LineNumber"> 003 </span>	[๖๖๔] ทส วตฺถูนิ ปูเรตฺวา           กมฺมํ ทูเตน ปาวิสิ   
+<span class="LineNumber"> 004 </span>	จตฺตาโร ปุน รูปฺจ           โกสมฺพิ จ ปาเ€ยฺยโก   
+<span class="LineNumber"> 005 </span>	มคฺโค โสเรยฺยํ สงฺกสฺสํ        กณฺณกุชฺชํ อุทุมฺพรํ  
+<span class="LineNumber"> 006 </span>	สหชาติ ๑ จ มชฺเฌสิ         อสฺโสสิ กํ นุ โข มยํ   
+<span class="LineNumber"> 007 </span>	ปตฺตนาวาย อุชฺชวิ ๒         ทูรโตปิ ๓ อุทามสฺส   
+<span class="LineNumber"> 008 </span>	ทารุณํ ๔ สงฺโฆ จ เวสาลิ ๕  เมตฺตา สงฺโฆ อุพฺพาหิกาติ ฯ   
+<span class="LineNumber"> 009 </span>		     จุลฺลวคฺโค  สมตฺโต  ฯ  
+<span class="LineNumber"> 010 </span>			 _________________  
+<span class="LineNumber"> 011 </span>#๑ ยุ. สหํชาติ ฯ ๒ ยุ. สา อุชฺชิ ฯ ๓ ม. รโหสิ อุปนามยํ ฯ ยุ. ทูรโหปิ ฯ  
+<span class="LineNumber"> 012 </span>#๔ ม. ครุ. ฯ ยุ. ทารุกํ ฯ ๕ ม. เวสาลึ ฯ   

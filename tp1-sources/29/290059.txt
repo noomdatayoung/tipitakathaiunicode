@@ -1,0 +1,21 @@
+<span class="LineNumber"> 001 </span>จเรยฺย   วิหเรยฺย  อิริเยยฺย  วตฺเตยฺย  ปาเลยฺย  ยเปยฺย  ยาเปยฺยาติ  
+<span class="LineNumber"> 002 </span>เอตมฺปิ ทิสฺวา อมโม จเรยฺย ฯ  
+<span class="LineNumber"> 003 </span>     [๕๙]   ภเวสุ   อาสตฺติมกุพฺพมาโนติ  ภเวสูติ  กามภเว  รูปภเว  
+<span class="LineNumber"> 004 </span>อรูปภเว   ฯ   อาสตฺติ   วุจฺจติ  ตณฺหา  โย  ราโค  สาราโค  ฯเปฯ  
+<span class="LineNumber"> 005 </span>อภิชฺฌา   โลโภ   อกุสลมูลํ   ฯ   ภเวสุ   อาสตฺติมกุพฺพมาโนติ  ภเวสุ  
+<span class="LineNumber"> 006 </span>อาสตฺตึ    อกุพฺพมาโน    ฉนฺทํ    เปมํ    ราคํ   ขนฺตึ   อกุพฺพมาโน  
+<span class="LineNumber"> 007 </span>อชนยมาโน    อสฺชนยมาโน    อนิพฺพตฺตยมาโน    อนภินิพฺพตฺตยมาโนติ  
+<span class="LineNumber"> 008 </span>ภเวสุ อาสตฺติมกุพฺพมาโน ฯ เตนาห ภควา  
+<span class="LineNumber"> 009 </span>                 มมายิเต ปสฺสถ ผนฺทมาเน  
+<span class="LineNumber"> 010 </span>                 มจฺเฉว อปฺโปทกขีณโสเต  
+<span class="LineNumber"> 011 </span>                 เอตมฺปิ ทิสฺวา อมโม จเรยฺย  
+<span class="LineNumber"> 012 </span>                 ภเวสุ อาสตฺติมกุพฺพมาโนติ ฯ  
+<span class="LineNumber"> 013 </span>            [๖๐] อุโภสุ อนฺเตสุ วิเนยฺย ฉนฺทํ  
+<span class="LineNumber"> 014 </span>                 ผสฺสํ ปริฺาย อนานุคิทฺโธ  
+<span class="LineNumber"> 015 </span>                 ยทตฺตครหี ตทกุพฺพมาโน  
+
+<span class="LineNumber"> 016 </span>                 น ลิมฺปตี ๑ ทิฏฺ€สุเตสุ ธีโร ฯ  
+<span class="LineNumber"> 017 </span>     [๖๑]   อุโภสุ   อนฺเตสุ   วิเนยฺย   ฉนฺทนฺติ   อนฺตาติ   ผสฺโส  
+<span class="LineNumber"> 018 </span>เอโก    อนฺโต   ผสฺสสมุทโย   ทุติโย   อนฺโต   ฯ   อตีโต   เอโก  
+<span class="LineNumber"> 019 </span>อนฺโต   อนาคโต   ทุติโย   อนฺโต   ฯ  สุขา  เวทนา  เอโก  อนฺโต  
+<span class="LineNumber"> 020 </span>#๑ น ลิมฺปตีติปิ ปาโ€ ฯ  

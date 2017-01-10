@@ -1,0 +1,7 @@
+<span class="LineNumber"> 001 </span>รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 002 </span>๑. กูฏาคารสูตร	๒. นขสิขสูตร	 ๓. กุลสูตร 	
+<span class="LineNumber"> 003 </span>๔. โอกขาสูตร	๕. สัตติสูตร 		๖. ธนุคคหสูตร 
+<span class="LineNumber"> 004 </span>๗. อาณิสูตร 		๘. กลิงครสูตร 	๙. นาคสูตร 
+<span class="LineNumber"> 005 </span>๑๐. วิฬารสูตร 	๑๑. สิคาลสูตรที่ ๑		๑๒. สิคาลสูตรที่ ๒ ฯ
+<span class="LineNumber"> 006 </span>จบโอปัมมสังยุตต์ที่ ๘
+<span class="LineNumber"> 007 </span>___________

@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>ภิกฺขเว    ภิกฺขุ   โยนิโส   มนสิกโรนฺโต   สงฺขารานิจฺจตฺจ   ยถาภูตํ  
+<span class="LineNumber"> 002 </span>สมนุปสฺสนฺโต    สงฺขาเรสุ    นิพฺพินฺทติ    ฯ   นนฺทิกฺขยา   ราคกฺขโย  
+<span class="LineNumber"> 003 </span>ราคกฺขยา    นนฺทิกฺขโย    นนฺทิราคกฺขยา   จิตฺตํ   วิมุตฺตํ   สุวิมุตฺตนฺติ  
+<span class="LineNumber"> 004 </span>วุจฺจติ   ฯ   วิฺาณํ   ภิกฺขเว   โยนิโส  มนสิกโรถ  วิฺาณานิจฺจตฺจ  
+<span class="LineNumber"> 005 </span>ยถาภูตํ      สมนุปสฺสถ      ฯ      วิฺาณํ      ภิกฺขเว     ภิกฺขุ  
+<span class="LineNumber"> 006 </span>โยนิโส    มนสิกโรนฺโต    วิฺาณานิจฺจตฺจ    ยถาภูตํ   สมนุปสฺสนฺโต  
+<span class="LineNumber"> 007 </span>วิฺาณสฺมึ    นิพฺพินฺทติ    ฯ    นนฺทิกฺขยา    ราคกฺขโย    ราคกฺขยา  
+<span class="LineNumber"> 008 </span>นนฺทิกฺขโย นนฺทิราคกฺขยา จิตฺตํ วิมุตฺตํ สุวิมุตฺตนฺติ วุจฺจตีติ ฯ  
+<span class="LineNumber"> 009 </span>			    อตฺตทีปวคฺโค ปฺจโม ฯ  
+<span class="LineNumber"> 010 </span>				 ตสฺสุทฺทานํ  
+<span class="LineNumber"> 011 </span>		  อตฺตทีปา ปฏิปทา        เทฺว จ โหนฺติ อนิจฺจตา  
+<span class="LineNumber"> 012 </span>		  สมนุปสฺสนา ขนฺธา       เทฺว โสณา เทฺว นนฺทิกฺขเยน จาติ ฯ  
+<span class="LineNumber"> 013 </span>			     มูลปณฺณาสกํ สมตฺตํ ฯ  
+<span class="LineNumber"> 014 </span>			 ตสฺส มูลปณฺณาสกวคฺคสฺสุทฺทานํ  
+<span class="LineNumber"> 015 </span>		  นกุลปิตา อนิจฺโจ จ      ภาเรน นตุมฺหาเกน จ  
+<span class="LineNumber"> 016 </span>		  อตฺตทีเปน ปณฺณาโส      ป€โม เตน วุจฺจตีติ ฯ  
+<span class="LineNumber"> 017 </span>			     __________________  

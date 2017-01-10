@@ -1,0 +1,22 @@
+<span class="LineNumber"> 001 </span>			   ฉกฺกนิปาตชาตกํ  
+<span class="LineNumber"> 002 </span>			 ๑ อาวาริยวคฺโค ๑  
+<span class="LineNumber"> 003 </span>			 ๑ อาวาริยชาตกํ ๑  
+<span class="LineNumber"> 004 </span>	[๘๓๑] มาสุ กุชฺฌ ๒ ภูมิปติ        มาสุ กุชฺฌ ๒ รเถสภ  
+<span class="LineNumber"> 005 </span>		กุทฺธํ อปฺปฏิกุชฺฌนฺโต         ราชา รฏฺ€สฺส ปูชิโต  
+<span class="LineNumber"> 006 </span>		คาเม วา ยทิวารฺเ       นินฺเน วา ยทิวา ถเล  
+<span class="LineNumber"> 007 </span>		สพฺพตฺถมนุสาสามิ ๓        มาสุ กุชฺฌ ๒ รเถสภ ฯ  
+<span class="LineNumber"> 008 </span>	[๘๓๒] อาวาริยปิตา นาม          อหุ คงฺคาย นาวิโก  
+<span class="LineNumber"> 009 </span>		ปุพฺเพ ชนํ ตารยิตฺวา ๔     ปจฺฉา ยาจติ เวตนํ  
+<span class="LineNumber"> 010 </span>		เตนสฺส ภณฺฑนํ โหติ         น จ โภเคหิ วฑฺฒติ ฯ  
+<span class="LineNumber"> 011 </span>	[๘๓๓] อติณฺณฺเว ยาจสฺสุ         อปารํ ตาต นาวิก  
+<span class="LineNumber"> 012 </span>		อฺโ หิ ติณฺณสฺส มโน       อฺโ โหติ ติเรสิโน ๕ ฯ  
+<span class="LineNumber"> 013 </span>	[๘๓๔] คาเม วา ยทิวารฺเ       นินฺเน วา ยทิวา ถเล
+  
+<span class="LineNumber"> 014 </span>		สพฺพตฺถมนุสาสามิ ๓        มาสุ กุชฺฌิตฺถ นาวิก ฯ  
+<span class="LineNumber"> 015 </span>	[๘๓๕] ยาเยว อนุสาสนิยา         ราชา คามวรํ อทา  
+<span class="LineNumber"> 016 </span>		ตาเยว อนุสาสนิยา         นาวิโก ปหรี มุขํ ฯ  
+<span class="LineNumber"> 017 </span>	[๘๓๖] ภตฺตํ ภินฺนํ หตา ภริยา       คพฺโภ จ ปติโต ฉมา  
+<span class="LineNumber"> 018 </span>		มิโคว ชาตรูเปน           น เตนตฺถํ อวฑฺฒิตุนฺติ ๖ ฯ  
+<span class="LineNumber"> 019 </span>			อาวาริยชาตกํ ป€มํ ฯ  
+<span class="LineNumber"> 020 </span>#๑ ม. สพฺพตฺถ อวาริย. - ฯ ๒ สี. ยุ. มาสฺสุ กุชฺฌิ ฯ ๓ ม. สพฺพตฺถ อนุสาสามิ ฯ  
+<span class="LineNumber"> 021 </span>#๔ ม. ตารยิตฺวาน ฯ ๕ ม. ปาเรสิโน ฯ สี. ยุ. ตเรสิโน ฯ ๖ ม. อพนฺธิสูติ ฯ  

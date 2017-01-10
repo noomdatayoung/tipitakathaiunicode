@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>ผู้ใดย่อมเห็นทุกขนิโรธ ผู้นั้นชื่อว่าย่อมเห็นแม้ทุกข์ แม้ทุกขสมุทัย แม้ทุกขนิโรธคามินีปฏิปทา          
+<span class="LineNumber"> 002 </span>ผู้ใดย่อมเห็นทุกขนิโรธคามินีปฏิปทา ผู้นั้นชื่อว่าย่อมเห็นแม้ทุกข์ แม้ทุกขสมุทัย แม้ทุกขนิโรธ.         
+<span class="LineNumber"> 003 </span>		           จบ สูตรที่ ๑๐             
+<span class="LineNumber"> 004 </span>		        จบ โกฏิคามวรรคที่ ๓          
+<span class="LineNumber"> 005 </span>		           ----------                
+<span class="LineNumber"> 006 </span>		      รวมพระสูตรที่มีในวรรค คือ      
+<span class="LineNumber"> 007 </span>         ๑. วัชชีสูตรที่ ๑           		๒. วัชชีสูตรที่ ๒              
+<span class="LineNumber"> 008 </span>         ๓. สัมมาสัมพุทธสูตร        ๔. อรหันตสูตร  
+<span class="LineNumber"> 009 </span>         ๕. อาสวักขยสูตร          	๖. มิตตสูตร      
+<span class="LineNumber"> 010 </span>         ๗. ตถสูตร               		๘. โลกสูตร        
+<span class="LineNumber"> 011 </span>         ๙. ปริญเญยยสูตร          	๑๐. ควัมปติสูตร. 
+<span class="LineNumber"> 012 </span>		          -----------      

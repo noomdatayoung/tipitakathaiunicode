@@ -1,0 +1,15 @@
+<span class="LineNumber"> 001 </span>กายวิฺเยฺยา  โผฏฺ€พฺพา  อิฏฺ€า  กนฺตา  มนาปา  ปิยรูปา กามูปสฺหิตา  
+<span class="LineNumber"> 002 </span>รชนิยา    ฯ    อิเม    โข    อุตฺติย    ปฺจ    กามคุณา   วุตฺตา  
+<span class="LineNumber"> 003 </span>มยา ฯ  
+<span class="LineNumber"> 004 </span>     [๘๘]  อิเมสํ  โข  อุตฺติย  ปฺจนฺนํ  กามคุณานํ  ปหานาย  อริโย  
+<span class="LineNumber"> 005 </span>อฏฺ€งฺคิโก    มคฺโค    ภาเวตพฺโพ   ฯ   กตโม   อริโย   อฏฺ€งฺคิโก  
+<span class="LineNumber"> 006 </span>มคฺโค   ฯ   เสยฺยถีทํ   ฯ  สมฺมาทิฏฺ€ิ  ฯเปฯ  สมฺมาสมาธิ  ฯ  อิเมสํ  
+<span class="LineNumber"> 007 </span>โข   อุตฺติย   ปฺจนฺนํ  กามคุณานํ  ปหานาย  [๑]  อริโย  อฏฺ€งฺคิโก  
+<span class="LineNumber"> 008 </span>มคฺโค ภาเวตพฺโพติ ฯ  
+<span class="LineNumber"> 009 </span>			      มิจฺฉตฺตวคฺโค ตติโย ฯ  
+<span class="LineNumber"> 010 </span>				   ตสฺสุทฺทานํ  
+<span class="LineNumber"> 011 </span>		  มิจฺฉตฺตํ อกุสลํ ธมฺมํ ๒      ทุเว ปฏิปทาปิ จ  
+<span class="LineNumber"> 012 </span>		  อสปฺปุริเสน ๓ เทฺว วุตฺตา   กุมฺโภ สมาธิ เวทนุตฺติเยนาติ ฯ  
+<span class="LineNumber"> 013 </span>				  _____________
+<span class="LineNumber"> 014 </span>#๑ ม. ยุ. อยํ ฯ ๒ ยุ. อยํ ปาโ€ นตฺถิ ฯ ๓ ม. อสปฺปุริเสน เทฺว กุมฺโภ ฯ  
+<span class="LineNumber"> 015 </span>#ยุ. เทฺว สปฺปุริเสน กุมฺโภ ฯ  

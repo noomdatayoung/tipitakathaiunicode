@@ -1,0 +1,13 @@
+<span class="LineNumber"> 001 </span>     [๙๘๖] สอุตตรธรรม เป็นไฉน?            
+<span class="LineNumber"> 002 </span>     กุศลในภูมิ ๓ อกุศล วิบากในภูมิ ๓ กิริยาอัพยากฤตในภูมิ ๓ และรูปทั้งหมด                  
+<span class="LineNumber"> 003 </span>สภาวธรรมเหล่านี้ชื่อว่า สอุตตรธรรม.       
+<span class="LineNumber"> 004 </span>     อนุตตรธรรม เป็นไฉน?                  
+<span class="LineNumber"> 005 </span>     มรรค ๔ ที่เป็นโลกุตตระ สามัญญผล ๔ และนิพพาน สภาวธรรมเหล่านี้ชื่อว่า  
+<span class="LineNumber"> 006 </span>อนุตตรธรรม.      
+<span class="LineNumber"> 007 </span>     [๙๘๗] สรณธรรม เป็นไฉน?               
+<span class="LineNumber"> 008 </span>     อกุศลจิตตุปบาท ๑๒ ดวง สภาวธรรมเหล่านี้ชื่อว่า สรณธรรม.        
+<span class="LineNumber"> 009 </span>     อรณธรรม เป็นไฉน?  
+<span class="LineNumber"> 010 </span>     กุศลในภูมิ ๔ วิบากในภูมิ ๔ กิริยาอัพยากฤตในภูมิ ๓ รูป และนิพพาน สภาวธรรม               
+<span class="LineNumber"> 011 </span>เหล่านี้ชื่อว่า อรณธรรม.                  
+<span class="LineNumber"> 012 </span>                      ธรรมสังคณีปกรณ์ จบ  
+<span class="LineNumber"> 013 </span>                    -------------------   

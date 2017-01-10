@@ -1,0 +1,11 @@
+<span class="LineNumber"> 001 </span>สตรีใดเจริญด้วยศรัทธา ศีล สุตะ จาคะ และปัญญา
+<span class="LineNumber"> 002 </span>สตรีเช่นนั้น เป็นอุบาสิกาผู้มีศีล ย่อมถือสาระของตน
+<span class="LineNumber"> 003 </span>ในโลกนี้ไว้ได้ ฯ
+<span class="LineNumber"> 004 </span>จบสูตรที่ ๑๐
+<span class="LineNumber"> 005 </span>จบมาตุคามพลวรรคที่ ๓
+<span class="LineNumber"> 006 </span>_______________________
+<span class="LineNumber"> 007 </span>รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 008 </span>๑. วิสารทสูตร 		๒. ปัสสัยหสูตร	 ๓. อภิภุยยสูตร 	๔. อังคสูตร
+<span class="LineNumber"> 009 </span>๕. นาสยิตถสูตร 		๖. เหตุสูตร 		๗. ฐานะสูตร 	๘. วิสารทสูตร
+<span class="LineNumber"> 010 </span>๙. ปัญจเวรสูตร 		๑๐. วัฑฒิสูตร ฯ
+<span class="LineNumber"> 011 </span>_______________________

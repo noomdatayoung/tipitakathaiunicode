@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>	    หัวข้อเรื่องของอนุปทวรรคนั้น  ดังนี้
+<span class="LineNumber"> 002 </span>	เรื่องบทโดยลำดับ  ๑  เรื่องความบริสุทธิ์  ๑  เรื่องธรรมของคนดี
+<span class="LineNumber"> 003 </span>	๑  เรื่องธรรมที่ควรเสพ  ๑  เรื่องแจกธาตุมากอย่าง  ๑  เรื่อง
+<span class="LineNumber"> 004 </span>	ประกาศชื่อพระพุทธ  ๑  กับเรื่องจัตตารีสะ  ๑  เรื่องลมหายใจ  ๑
+<span class="LineNumber"> 005 </span>	เรื่องกายคตาสติ  ๑  เรื่องสุดท้ายคือ  เรื่องความสำเร็จเกิดขึ้น
+<span class="LineNumber"> 006 </span>	ในวันเพ็ญ  ๒  เพ็ญ  คราวที่พระจันทร์บริสุทธิ์  ปราศจากมลทิน
+<span class="LineNumber"> 007 </span>	และพระผู้มีพระภาคทรงปรารภเป็นธรรมมิใช่กิจของพระองค์
+<span class="LineNumber"> 008 </span>	รวมเป็นวรรคสำคัญชื่ออนุปทวรรคที่  ๒  มีธรรมอันประเสริฐที่
+<span class="LineNumber"> 009 </span>	ชนจำนวนมากเสพแล้ว  ฯ
+<span class="LineNumber"> 010 </span>	    ____________________
+<span class="LineNumber"> 011 </span>	      รวมพระสูตรที่มีในวรรคนี้  คือ
+<span class="LineNumber"> 012 </span>	๑.  อนุปทสูตร         			๒.  ฉวิโสธนสูตร
+<span class="LineNumber"> 013 </span>	๓.  สัปปุริสสูตร          		๔.  เสวิตัพพาเสวิตัพพสูตร
+<span class="LineNumber"> 014 </span>	๕.  พหุธาตุกสูตร          		๖.  อิสิคิลิสูตร
+<span class="LineNumber"> 015 </span>	๗.  มหาจัตตาริสกสูตร         	๘.  อานาปานสติสูตร
+<span class="LineNumber"> 016 </span>	๙.  กายคตาสติสูตร          		๑๐.  สังขารูปปัตติสูตร
+<span class="LineNumber"> 017 </span>	     			____________________

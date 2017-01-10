@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>ธมฺโม     ปกาสิโต     เอสาหํ     ภวนฺตํ    ๑    โคตมํ    สรณํ  
+<span class="LineNumber"> 002 </span>คจฺฉามิ   ธมฺมฺจ   ภิกฺขุสงฺฆฺจ   อุปาสกํ   มํ   ภวํ  โคตโม  ธาเรตุ  
+<span class="LineNumber"> 003 </span>อชฺชตคฺเค ปาณุเปตํ สรณงฺคตนฺติ ฯ  
+<span class="LineNumber"> 004 </span>			    สคารวสุตฺตํ นิฏฺ€ิตํ ทสมํ ฯ  
+<span class="LineNumber"> 005 </span>			    พฺราหฺมณวคฺโค ปฺจโม ฯ  
+<span class="LineNumber"> 006 </span>				_______________  
+<span class="LineNumber"> 007 </span>			      ตสฺส วคฺคสฺส อุทฺทานํ  
+<span class="LineNumber"> 008 </span>		 พฺรหฺมายุ เสลสฺสลายโน      โฆฏมุโข จ พฺราหฺมโณ  
+<span class="LineNumber"> 009 </span>		 เอสุจงฺกี ธนฺชานี          วาเสฏฺโ€ สุภคารโว ฯ  
+<span class="LineNumber"> 010 </span>			     มชฺฌิมปณฺณาสกํ สมตฺตํ ฯ  
+<span class="LineNumber"> 011 </span>				   _________  
+<span class="LineNumber"> 012 </span>#ยุ. ภควนฺตํ ฯ  

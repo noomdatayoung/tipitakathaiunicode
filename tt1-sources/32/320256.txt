@@ -1,0 +1,9 @@
+<span class="LineNumber"> 001 </span>                    รวมอปทานที่มีในวรรคนี้ คือ          
+<span class="LineNumber"> 002 </span>     ๑. อุทกาสนทายกเถราปทาน           ๒. ภาชนทายกเถราปทาน  
+<span class="LineNumber"> 003 </span>     ๓. สาลปุปผิยเถราปทาน              ๔. กิลัญชทายกเถราปทาน  
+<span class="LineNumber"> 004 </span>     ๕. เวทิทายกเถราปทาน              ๖. วรรณการกเถราปทาน  
+<span class="LineNumber"> 005 </span>     ๗. ปิยาลปุปผิยเถราปทาน             ๘. อัมพยาคทายกเถราปทาน  
+<span class="LineNumber"> 006 </span>     ๙. ชคติการกเถราปทาน             ๑๐. วาสิทายกเถราปทาน  
+<span class="LineNumber"> 007 </span>        และมีคาถา ๓๘ คาถา ฉะนี้แล.  
+<span class="LineNumber"> 008 </span>                    จบ อุทกาสนทายิวรรคที่ ๒๔.           
+<span class="LineNumber"> 009 </span>                    -------------------  

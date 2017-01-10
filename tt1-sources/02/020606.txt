@@ -1,0 +1,14 @@
+<span class="LineNumber"> 001 </span>				หัวข้อประจำเรื่อง  
+<span class="LineNumber"> 002 </span>	๑. สหธัมมิกสิกขาบท		  ว่าด้วยการว่ากล่าวโดยถูกธรรม  
+<span class="LineNumber"> 003 </span>	๒. วิวัณณนสิกขาบท		   ว่าด้วยการก่นสิกขาบท  
+<span class="LineNumber"> 004 </span>	๓. โมหนสิกขาบท		    ว่าด้วยการแสร้งทำหลง  
+<span class="LineNumber"> 005 </span>	๔. ปหารทานสิกขาบท		 ว่าด้วยการให้ประหาร  
+<span class="LineNumber"> 006 </span>	๕. ตลสัตติกสิกขาบท		  ว่าด้วยการเงื้อหอกคือฝ่ามือ  
+<span class="LineNumber"> 007 </span>	๖. อมูลกสิกขาบท		    ว่าด้วยการโจทด้วยอาบัติไม่มีมูล  
+<span class="LineNumber"> 008 </span>	๗. สัญจิจจสิกขาบท		   ว่าด้วยการแกล้งก่อความรำคาญ  
+<span class="LineNumber"> 009 </span>	๘. อุปัสสุติสิกขาบท		   ว่าด้วยการแอบฟัง  
+<span class="LineNumber"> 010 </span>	๙. กัมมปฏิพาหนสิกขาบท             ว่าด้วยการคัดค้านกรรม  
+<span class="LineNumber"> 011 </span>	๑๐. ฉันทาทานสิกขาบท		 ว่าด้วยการไม่ให้ฉันทะ  
+<span class="LineNumber"> 012 </span>	๑๑. ทัพพสิกขาบท		     ว่าด้วยเรื่องท่านพระทัพพมัลลบุตร  
+<span class="LineNumber"> 013 </span>	๑๒. ปริณามนสิกขาบท		  ว่าด้วยการน้อมลาภสงฆ์  
+<span class="LineNumber"> 014 </span>			____________  

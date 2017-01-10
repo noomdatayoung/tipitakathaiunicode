@@ -1,0 +1,15 @@
+<span class="LineNumber"> 001 </span>	  เทเวสุ อุปปชฺชิมฺหา        โก ปน วาโท มานุสเกสุ ๑ ฯ  
+<span class="LineNumber"> 002 </span>	  เทเวสุ มหิทฺธิกา อหุมฺหา    มานุสกมฺหิ โก ปน วาโท   
+<span class="LineNumber"> 003 </span>	  สตฺตรตนสฺส มเหสี         อิตฺถีรตนํ อหํ อาสึ ฯ  
+<span class="LineNumber"> 004 </span>	  โส เหตุ โส ปภโว        ตํ มูลํ จ สาสเน ขมํ ๒   
+<span class="LineNumber"> 005 </span>	  ตํ ป€มสโมธานํ           ตํ ธมฺมรตาย นิพฺพานํ ฯ  
+<span class="LineNumber"> 006 </span>	เอวํ กเถนฺติ ๓ เย สทฺทหนฺติ  วจนํ อโนมปฺสฺส  
+<span class="LineNumber"> 007 </span>	  นิพฺพินฺทนฺติ ภวคเต         นิพฺพินฺทิตฺวา วิรชฺชนฺตีติ ฯ   
+<span class="LineNumber"> 008 </span>		      สุเมธา ฯ  
+<span class="LineNumber"> 009 </span>		 มหานิปาโต สมตฺโต ฯ   
+<span class="LineNumber"> 010 </span>	  คาถาสตานิ จตฺตาริ        อสีติ ปุน จุทฺทส   
+<span class="LineNumber"> 011 </span>	  เถริเยกุตฺตรสตฺตา ๔      สพฺพา ตา อาสวกฺขยาติ ฯ  
+<span class="LineNumber"> 012 </span>		 เถริยา คาถาโย สมตฺตา ฯ   
+<span class="LineNumber"> 013 </span>		_______________________  
+<span class="LineNumber"> 014 </span>#๑ ยุ. มนุสฺเสสุ ฯ ๒ ม. ตํ มูลํ ตาว สาสเน ขนฺติ ฯ ๓ ม. เอวํ กโรนฺติ ฯ   
+<span class="LineNumber"> 015 </span>#๔ เถริเยกุตฺตรสตฺตติ อิติ วจนํ ยุตฺตตรํ ฯ  

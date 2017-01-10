@@ -1,0 +1,10 @@
+<span class="LineNumber"> 001 </span>อเนกปริยาเยน   ธมฺโม   ปกาสิโต   เอเต  มยํ  ภวนฺตํ  โคตมํ  สรณํ  
+<span class="LineNumber"> 002 </span>คจฺฉาม    ธมฺมฺจ    ภิกฺขุสงฺฆฺจ    อุปาสเก    โน   ภวํ   โคตโม  
+<span class="LineNumber"> 003 </span>ธาเรตุ อชฺชตคฺเค ปาณุเปเต สรณงฺคเตติ ฯ  
+<span class="LineNumber"> 004 </span>			อุปาสกวคฺโค ทุติโย ฯ  
+<span class="LineNumber"> 005 </span>				ตสฺสุทฺทานํ  
+<span class="LineNumber"> 006 </span>		กสี อุทโย เทวหิโต         อฺตรมหาสาลํ  
+<span class="LineNumber"> 007 </span>		มานตฺถทฺธฺจ ปจฺจนิกฺจ      นวกมฺมํ กฏฺ€หารํ  
+<span class="LineNumber"> 008 </span>		มาตุโปสกํ ภิกฺขโก สงฺครโว   โขมทุสฺเสน ทฺวาทสาติ ฯ  
+<span class="LineNumber"> 009 </span>			พฺราหฺมณสํยุตฺตํ สมตฺตํ  
+<span class="LineNumber"> 010 </span>				__________

@@ -1,0 +1,8 @@
+<span class="LineNumber"> 001 </span>                       ตสฺสุทฺทานํ ฯ  
+<span class="LineNumber"> 002 </span>  [๑๐๖๘] อธิกรณํ อุกฺโกฏา            อาการา ปุคฺคเลน จ  
+<span class="LineNumber"> 003 </span>         นิทานเหตุปจฺจยา            มูลํ สมุฏฺ€าเนน จ  
+<span class="LineNumber"> 004 </span>         อาปตฺติ โหติ ยตฺถ จ         สํสฏฺ€า นิทาเนน จ ๑  
+<span class="LineNumber"> 005 </span>         เหตุปจฺจยมูลานิ             สมุฏฺ€าเนน พฺยฺชนา ๒  
+<span class="LineNumber"> 006 </span>         วิวาโท อธิกรณนฺติ           เภทาธิกรเณ อิทนฺติ ฯ  
+<span class="LineNumber"> 007 </span>                       _____________  
+<span class="LineNumber"> 008 </span>#๑ โป. นิทานปภวา ฯ  ๒ โป. พฺยฺชนํ ฯ  

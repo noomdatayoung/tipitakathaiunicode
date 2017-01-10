@@ -1,0 +1,9 @@
+<span class="LineNumber"> 001 </span>อิเมสุ    โข    เม   อาวุโส   จตูสุ   สติปฏฺ€าเนสุ   สูปฏฺ€ิตจิตฺตสฺส  
+<span class="LineNumber"> 002 </span>วิหรโต   อุปฺปนฺนา   สารีริกา   ทุกฺขา   เวทนา  จิตฺตํ  น  ปริยาทาย  
+<span class="LineNumber"> 003 </span>ติฏฺ€นฺตีติ ฯ  
+<span class="LineNumber"> 004 </span>		      รโหคตวคฺโค ป€โม ฯ  
+<span class="LineNumber"> 005 </span>			   ตสฺสุทฺทานํ  
+<span class="LineNumber"> 006 </span>	  รโหคเตน เทฺว วุตฺตา       สุตนุกณฺฏกี ตโย  
+<span class="LineNumber"> 007 </span>	  ตณฺหกฺขยสลฬาคารํ          อมฺพปาลิคิลายนนฺติ ๑ ฯ  
+<span class="LineNumber"> 008 </span>			 ______________
+<span class="LineNumber"> 009 </span>#๑ ม. อมฺพปาลิ จ คิลานนฺติ ฯ ยุ. สพฺพํ พาฬฺหคิลายนนฺติ ฯ  

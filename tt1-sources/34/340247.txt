@@ -1,0 +1,25 @@
+<span class="LineNumber"> 001 </span>     ธรรมไม่เป็นเหตุ และไม่มีเหตุ เป็นไฉน?  
+<span class="LineNumber"> 002 </span>     ธรรมเหล่าใด ไม่เป็นเหตุ และไม่มีเหตุโดยธรรมที่เป็นเหตุเหล่านั้น คือ เวทนาขันธ์ ฯลฯ     
+<span class="LineNumber"> 003 </span>วิญญาณขันธ์, รูปทั้งหมด และอสังขตธาตุ สภาวธรรมเหล่านี้ชื่อว่า ธรรมไม่เป็นเหตุและ            
+<span class="LineNumber"> 004 </span>ไม่มีเหตุ.       
+<span class="LineNumber"> 005 </span>                        เหตุโคจฉกะ จบ     
+<span class="LineNumber"> 006 </span>                    ------------------   
+
+<span class="LineNumber"> 007 </span>                           จูฬันตรทุกะ     
+<span class="LineNumber"> 008 </span>     [๗๐๑] ธรรมมีปัจจัย เป็นไฉน?          
+<span class="LineNumber"> 009 </span>     ขันธ์ ๕ คือ รูปขันธ์ เวทนาขันธ์ สังขารขันธ์ วิญญาณขันธ์ สภาวธรรมเหล่านี้ชื่อว่า        
+<span class="LineNumber"> 010 </span>ธรรมมีปัจจัย.    
+<span class="LineNumber"> 011 </span>     ธรรมไม่มีปัจจัย เป็นไฉน?             
+<span class="LineNumber"> 012 </span>     อสังขตธาตุ สภาวธรรมเหล่านี้ชื่อว่า ธรรมไม่มีปัจจัย.           
+<span class="LineNumber"> 013 </span>     [๗๐๒] ธรรมเป็นสังขตะ เป็นไฉน?        
+<span class="LineNumber"> 014 </span>     ธรรมที่มีปัจจัยเหล่านั้นอันใดเล่า ธรรมเหล่านั้นนั่นแหละชื่อว่า ธรรมเป็นสังขตะ.         
+<span class="LineNumber"> 015 </span>     ธรรมเป็นอสังขตะ นั้น เป็นไฉน?        
+<span class="LineNumber"> 016 </span>     ธรรมที่ไม่มีปัจจัยนั้นอันใดเล่า ธรรมนั้นนั่นแหละชื่อว่า ธรรมเป็นอสังขตะ.               
+<span class="LineNumber"> 017 </span>     [๗๐๓] ธรรมที่เห็นได้ เป็นไฉน?        
+<span class="LineNumber"> 018 </span>     รูปายตนะ สภาวธรรมเหล่านี้ชื่อว่า ธรรมที่เห็นได้.              
+<span class="LineNumber"> 019 </span>     ธรรมที่เห็นไม่ได้ เป็นไฉน?           
+<span class="LineNumber"> 020 </span>     จักขายตนะ ฯลฯ โผฏฐัพพายตนะ, เวทนาขันธ์ ฯลฯ วิญญาณขันธ์ รูปที่เห็นไม่ได้                
+<span class="LineNumber"> 021 </span>ที่กระทบไม่ได้ ซึ่งนับเนื่องในธัมมายตนะ และอสังขตธาตุ สภาวธรรมเหล่านี้ชื่อว่า ธรรมที่       
+<span class="LineNumber"> 022 </span>เห็นไม่ได้.      
+<span class="LineNumber"> 023 </span>     [๗๐๔] ธรรมที่กระทบได้ เป็นไฉน?       
+<span class="LineNumber"> 024 </span>     จักขายตนะ ฯลฯ โผฏฐัพพายตนะ สภาวธรรมเหล่านี้ชื่อว่า ธรรมที่กระทบได้.  

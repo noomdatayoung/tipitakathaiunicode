@@ -1,0 +1,11 @@
+<span class="LineNumber"> 001 </span>        อทสฺสนาปฺปฏิกมฺเม          อนิสฺสคฺเค จ ทิฏฺ€ิยา  
+<span class="LineNumber"> 002 </span>        ทวานาจารุปฆาตี           มิจฺฉาอาชีวเมว จ  
+<span class="LineNumber"> 003 </span>        ปพฺพาชนียกมฺมมฺหิ           อติเรกปทา อิเม ฯ  
+<span class="LineNumber"> 004 </span>        อลาภาวณฺณา เทฺว ปฺจ      เทฺว ปฺจกาตินามกา  
+<span class="LineNumber"> 005 </span>        ปฏิสารณียกมฺมมฺหิ           อติเรกปทา อิเม ฯ  
+<span class="LineNumber"> 006 </span>        ตชฺชนียํ นิยสฺสฺจ           ทุเว กมฺมาปิ สาทิสา ฯ  
+<span class="LineNumber"> 007 </span>        ปพฺพชฺชา ๑ ปฏิสาริ จ      ทฺวฏฺ€อูนาริตฺตกา ๒  
+<span class="LineNumber"> 008 </span>        ตโย อุกฺเขปนียกมฺมา ๓     สทิสา เต วิภตฺติโต  
+<span class="LineNumber"> 009 </span>        ตชฺชนียนเยนาปิ            เสสํ กมฺมํ วิชานิยาติ ฯ  
+<span class="LineNumber"> 010 </span>#๑ ยุ. ปพฺพาชา ฯ  ๒ ม. ยุ. ปฏิสาริ จ อตฺถิ ปทาติริตฺตตา ฯ  
+<span class="LineNumber"> 011 </span>#๓ ม. ยุ. อุกฺเขปนา กมฺมา ฯ  

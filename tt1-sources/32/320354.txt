@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>     ทราบว่า ท่านพระกาสุมาริผลทายกเถระได้กล่าวคาถาเหล่านี้ ด้วยประการฉะนี้แล           
+<span class="LineNumber"> 002 </span>                  จบ กาสุมาริผลทายกเถราปทาน.            
+<span class="LineNumber"> 003 </span>                  ------------------------              
+<span class="LineNumber"> 004 </span>                    รวมอปทานที่มีในวรรคนี้ คือ          
+<span class="LineNumber"> 005 </span>         ๑. โพธิวันทกเถราปทาน           ๒. ปาฏลิปุปผิยเถราปทาน  
+<span class="LineNumber"> 006 </span>         ๓. ตีณุปลมาลิยเถราปทาน          ๔. สัตตปุปผิยเถราปทาน  
+<span class="LineNumber"> 007 </span>         ๕. สัตตปัณณิยเถราปทาน           ๖. คันธมุฏฐิยเถราปทาน  
+<span class="LineNumber"> 008 </span>         ๗. จิตกปูชกเถราปทาน            ๘. สุมนตาลวัณฏิยเถราปทาน  
+<span class="LineNumber"> 009 </span>         ๙. สุมนทามิยเถราปทาน          ๑๐. กาสุมาริผลทายกเถราปทาน  
+<span class="LineNumber"> 010 </span>            มีคาถา ๕๙ คาถา  
+<span class="LineNumber"> 011 </span>                    จบ กาโพธิวันทนวรรคที่ ๓๘            
+<span class="LineNumber"> 012 </span>                    --------------------   

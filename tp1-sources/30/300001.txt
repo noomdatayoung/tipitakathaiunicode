@@ -1,0 +1,15 @@
+<span class="LineNumber"> 001 </span>		สุตฺตนฺตปิฏเก ขุทฺทกนิกายสฺส จูฬนิทฺเทโส    
+<span class="LineNumber"> 002 </span>				 ________________    
+<span class="LineNumber"> 003 </span>	นโม ตสฺส ภควโต อรหโต สมฺมาสมฺพุทฺธสฺส ฯ   
+<span class="LineNumber"> 004 </span>					  ปารายนวคฺโค    
+<span class="LineNumber"> 005 </span>					   วตฺถุคาถา     
+<span class="LineNumber"> 006 </span>	[๑] โกสลานํ ปุรา รมฺมา        อคมา ทกฺขิณาปถํ    
+<span class="LineNumber"> 007 </span>	อากิฺจฺํ ปตฺถยาโน        	พฺราหฺมโณ มนฺตปารคู ฯ   
+<span class="LineNumber"> 008 </span>	[๒] โส อสฺสกสฺส วิสเย         มุฬกสฺส ๑ สมาสเน     
+<span class="LineNumber"> 009 </span>	วสี ๒ โคธาวรีกูเล       		 อุฺเฉน จ ผเลน จ ฯ    
+<span class="LineNumber"> 010 </span>	[๓] ตสฺเสว อุปนิสฺสาย          คาโม จ วิปุโล อหุ    
+<span class="LineNumber"> 011 </span>	ตโต ชาเตน อาเยน        		มหายฺํ อกปฺปยิ ฯ    
+<span class="LineNumber"> 012 </span>	[๔] มหายฺํ ยชิตฺวาน        ปุน ปาวิสิ อสฺสมํ    
+<span class="LineNumber"> 013 </span>	ตสฺมึ ปฏิปวิฏฺ€มฺหิ           	อฺโ อาคฺฉิ พฺราหฺมโณ ฯ   
+<span class="LineNumber"> 014 </span>	[๕] อุคฺฆฏฺฏปาโท ตสิโต     ปงฺกทนฺโต รชสฺสิโร   
+<span class="LineNumber"> 015 </span>#๑ ม. มฬกสฺส ฯ ยุ. อฬกสฺส ฯ ๒ ม. วสิ ฯ   

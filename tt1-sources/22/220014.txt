@@ -1,0 +1,7 @@
+<span class="LineNumber"> 001 </span>		    รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 002 </span>     	๑. อนนุสสุตสูตร 		๒. กูฏสูตร 
+<span class="LineNumber"> 003 </span>๓. สังขิตสูตร			 ๔. วิตถตสูตร
+<span class="LineNumber"> 004 </span>๕. ทัฏฐัพพสูตร 		๖. ปุนกูฏสูตร 
+<span class="LineNumber"> 005 </span>๗. หิตสูตรที่ ๑ 		๘. หิตสูตรที่ ๒ 
+<span class="LineNumber"> 006 </span>๙. หิตสูตรที่ ๓ 		๑๐. หิตสูตรที่ ๔
+<span class="LineNumber"> 007 </span>	       __________________

@@ -1,0 +1,15 @@
+<span class="LineNumber"> 001 </span>        อุปาลึ วินยํ ปุจฺฉิ            สุตฺตนฺตานนฺทปณฺฑิตํ   
+<span class="LineNumber"> 002 </span>        ปิฏกํ ตีณิ สงฺคีตํ ๑          อกํสุ ชินสาวกา ฯ   
+<span class="LineNumber"> 003 </span>        ขุทฺทานุขุทฺทกา ๒ นานา      ยถาปฺตฺตวตฺตนา ๓ ฯ  
+<span class="LineNumber"> 004 </span>        น ปุจฺฉิ อกฺกมิตฺวาปิ ๔       วนฺทาเปสิ น ยาจิ จ   
+<span class="LineNumber"> 005 </span>        ปพฺพชฺชํ มาตุคามสฺส          สทฺธาย ทุกฺกฏานิ เม ฯ  
+<span class="LineNumber"> 006 </span>        ปุราโณ พฺรหฺมทณฺฑํ จ         โอโรโธ อุเทเนน สห  
+<span class="LineNumber"> 007 </span>        ตาว พหุ ทุพฺพลฺจ           อุตฺตรตฺถรณา ภิสิ   
+<span class="LineNumber"> 008 </span>        ภุมฺมตฺถรณา ปุฺฉนิโย         รโช จิกฺขลฺลมทฺทนา  
+<span class="LineNumber"> 009 </span>        สหสฺสจีวรํ อุปฺปชฺชิ           ป€มานนฺทสฺสวฺหยา ๕ ฯ  
+<span class="LineNumber"> 010 </span>        ตชฺชิโต พฺรหฺมทณฺเฑน         จตุสจฺจํ อปาปุณิ ฯ   
+<span class="LineNumber"> 011 </span>        วสีภูตา ปฺจสตา            ตสฺมา ปฺจสตา อิตีติ ๖ ฯ  
+<span class="LineNumber"> 012 </span>                      _________________   
+<span class="LineNumber"> 013 </span>#๑ ม. ยุ. สงฺคิตึ ฯ ๒ ม. ยุ. ขุทฺทานุขุทฺทเก ฯ ๓ ม. ยถาปฺตฺติวตฺตนา ฯ   
+<span class="LineNumber"> 014 </span>#ยุ. ยถาปฺตฺตึ วตฺตนา ฯ ๔ ม. อกฺกมิตฺวาน ฯ ยุ. อกฺกมิตฺวา ฯ ๕ ม. ยุ.  
+<span class="LineNumber"> 015 </span>#ป€มานนฺทสฺสวฺหโย ฯ ๖ ม. ยุ. ปฺจสตี อิติ ฯ   

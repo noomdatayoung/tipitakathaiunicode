@@ -1,0 +1,14 @@
+<span class="LineNumber"> 001 </span>	พระผู้มีพระภาคได้ตรัสเนื้อความนี้แล้ว ในพระสูตรนั้น พระผู้มีพระภาคตรัสคาถา
+<span class="LineNumber"> 002 </span>ประพันธ์ดังนี้ว่า
+<span class="LineNumber"> 003 </span>	ภิกษุใด เจริญศีล สมาธิ และปัญญาดีแล้ว ภิกษุนั้นก้าวล่วงบ่วงแห่ง
+<span class="LineNumber"> 004 </span>	มารได้แล้ว ย่อมรุ่งเรือง ดุจพระอาทิตย์ฉะนั้น ฯ
+<span class="LineNumber"> 005 </span>เนื้อความแม้นี้พระผู้มีพระภาคตรัสแล้ว เพราะเหตุนั้น ข้าพเจ้าได้สดับมาแล้วฉะนี้แล ฯ
+<span class="LineNumber"> 006 </span>	จบสูตรที่ ๑๐
+<span class="LineNumber"> 007 </span>	จบวรรคที่ ๑
+<span class="LineNumber"> 008 </span>	_____________
+<span class="LineNumber"> 009 </span>	รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 010 </span>	๑. อกุศลมูลสูตร 			๒. ธาตุสูตร 
+<span class="LineNumber"> 011 </span>	๓. เวทนาสูตรที่ ๑ 		๔. เวทนาสูตรที่ ๒
+<span class="LineNumber"> 012 </span>	๕. เอสนาสูตรที่ ๑ 		๖. เอสนาสูตรที่ ๒ 
+<span class="LineNumber"> 013 </span>	๗. อาสวสูตรที่ ๑ 			๘. อาสวสูตรที่ ๒
+<span class="LineNumber"> 014 </span>	๙. ตัณหาสูตร 			๑๐. มารเธยยสูตร ฯ

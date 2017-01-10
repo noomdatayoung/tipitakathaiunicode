@@ -1,0 +1,14 @@
+<span class="LineNumber"> 001 </span>	ห้องนอน ภิกษุสำคัญว่าไม่ใช่ห้องนอน สำเร็จการนั่งแทรกแซง ในตระกูลที่มีคน ๒ คน  
+<span class="LineNumber"> 002 </span>ต้องอาบัติปาจิตตีย์.  
+<span class="LineNumber"> 003 </span>				ทุกะทุกกฏ  
+<span class="LineNumber"> 004 </span>	ไม่ใช่ห้องนอน ภิกษุสำคัญว่าห้องนอน ... ต้องอาบัติทุกกฏ.  
+<span class="LineNumber"> 005 </span>	ไม่ใช่ห้องนอน ภิกษุสงสัย ... ต้องอาบัติทุกกฏ.  
+<span class="LineNumber"> 006 </span>				ไม่ต้องอาบัติ  
+<span class="LineNumber"> 007 </span>	ไม่ใช่ห้องนอน ภิกษุสำคัญว่าไม่ใช่ห้องนอน ... ไม่ต้องอาบัติ.  
+<span class="LineNumber"> 008 </span>				อนาปัตติวาร  
+<span class="LineNumber"> 009 </span>	[๕๓๘] ภิกษุนั่งในเรือนใหญ่ ไม่ล่วงล้ำหัตถบาสแห่งบานประตู ๑ ภิกษุนั่งในเรือนเล็ก  
+<span class="LineNumber"> 010 </span>ไม่เลยท่ามกลางห้อง ๑ ภิกษุมีเพื่อนอยู่ด้วย ๑ คนทั้ง ๒ ออกจากกันแล้ว ทั้ง ๒ ปราศจากราคะ  
+<span class="LineNumber"> 011 </span>แล้ว ๑ ภิกษุนั่งในสถานที่อันมิใช่ห้องนอน ๑ ภิกษุวิกลจริต ๑ ภิกษุอาทิกัมมิกะ ๑ ไม่ต้อง-  
+<span class="LineNumber"> 012 </span>อาบัติแล.  
+<span class="LineNumber"> 013 </span>			อเจลกวรรค สิกขาบทที่ ๓ จบ.  
+<span class="LineNumber"> 014 </span>				___________  

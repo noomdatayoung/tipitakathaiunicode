@@ -1,0 +1,8 @@
+<span class="LineNumber"> 001 </span>		  รวมวรรคที่มีในทุกนิบาตนี้ คือ       
+<span class="LineNumber"> 002 </span>            ๑. ทัฬหวรรค          ๒. สันถวรรค            
+<span class="LineNumber"> 003 </span>            ๓. กัลยาณธรรมวรรค    ๔. อสทิสวรรค           
+<span class="LineNumber"> 004 </span>            ๕. รุหกวรรค          ๖. นตังทัฬหวรรค        
+<span class="LineNumber"> 005 </span>            ๗. พีรณัตถัมภกวรรค     ๘. กาสาววรรค         
+<span class="LineNumber"> 006 </span>            ๙. อุปาหนวรรค       ๑๐. สิคาลวรรค.          
+<span class="LineNumber"> 007 </span>		      จบ ทุกนิบาตชาดก.
+<span class="LineNumber"> 008 </span>		     _________________ 

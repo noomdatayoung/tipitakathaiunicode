@@ -1,0 +1,8 @@
+<span class="LineNumber"> 001 </span>		    รวมชาดกที่มีในวรรคนี้ คือ         
+<span class="LineNumber"> 002 </span>             ๑. กิงฉันทชาดก   ๒. กุมภชาดก 
+<span class="LineNumber"> 003 </span>             ๓. ชัยทิศชาดก    ๔. ฉัททันตชาดก            
+<span class="LineNumber"> 004 </span>             ๕. สัมภวชาดก    ๖. มหากปิชาดก
+<span class="LineNumber"> 005 </span>             ๗. ทกรักขสชาดก  ๘. ปัณฑรกชาดก
+<span class="LineNumber"> 006 </span>             ๙. สัมพุลาชาดก  ๑๐. ภัณฑุติณฑกชาดก.        
+<span class="LineNumber"> 007 </span>		     จบ ติงสตินิบาตชาดก.
+<span class="LineNumber"> 008 </span>		     _________________ 

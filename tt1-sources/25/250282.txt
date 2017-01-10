@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>	ไหนๆ ฉันใด คฤหัสถ์ทำตามภิกษุผู้เป็นมุนี สงัดเงียบเพ่งอยู่ในป่า
+<span class="LineNumber"> 002 </span>	ไม่ได้ ฉันนั้น ฯ
+<span class="LineNumber"> 003 </span>	จบมุนีสูตรที่ ๑๒
+<span class="LineNumber"> 004 </span>	จบอุรควรรคที่ ๑
+<span class="LineNumber"> 005 </span>	__________
+<span class="LineNumber"> 006 </span>	รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 007 </span>	๑. อุรคสูตร 			๒. ธนิยสูตร 
+<span class="LineNumber"> 008 </span>	๓. ขัคควิสาณสูตร	๔. กสิภารทวาชสูตร 
+<span class="LineNumber"> 009 </span>	๕. จุนทสูตร 			๖. ปราภวสูตร 
+<span class="LineNumber"> 010 </span>	๗. วสลสูตร 			๘. เมตตสูตร
+<span class="LineNumber"> 011 </span>	๙. เหมวตสูตร 		๑๐. อาฬวกสูตร 
+<span class="LineNumber"> 012 </span>	๑๑. วิชยสูตร 		๑๒. มุนีสูตร บัณฑิตเรียกว่าอุรควรรค ฯ

@@ -1,0 +1,9 @@
+<span class="LineNumber"> 001 </span>                    ตสฺส วคฺคสฺส อุทฺทานํ  
+<span class="LineNumber"> 002 </span>         กนฺทรนาครสํวโร ๑ โปตลิโย ปุน ชีวกภจฺโจ  
+<span class="LineNumber"> 003 </span>         อุปาลิทโม ๒ ตถา ๓ กุกฺกุโร ๓ อภโย  
+<span class="LineNumber"> 004 </span>         พหุเวทนิโยปิ ๕ จ อปณฺณกตาทสโม  
+<span class="LineNumber"> 005 </span>         ป€โม ๖ ปวโร วคฺโค จ ฯ  
+<span class="LineNumber"> 006 </span>                       ____________  
+<span class="LineNumber"> 007 </span>#๑ ม. เสขวโต จ ฯ   ๒ ม. อุปาลิทมฺมโต ฯ   ๓ ม. อยํ ปาโ€ นตฺถิ ฯ  
+<span class="LineNumber"> 008 </span>#๔ ม. กุกฺกุรอภโย ฯ   ๕ ม. พหุเวทนิยาปณฺณกโต ทสโม ฯ   ๖ ม. ป€โม ปวโร  
+<span class="LineNumber"> 009 </span>#วคฺโค จาติ อิเม ปา€า นตฺถิ ฯ  

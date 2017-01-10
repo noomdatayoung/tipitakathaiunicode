@@ -1,0 +1,23 @@
+<span class="LineNumber"> 001 </span>	ตทา ตํ ๑ ปริสํ คนฺตฺวา     สุตฺวา สุคตภาสิตํ  
+<span class="LineNumber"> 002 </span>	โสตาปตฺติผลํ ปตฺวา         ปพฺพชึ อนคาริยํ ฯ  
+<span class="LineNumber"> 003 </span>	น จิเรเนว กาเลน         พุทฺธทสฺสนสาลยา  
+<span class="LineNumber"> 004 </span>	อนุสฺสตึ ตํ ภาเวตฺวา        อรหตฺตํ อปาปุณึ ฯ  
+<span class="LineNumber"> 005 </span>	ทสฺสนตฺถาย พุทฺธสฺส         สพฺพทา จ วชามหํ  
+<span class="LineNumber"> 006 </span>	อติตฺตาเยว ปสฺสามิ         รูปํ นยนนนฺทนํ ฯ  
+<span class="LineNumber"> 007 </span>	สพฺพปารมิสมฺภูตํ            ลกฺขินิลยนํ ปรํ ๒  
+<span class="LineNumber"> 008 </span>	รูปํ สพฺพสุภากิณฺณํ           อติตฺตา วิหรามหํ ๓ ฯ  
+<span class="LineNumber"> 009 </span>	ชิโน ตสฺมึ คุเณ ตุฏฺโ€       เอตทคฺเค €เปสิ มํ  
+<span class="LineNumber"> 010 </span>	สิงฺคาลกสฺส ยา มาตา       อคฺคา สทฺธาธิมุตฺติกา ๔ ฯ  
+<span class="LineNumber"> 011 </span>	อิทฺธีสุ จ วสี โหมิ          ทิพฺพาย โสตธาตุยา  
+<span class="LineNumber"> 012 </span>	เจโตปริยาณสฺส           วสี โหมิ มหามุเน ฯ  
+<span class="LineNumber"> 013 </span>	ปุพฺเพนิวาสํ ชานามิ         ทิพฺพจกฺขุํ วิโสธิตํ  
+<span class="LineNumber"> 014 </span>	สพฺพาสเว ๕ ปริฺาย      นตฺถิ ทานิ ปุนพฺภโว ฯ  
+<span class="LineNumber"> 015 </span>	อตฺถธมฺมนิรุตฺตีสุ            ปฏิภาเณ ตเถว จ  
+<span class="LineNumber"> 016 </span>	าณํ มม มหาวีร           อุปฺปนฺนํ ตว สนฺติเก ฯ
+  
+<span class="LineNumber"> 017 </span>	กิเลสา ฌาปิตา มยฺหํ        ภวา สพฺเพ สมูหตา  
+<span class="LineNumber"> 018 </span>	นาคีว พนฺธนํ เฉตฺวา        วิหรามิ อนาสวา ฯ  
+<span class="LineNumber"> 019 </span>	สฺวาคตํ วต เม อาสิ        พุทฺธเสฏฺ€สฺส สนฺติเก  
+<span class="LineNumber"> 020 </span>	ติสฺโส วิชฺชา อนุปฺปตฺตา      กตํ พุทฺธสฺส สาสนํ ฯ  
+<span class="LineNumber"> 021 </span>#๑ ม. ตทาหํ ฯ ๒ ม. ยุ. วรํ ฯ ๓ ยุ. ภยามหํ ฯ ๔ ยุ. สงฺควิมุตฺติกา ฯ  
+<span class="LineNumber"> 022 </span>#๕ ม. ยุ. สพฺพาสวปริกฺขีณา ฯ  

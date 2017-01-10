@@ -1,0 +1,15 @@
+<span class="LineNumber"> 001 </span>๔. รู้การระงับอาบัติ  
+<span class="LineNumber"> 002 </span>๕. ฉลาดในการวินิจฉัยอาบัติ  
+<span class="LineNumber"> 003 </span>ดูกรอุบาลี ภิกษุประกอบด้วยองค์ ๕ นี้แล ถึงความนับว่าเป็นผู้ฉลาดแท้.  
+<span class="LineNumber"> 004 </span>		  องค์ของภิกษุผู้โง่แท้อีกนัยหนึ่ง  
+<span class="LineNumber"> 005 </span>ดูกรอุบาลี ภิกษุประกอบด้วยองค์ ๕ แม้อื่นอีก ถึงความนับว่าเป็นผู้โง่แท้. องค์ ๕  
+<span class="LineNumber"> 006 </span>อะไรบ้าง? คือ:  
+<span class="LineNumber"> 007 </span>๑. ไม่รู้อธิกรณ์  
+<span class="LineNumber"> 008 </span>๒. ไม่รู้สมุฏฐานอธิกรณ์  
+<span class="LineNumber"> 009 </span>๓. ไม่รู้ประโยคอธิกรณ์  
+<span class="LineNumber"> 010 </span>๔. ไม่รู้ความระงับอธิกรณ์  
+<span class="LineNumber"> 011 </span>๕. ไม่ฉลาดในการวินิจฉัยอธิกรณ์  
+<span class="LineNumber"> 012 </span>ดูกรอุบาลี ภิกษุประกอบด้วยองค์ ๕ นี้แล ถึงความนับว่าเป็นผู้โง่แท้.  
+<span class="LineNumber"> 013 </span>		องค์ของภิกษุผู้ฉลาดแท้  
+<span class="LineNumber"> 014 </span>ดูกรอุบาลี ภิกษุประกอบด้วยองค์ ๕ ถึงความนับว่า เป็นผู้ฉลาดแท้. องค์ ๕ อะไร  
+<span class="LineNumber"> 015 </span>บ้าง? คือ:  

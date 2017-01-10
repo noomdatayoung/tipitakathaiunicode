@@ -1,0 +1,20 @@
+<span class="LineNumber"> 001 </span>อฺํ    ทิฏฺ€ึ    คณฺหนฺติ    ปฏิปทํ    คณฺหนฺติ   ตํ   มุฺจิตฺวา   อฺํ  
+<span class="LineNumber"> 002 </span>ปฏิปทํ    คณฺหนฺติ    มคฺคํ    คณฺหนฺติ    ตํ   มุฺจิตฺวา   อฺํ   มคฺคํ  
+<span class="LineNumber"> 003 </span>คณฺหนฺติ    คณฺหนฺติ    จ    มุฺจนฺติ   จ   อาทิยนฺติ   จ   นิรสฺสชนฺติ  
+<span class="LineNumber"> 004 </span>จาติ เต อุคฺคหายนฺติ นิรสฺสชนฺติ ฯ  
+<span class="LineNumber"> 005 </span>     [๑๒๗]   กปีว   สาขํ   ปมุขํ  คหายาติ  ยถา  มกฺกโฏ  อรฺเ  
+<span class="LineNumber"> 006 </span>ปวเน    จรมาโน    สาขํ    คณฺหาติ   ตํ   มุฺจิตฺวา   อฺํ   สาขํ  
+<span class="LineNumber"> 007 </span>คณฺหาติ    ตํ    มุฺจิตฺวา    อฺํ   สาขํ   คณฺหาติ   เอวเมว   ปุถู  
+<span class="LineNumber"> 008 </span>สมณพฺราหฺมณา    ปุถู    ทิฏฺ€ิคตานิ    คณฺหนฺติ    จ    มุฺจนฺติ    จ  
+<span class="LineNumber"> 009 </span>อาทิยนฺติ   จ   นิรสฺสชนฺติ   จาติ   กปีว   สาขํ   ปมุขํ   คหาย   ฯ  
+<span class="LineNumber"> 010 </span>เตนาห ภควา  
+<span class="LineNumber"> 011 </span>                 ปุริมํ ปหาย อปรํ สิตาเส  
+<span class="LineNumber"> 012 </span>                 เอชานุคา เต น ตรนฺติ สงฺคํ  
+<span class="LineNumber"> 013 </span>                 เต อุคฺคหายนฺติ นิรสฺสชนฺติ  
+<span class="LineNumber"> 014 </span>                 กปีว สาขํ ปมุขํ คหายาติ ฯ  
+<span class="LineNumber"> 015 </span>           [๑๒๘] สยํ สมาทาย วตานิ ชนฺตุ  
+<span class="LineNumber"> 016 </span>                 อุจฺจาวจํ คจฺฉติ สฺสตฺโต  
+<span class="LineNumber"> 017 </span>                 วิทฺวา จ เวเทหิ สเมจฺจ ธมฺมํ  
+
+<span class="LineNumber"> 018 </span>                 น อุจฺจาวจํ คจฺฉติ ภูริปฺโ ฯ  
+<span class="LineNumber"> 019 </span>     [๑๒๙]   สยํ   สมาทาย  วตานิ  ชนฺตูติ  สยํ  สมาทายาติ  สามํ  

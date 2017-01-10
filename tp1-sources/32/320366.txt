@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>	ปฏิสมฺภิทา จตสฺโส         วิโมกฺขาปิจ อฏฺ€ิเม  
+<span class="LineNumber"> 002 </span>	ฉฬภิฺา สจฺฉิกตา         กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 003 </span>	อิตฺถํ สุทํ อายสฺมา เอกปุปฺผิโย เถโร อิมา คาถาโย  
+<span class="LineNumber"> 004 </span>อภาสิตฺถาติ ฯ  
+<span class="LineNumber"> 005 </span>		เอกปุปฺผิยตฺเถรสฺส อปทานํ สมตฺตํ ฯ  
+<span class="LineNumber"> 006 </span>		ปฺจมํ มฆวปุปฺผิยตฺเถราปทานํ (๒๘๕)  
+<span class="LineNumber"> 007 </span>	[๒๘๗] นมฺมทานทิยา ตีเร         สยมฺภู อปราชิโต  
+<span class="LineNumber"> 008 </span>	สมาธึ โส สมาปนฺโน       วิปฺปสนฺโน อนาวิโล ฯ  
+<span class="LineNumber"> 009 </span>	ทิสฺวา ปสนฺโน สุมโน       สมฺพุทฺธํ อปราชิตํ  
+<span class="LineNumber"> 010 </span>	ตาหํ มฆวปุปฺเผน          สยมฺภุํ ปูชยึ ตทา ฯ  
+<span class="LineNumber"> 011 </span>	เอกนวุเต อิโต กปฺเป      ยํ ปุปฺผมภิปูชยึ  
+<span class="LineNumber"> 012 </span>	ทุคฺคตึ นาภิชานามิ         พุทฺธปูชายิทํ ผลํ ฯ  
+<span class="LineNumber"> 013 </span>	ปฏิสมฺภิทา จตสฺโส         วิโมกฺขาปิจ อฏฺ€ิเม  
+<span class="LineNumber"> 014 </span>	ฉฬภิฺา สจฺฉิกตา         กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 015 </span>	อิตฺถํ สุทํ อายสฺมา มฆวปุปฺผิโย เถโร อิมา คาถาโย  
+<span class="LineNumber"> 016 </span>อภาสิตฺถาติ ฯ  
+<span class="LineNumber"> 017 </span>		มฆวปุปฺผิยตฺเถรสฺส อปทานํ สมตฺตํ ฯ  

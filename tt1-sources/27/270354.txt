@@ -1,0 +1,13 @@
+<span class="LineNumber"> 001 </span>             ทั้งหลายกังวลอยู่ในกิจน้อยกิจใหญ่ ฤาษีกังวลอยู่ในเหง้ามันและผลไม้          
+<span class="LineNumber"> 002 </span>             ส่วนพวกภิกษุหลุดพ้นได้แล้ว 
+<span class="LineNumber"> 003 </span>		  จบ ภิกขาปรัมปรชาดกที่ ๑๓.           
+<span class="LineNumber"> 004 </span>		   รวมชาดกที่มีในวรรคนี้ คือ          
+<span class="LineNumber"> 005 </span>             ๑. สาลิเกทารชาดก      ๒. จันทกินนรชาดก     
+<span class="LineNumber"> 006 </span>             ๓. มหาอุกกุสชาดก       ๔. อุททาลกชาดก      
+<span class="LineNumber"> 007 </span>             ๕. ภิสชาดก            ๖. สุรุจิชาดก        
+<span class="LineNumber"> 008 </span>             ๗. ปัญจุโปสถิกชาดก      ๘. มหาโมรชาดก      
+<span class="LineNumber"> 009 </span>             ๙. ตัจฉกสูกรชาดก      ๑๐. มหาวาณิชชาดก     
+<span class="LineNumber"> 010 </span>            ๑๑. สาธินราชชาดก      ๑๒. ทสพราหมณ์ชาดก     
+<span class="LineNumber"> 011 </span>            ๑๓. ภิกขาปรัมปรชาดก.        
+<span class="LineNumber"> 012 </span>		     จบ ปกิณณกนิบาตชาดก 
+<span class="LineNumber"> 013 </span>		     _________________ 

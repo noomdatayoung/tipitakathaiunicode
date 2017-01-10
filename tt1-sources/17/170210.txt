@@ -1,0 +1,8 @@
+<span class="LineNumber"> 001 </span>		      รวมพระสูตรที่มีในวรรคนี้ คือ            
+<span class="LineNumber"> 002 </span>		 ๑. มารสูตร            ๖. ทุกขธัมมสูตร        
+<span class="LineNumber"> 003 </span>		 ๒. มารธัมมสูตร         ๗. อนัตตาสูตร         
+<span class="LineNumber"> 004 </span>		 ๓. อนิจจสูตร           ๘. อนัตตธัมมสูตร      
+<span class="LineNumber"> 005 </span>		 ๔. อนิจจธัมมสูตร        ๙. ขยธัมมสูตร        
+<span class="LineNumber"> 006 </span>		 ๕. ทุกขสูตร           ๑๐. วยธัมมสูตร         
+<span class="LineNumber"> 007 </span>		๑๑. สมุทยธัมมสูตร       ๑๒. นิโรธธัมมสูตร.    
+<span class="LineNumber"> 008 </span>		        -----------------------------------   

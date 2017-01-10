@@ -1,0 +1,10 @@
+<span class="LineNumber"> 001 </span>ในที่ไหน ดังนี้ ข้อนี้ มิใช่ฐานะที่จะมีได้ เพราะเหตุไร เพราะว่าอริยสาวกเห็นด้วยดีแล้วซึ่ง
+<span class="LineNumber"> 002 </span>ปฏิจจสมุปบาท และธรรมที่อาศัยกันเกิดขึ้นเหล่านี้ ด้วยปัญญาอันชอบตามเป็นจริง ฯ
+<span class="LineNumber"> 003 </span>จบสูตรที่ ๑๐
+<span class="LineNumber"> 004 </span>อาหารวรรคที่ ๒ จบ
+<span class="LineNumber"> 005 </span>รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 006 </span>๑ อาหารสูตร  ๒ ผัคคุนสูตร  ๓ สมณพราหมณสูตรที่ ๑
+<span class="LineNumber"> 007 </span>๔ สมณพราหมณสูตรที่ ๒  ๕ กัจจานโคตตสูตร  ๖ ธรรมกถิก
+<span class="LineNumber"> 008 </span>สูตร  ๗ อเจลกัสสปสูตร  ๘ ติมพรุกขสูตร  ๙ พาลบัณฑิตสูตร
+<span class="LineNumber"> 009 </span>๑๐ ปัจจัยสูตร ฯ
+<span class="LineNumber"> 010 </span>___________

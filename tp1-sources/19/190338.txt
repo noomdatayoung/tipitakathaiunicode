@@ -1,0 +1,9 @@
+<span class="LineNumber"> 001 </span>		  ตุลมตุลฺจ สมฺภวํ           ภวสงฺขารมวสฺสชฺชิ มุนิ  
+<span class="LineNumber"> 002 </span>		  อชฺฌตฺตรโต สมาหิโต        อภินฺทิ กวจมิวตฺตสมฺภวนฺติ ฯ  
+<span class="LineNumber"> 003 </span>			      ปาวาลวคฺโค ป€โม ฯ  
+<span class="LineNumber"> 004 </span>				   ตสฺสุทฺทานํ  
+<span class="LineNumber"> 005 </span>		  อปาราปิ วิรทฺโธ จ         อริยา นิพฺพุเต ๑ ยถา  
+<span class="LineNumber"> 006 </span>		  ปเทสํ สมฺมตฺตา ๒ ภิกฺขุ     พุทฺธาเณน เจติยาติ ฯ  
+<span class="LineNumber"> 007 </span>				__________________
+<span class="LineNumber"> 008 </span>#๑ ม. นิพฺพิทาปิ จ ฯ ยุ. นิพฺพิทา ฯ ๒ ม. ...สมตฺตํ ... พุทฺธํ าณฺจ  
+<span class="LineNumber"> 009 </span>#เจติยนฺติ ฯ  

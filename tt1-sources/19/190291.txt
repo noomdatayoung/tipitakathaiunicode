@@ -1,0 +1,7 @@
+<span class="LineNumber"> 001 </span>		     รวมพระสูตรที่มีในวรรคนี้ คือ    
+<span class="LineNumber"> 002 </span>     ๑. ปุพพสูตร       ๒. มหัปผลสูตร               
+<span class="LineNumber"> 003 </span>     ๓. ฉันทสูตร       ๔. โมคคัลลานสูตร            
+<span class="LineNumber"> 004 </span>     ๕. พราหมณสูตร    ๖. สมณพราหมณสูตรที่ ๑        
+<span class="LineNumber"> 005 </span>     ๗. สมณพราหมณสูตรที่ ๒               ๘. อภิญญาสูตร              
+<span class="LineNumber"> 006 </span>     ๙. เทสนาสูตร    ๑๐. วิภังคสูตร.               
+<span class="LineNumber"> 007 </span>		          ------------ 

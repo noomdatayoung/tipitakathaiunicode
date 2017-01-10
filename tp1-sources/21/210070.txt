@@ -1,0 +1,14 @@
+<span class="LineNumber"> 001 </span>	    รชตํ ชาตรูปฺจ            สาทิยนฺติ อวิทฺทสู ฯ    
+<span class="LineNumber"> 002 </span>	    มิจฺฉาชีเวน ชีวนฺติ          เอเก สมณพฺราหฺมณา    
+<span class="LineNumber"> 003 </span>	    เอเต อุปกฺกิเลสา วุตฺตา     พุทฺเธนาทิจฺจพนฺธุนา  
+<span class="LineNumber"> 004 </span>	    เยหิ อุปกฺกิเลเสหิ          เอเก สมณพฺราหฺมณา  
+<span class="LineNumber"> 005 </span>	    น ตปนฺติ น ภาสนฺติ         อสุทฺธา สรชา มตา ๑ ฯ  
+<span class="LineNumber"> 006 </span>	    อนฺธกาเรน โอนทฺธา        ตณฺหาทาสา สเนตฺติกา   
+<span class="LineNumber"> 007 </span>	    วฑฺเฒนฺติ กฏสึ โฆรํ         อาทิยนฺติ ปุนพฺภวนฺติ ฯ     
+<span class="LineNumber"> 008 </span>		    โรหิตสฺสวคฺโค ปฺจโม ฯ      
+<span class="LineNumber"> 009 </span>			   ตสฺสุทฺทานํ   
+<span class="LineNumber"> 010 </span>	    สมาธิปฺหา เทฺว โกธา      โรหิตสฺสาปเร ทุเว  
+<span class="LineNumber"> 011 </span>	    สุวิทูรวิสาขา วิปลฺลาโส      อุปกฺกิเลเสน เต ทสาติ ฯ    
+<span class="LineNumber"> 012 </span>		   ป€โม ปณฺณาสโก นิฏฺ€ิโต ฯ     
+<span class="LineNumber"> 013 </span>			__________________    
+<span class="LineNumber"> 014 </span>#๑ ม. มคา ฯ     

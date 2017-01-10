@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>				  รวมพระสูตรที่มีในวรรคนี้ คือ  
+<span class="LineNumber"> 002 </span>		  ๑. กันทรกสูตร
+<span class="LineNumber"> 003 </span>		  ๒. อัฏฐกนาครสูตร    
+<span class="LineNumber"> 004 </span>		  ๓. เสขปฏิปทาสูตร    
+<span class="LineNumber"> 005 </span>		  ๔. โปตลิยสูตร
+<span class="LineNumber"> 006 </span>		  ๕. ชีวกสูตร  
+<span class="LineNumber"> 007 </span>		  ๖. อุปาลิวาทสูตร    
+<span class="LineNumber"> 008 </span>		  ๗. กุกกุโรวาทสูตร   
+<span class="LineNumber"> 009 </span>		  ๘. อภัยราชกุมารสูตร 
+<span class="LineNumber"> 010 </span>		  ๙. พหุเวทนิยสูตร    
+<span class="LineNumber"> 011 </span>		 ๑๐. อปัณณกสูตร
+<span class="LineNumber"> 012 </span>				________________   

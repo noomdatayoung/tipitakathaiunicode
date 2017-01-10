@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>                 สุตฺตนฺตปิฏเก ขุทฺทกนิกายสฺส  
+<span class="LineNumber"> 002 </span>                       สุตฺตนิปาโต  
+<span class="LineNumber"> 003 </span>                       __________  
+<span class="LineNumber"> 004 </span>            นโม ตสฺส ภควโต อรหโต สมฺมาสมฺพุทฺธสฺส ฯ  
+<span class="LineNumber"> 005 </span>                     ป€โม อุรควคฺโค  
+<span class="LineNumber"> 006 </span>                      ป€มํ อุรคสุตฺตํ  
+<span class="LineNumber"> 007 </span>       [๒๙๔] ๑ โย เว ๑ อุปฺปติตํ วิเนติ โกธํ  
+<span class="LineNumber"> 008 </span>               วิสฏํ สปฺปวิสํว โอสเถหิ ๒  
+<span class="LineNumber"> 009 </span>               โส ภิกฺขุ ชหาติ โอรปารํ  
+<span class="LineNumber"> 010 </span>               อุรโค ชิณฺณมิว ตจํ ปุราณํ ฯ  
+<span class="LineNumber"> 011 </span>               โย ราคมุทจฺฉิทา อเสสํ  
+<span class="LineNumber"> 012 </span>               ภึสปุปฺผํว ๓  สโรรุหํ วิคยฺห  
+<span class="LineNumber"> 013 </span>               โส ภิกฺขุ ชหาติ โอรปารํ  
+<span class="LineNumber"> 014 </span>               อุรโค ชิณฺณมิว ตจํ ปุราณํ ฯ  
+<span class="LineNumber"> 015 </span>               โย ตณฺหมุทจฺฉิทา อเสสํ  
+<span class="LineNumber"> 016 </span>               สริตํ สีฆสรํ วิโสสยิตฺวา  
+<span class="LineNumber"> 017 </span>#๑ ม. ยุ. เวสทฺโท นตฺถิ ฯ  ๒ ม. โอสเธหิ ฯ  ๓ ม. ยุ. ภิสปุปฺผํว ฯ  

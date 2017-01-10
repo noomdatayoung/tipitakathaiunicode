@@ -1,0 +1,6 @@
+<span class="LineNumber"> 001 </span>รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 002 </span>๑. ธาตุสูตร 		๒. สัมผัสสสูตร 		๓. โนสัมผัสสสูตร
+<span class="LineNumber"> 003 </span>๔. เวทนาสูตร 	๕. โนเวทนาสูตร 		๖. พาหิรธาตุสูตร
+<span class="LineNumber"> 004 </span>๗. สัญญาสูตร 	๘. โนสัญญาสูตร 		๙. ผัสสสูตร
+<span class="LineNumber"> 005 </span>๑๐. โนผัสสสูตร ฯ
+<span class="LineNumber"> 006 </span>___________

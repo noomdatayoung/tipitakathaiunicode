@@ -1,0 +1,13 @@
+<span class="LineNumber"> 001 </span>ของภิกษุเสมอ นั่งบนอาสนะนั้น  เล่าเรียนเบื้องต้น ท่ามกลาง และ
+<span class="LineNumber"> 002 </span>ที่สุดของกถาได้ แล้วจำพยัญชนะไว้ เป็นคนมีความดำริประเสริฐสุด
+<span class="LineNumber"> 003 </span> มีใจไม่สงสัยปฏิบัติธรรมสมควรแก่ธรรม พึงทำที่สุดแห่งทุกข์ได้ ฯ
+<span class="LineNumber"> 004 </span>                           จบสูตรที่ ๑๐
+<span class="LineNumber"> 005 </span>                         จบปุคคลวรรคที่ ๓
+<span class="LineNumber"> 006 </span>                       ______________
+<span class="LineNumber"> 007 </span>                     รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 008 </span>๑. สวิฏฐสูตร 	๒. คิลานสูตร 
+<span class="LineNumber"> 009 </span>๓. สังขารสูตร 	๔. พหุการสูตร
+<span class="LineNumber"> 010 </span>๕. วชิรสูตร 		๖. เสวิสูตร 
+<span class="LineNumber"> 011 </span>๗. ชิคุจฉสูตร 	๘. คูถภาณีสูตร 
+<span class="LineNumber"> 012 </span>๙. อันธสูตร		๑๐. อวกุชชิตาสูตร
+<span class="LineNumber"> 013 </span>                      ______________

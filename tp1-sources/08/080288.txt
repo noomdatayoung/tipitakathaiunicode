@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>สติวินเยน  จ  อมูฬฺหวินเยน  จ  ตสฺสปาปิยสิกาย  จ  ฯ  อาปตฺตาธิกรณํ  
+<span class="LineNumber"> 002 </span>สตฺตนฺนํ    สมถานํ   ตโย   สมเถ   ภชติ   ตโย   สมเถ   อุปนิสฺสิตํ  
+<span class="LineNumber"> 003 </span>ตโย    สมเถ   ปริยาปนฺนํ   ตีหิ   สมเถหิ   สงฺคหิตํ   ตีหิ   สมเถหิ  
+<span class="LineNumber"> 004 </span>สมฺมติ    สมฺมุขาวินเยน    จ    ปฏิฺาตกรเณน   จ   ติณวตฺถารเกน  
+<span class="LineNumber"> 005 </span>จ   ฯ   กิจฺจาธิกรณํ   สตฺตนฺนํ   สมถานํ   เอกํ   สมถํ   ภชติ  เอกํ  
+<span class="LineNumber"> 006 </span>สมถํ    อุปนิสฺสิตํ    เอกํ    สมถํ    ปริยาปนฺนํ    เอเกน   สมเถน  
+<span class="LineNumber"> 007 </span>สงฺคหิตํ เอเกน สมเถน สมฺมติ สมฺมุขาวินเยนาติ ฯ  
+<span class="LineNumber"> 008 </span>                   สมถเภทํ นิฏฺ€ิตํ ๑ ฯ  
+<span class="LineNumber"> 009 </span>                      ตสฺสุทฺทานํ  
+<span class="LineNumber"> 010 </span>  [๙๑๗] อธิกรณํ ปริยาปนฺนํ ๒      สาธารณา จ ภาคิยา  
+<span class="LineNumber"> 011 </span>        สมถา สาธารณิกา         สมถสฺส ตพฺภาคิยา  
+<span class="LineNumber"> 012 </span>        สมถา สมฺมุขา เจว        วินเย ๓ กุสเลน จ  
+<span class="LineNumber"> 013 </span>        ยตฺถสมยสํสฏฺ€า ๔        สมฺมนฺติ น สมฺมนฺติ จ  
+<span class="LineNumber"> 014 </span>        สมถาธิกรณฺเจว          สมุฏฺ€านํ ภชนฺติ จาติ ฯ  
+<span class="LineNumber"> 015 </span>                     __________________  
+<span class="LineNumber"> 016 </span>#๑ ม. ภชติวาโร นิฏฺ€ิโต เอกวีสติโม สมถเภโท นิฏฺ€ิโต ฯ  ๒ ม. ปริยายํ ฯ  
+<span class="LineNumber"> 017 </span>#๓ ม. ยุ. วินเยน ฯ   ๔ ม. ยตฺถสมถสํสฏฺ€า ฯ  

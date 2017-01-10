@@ -1,0 +1,15 @@
+<span class="LineNumber"> 001 </span>	อิโต ปณฺณรเส กปฺเป       ตโย ๑ อาสึสุ มาลภิ  
+<span class="LineNumber"> 002 </span>	สตฺตรตนสมฺปนฺนา          จกฺกวตฺตี มหพฺพลา ฯ  
+<span class="LineNumber"> 003 </span>	ปฏิสมฺภิทา จตสฺโส         วิโมกฺขาปิจ อฏฺ€ิเม  
+<span class="LineNumber"> 004 </span>	ฉฬภิฺา สจฺฉิกตา         กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 005 </span>	อิตฺถํ สุทํ อายสฺมา ผลทายโก เถโร อิมา คาถาโย  
+<span class="LineNumber"> 006 </span>อภาสิตฺถาติ ฯ  
+<span class="LineNumber"> 007 </span>		ผลทายกตฺเถรสฺส อปทานํ สมตฺตํ ฯ  
+<span class="LineNumber"> 008 </span>		อุทฺทานํ  
+<span class="LineNumber"> 009 </span>	โสภิ สุทสฺสโน เจว        จนฺทโน ปุปฺผฉทโน  
+<span class="LineNumber"> 010 </span>	รโห จมฺปกปุปฺผี จ         อตฺถสนฺทสฺสเกน จ ฯ  
+<span class="LineNumber"> 011 </span>	เอกรํสี ๒ สาลทโท       ทสโม ผลทายโก  
+<span class="LineNumber"> 012 </span>	คาถาโย สตฺตติ เทฺว จ     คณิตาโย วิภาวิหีติ ฯ  
+<span class="LineNumber"> 013 </span>		โสภิตวคฺโค จุทฺทสโม  
+<span class="LineNumber"> 014 </span>		___________________  
+<span class="LineNumber"> 015 </span>#๑ ม. ตโย อาสุํ ปิยาลิโน ฯ ๒ ม. เอกปสาที ฯ ยุ. เอกทุสฺสิ ฯ  

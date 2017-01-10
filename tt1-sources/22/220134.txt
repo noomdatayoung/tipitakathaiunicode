@@ -1,0 +1,7 @@
+<span class="LineNumber"> 001 </span>		    รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 002 </span>     	๑. คิลานสูตร 		๒. สติปัฏฐานสูตร 
+<span class="LineNumber"> 003 </span>๓. อุปัฏฐากสูตรที่ ๑		๔. อุปัฏฐากสูตรที่ ๒ 
+<span class="LineNumber"> 004 </span>๕. อนายุสสสูตรที่ ๑ 	๖. อนายุสสสูตรที่ ๒
+<span class="LineNumber"> 005 </span>๗. อวัปปกาสสูตร 		๘. สมณทุกขสูตร 
+<span class="LineNumber"> 006 </span>๙. ปริกุปปสูตร 		๑๐. สัมปทาสูตร ฯ
+<span class="LineNumber"> 007 </span>		        __________________

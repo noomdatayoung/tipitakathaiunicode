@@ -1,0 +1,9 @@
+<span class="LineNumber"> 001 </span>                    รวมอปทานที่มีในวรรคนี้ คือ          
+<span class="LineNumber"> 002 </span>        ๑. หัตถิทายกเถราปทาน            ๒. ปานธิทายกเถราปทาน  
+<span class="LineNumber"> 003 </span>        ๓. สัจจสัญญกเถราปทาน            ๔. เอกสัญญกเถราปทาน  
+<span class="LineNumber"> 004 </span>        ๕. รังสิสัญญกเถราปทาน            ๖. สันธิตเถราปทาน  
+<span class="LineNumber"> 005 </span>        ๗. ตาลวัณฏทายกเถราปทาน         ๘. อักกันตสัญญกเถราปทาน  
+<span class="LineNumber"> 006 </span>        ๙. สัปปิทายกเถราปทาน           ๑๐. ปาปนิวาริยเถราปทาน  
+<span class="LineNumber"> 007 </span>           มีคาถา ๕๔ คาถา ฉะนี้แล.  
+<span class="LineNumber"> 008 </span>                       จบ หัตถิวรรคที่ ๒๒               
+<span class="LineNumber"> 009 </span>                       --------------  

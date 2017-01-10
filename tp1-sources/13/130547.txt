@@ -1,0 +1,4 @@
+<span class="LineNumber"> 001 </span>     อิทมโวจ    ภควา    อตฺตมนา   เต   ภิกฺขู   ภควโต   ภาสิตํ  
+<span class="LineNumber"> 002 </span>อภินนฺทุนฺติ ฯ  
+<span class="LineNumber"> 003 </span>                 พฺรหฺมายุสุตฺตํ นิฏฺ€ิตํ ป€มํ ฯ  
+<span class="LineNumber"> 004 </span>                    __________________  

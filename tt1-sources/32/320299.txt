@@ -1,0 +1,9 @@
+<span class="LineNumber"> 001 </span>                    รวมอปทานที่มีในวรรคนี้ คือ          
+<span class="LineNumber"> 002 </span>     ๑. ปทุมเกสริยเถราปทาน          ๒. สรรพคันธิยเถราปทาน  
+<span class="LineNumber"> 003 </span>     ๓. ปรมันนทายกเถราปทาน         ๔. ธรรมสัญญกเถราปทาน  
+<span class="LineNumber"> 004 </span>     ๕. ผลทายกเถราปทาน            ๖. สัมปสาทิกเถราปทาน  
+<span class="LineNumber"> 005 </span>     ๗. อารามทายกเถราปทาน         ๘. อนุเลปเถราปทาน     
+<span class="LineNumber"> 006 </span>     ๙. พุทธสัญญิกเถราปทาน          ๑๐. ปัพภารทายกเถราปทาน  
+<span class="LineNumber"> 007 </span>        และท่านกล่าวคาถาไว้ ๕๑ คาถา.  
+<span class="LineNumber"> 008 </span>                    จบ ปทุมเกสริยวรรคที่ ๓๑.            
+<span class="LineNumber"> 009 </span>                    --------------------  

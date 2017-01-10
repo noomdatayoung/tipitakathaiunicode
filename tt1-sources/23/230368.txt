@@ -1,0 +1,14 @@
+<span class="LineNumber"> 001 </span>                         อมตปัตตสูตร
+<span class="LineNumber"> 002 </span>     [๒๕๙] อุ. ดูกรอาวุโส พระผู้มีพระภาคตรัสว่า อมตปัตตะๆ[ผู้บรรลุอมตธรรม]
+<span class="LineNumber"> 003 </span> ดังนี้ ฯลฯ
+<span class="LineNumber"> 004 </span>                          จบสูตรที่ ๔
+<span class="LineNumber"> 005 </span>                           อภยสูตร
+<span class="LineNumber"> 006 </span>     [๒๖๐] อุ. ดูกรอาวุโส พระผู้มีพระภาคตรัสว่า อภยะๆ ดังนี้ ฯลฯ
+<span class="LineNumber"> 007 </span>                          จบสูตรที่ ๕
+<span class="LineNumber"> 008 </span>                         อภยปัตตสูตร
+<span class="LineNumber"> 009 </span>     [๒๖๑] อุ. ดูกรอาวุโส พระผู้มีพระภาคตรัสว่า อภยปัตตะๆ (ผู้บรรลุธรรมอันไม่มี
+<span class="LineNumber"> 010 </span>ภัย) ดังนี้ ฯลฯ
+<span class="LineNumber"> 011 </span>                          จบสูตรที่ ๖
+<span class="LineNumber"> 012 </span>                          ปัสสัทธิสูตร
+<span class="LineNumber"> 013 </span>     [๒๖๒] อุ. ดูกรอาวุโส พระผู้มีพระภาคตรัสว่า ปัสสัทธิๆ ดังนี้ ฯลฯ
+<span class="LineNumber"> 014 </span>                          จบสูตรที่ ๗

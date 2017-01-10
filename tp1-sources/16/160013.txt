@@ -1,0 +1,15 @@
+<span class="LineNumber"> 001 </span>อหุ   ปฺาย   อภิสมโย   อวิชฺชาย   โข  อสติ  สงฺขารา  น  โหนฺติ  
+<span class="LineNumber"> 002 </span>อวิชฺชานิโรธา  สงฺขารนิโรโธติ  ฯ  อิติ หิทํ อวิชฺชานิโรธา สงฺขารนิโรโธ  
+<span class="LineNumber"> 003 </span>สงฺขารนิโรธา     วิฺาณนิโรโธ    ฯเปฯ    เอวเมตสฺส    เกวลสฺส  
+<span class="LineNumber"> 004 </span>ทุกฺขกฺขนฺธสฺส   นิโรโธ  โหติ  ฯ  นิโรโธ  นิโรโธติ  โข  เม  ภิกฺขเว  
+<span class="LineNumber"> 005 </span>ปุพฺเพ   อนนุสฺสุเตสุ   ธมฺเมสุ   จกฺขุํ   อุทปาทิ  าณํ  อุทปาทิ  ปฺา  
+<span class="LineNumber"> 006 </span>อุทปาทิ วิชฺชา อุทปาทิ อาโลโก อุทปาทีติ ฯ ทสมํ ฯ  
+<span class="LineNumber"> 007 </span>                    พุทฺธวคฺโค ป€โม ฯ  
+<span class="LineNumber"> 008 </span>                     ตสฺส อุทฺทานํ ภวติ  
+<span class="LineNumber"> 009 </span>               เทสนาวิภงฺคํ ปฏิปทฺจ ๑  
+<span class="LineNumber"> 010 </span>               วิปสฺสี สิขี จ เวสฺสภู  
+<span class="LineNumber"> 011 </span>               กกุสนฺโธ โกนาคมโน จ ๒ กสฺสโป  
+<span class="LineNumber"> 012 </span>               มหาสกฺยมุนี ๓ จ โคตโมติ ๔ ฯ  
+<span class="LineNumber"> 013 </span>                     __________________  
+<span class="LineNumber"> 014 </span>#๑ ม. เทสนาวิภงฺคปฏิปทา จ ฯ ยุ. ... ปฏิปทา จ ฯ    ๒ ม. ยุ. จสทฺโท นตฺถิ  ฯ  
+<span class="LineNumber"> 015 </span>#๓ ม. ยุ. มหาสกฺยมุนิ ฯ    ๔ ยุ. โคตมนฺติ ฯ  

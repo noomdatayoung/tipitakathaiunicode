@@ -1,0 +1,9 @@
+<span class="LineNumber"> 001 </span>		       รวมเรื่องในอุรควรรค คือ  
+<span class="LineNumber"> 002 </span>		๑. เขตตูปมาเปตวัตถุ            ๒. สูกรเปตวัตถุ  
+<span class="LineNumber"> 003 </span>		๓. ปูติมุขเปตวัตถุ               ๔. ปิฏฐธีตลิกเปตวัตถุ  
+<span class="LineNumber"> 004 </span>		๕. ติโรกุฑฑเปตวัตถุ             ๖. ปัญจปุตตขาทิกเปตวัตถุ  
+<span class="LineNumber"> 005 </span>		๗. สัตตปุตตขาทิกเปตวัตถุ        ๘. โคณเปตวัตถุ  
+<span class="LineNumber"> 006 </span>		๙. มหาเปสการเปตวัตถุ        ๑๐. ขลาตยเปตวัตถุ  
+<span class="LineNumber"> 007 </span>	  ๑๑. นาคเปตวัตถุ               ๑๒. อุรคเปตวัตถุ.  
+<span class="LineNumber"> 008 </span>		          จบ อุรควรรคที่ ๑.  
+<span class="LineNumber"> 009 </span>		           ________________  

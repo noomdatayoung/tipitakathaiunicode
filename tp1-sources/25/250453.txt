@@ -1,0 +1,23 @@
+<span class="LineNumber"> 001 </span>           ยถา เอตาสุ ชาตีสุ        ลิงฺคํ ชาติมยํ ปุถุ  
+<span class="LineNumber"> 002 </span>           เอวํ นตฺถิ มนุสฺเสสุ        ลิงฺคํ ชาติมยํ ปุถุ ฯ  
+<span class="LineNumber"> 003 </span>           น เกเสหิ น สีเสหิ ๑     น กณฺเณหิ น อกฺขิหิ  
+<span class="LineNumber"> 004 </span>           น มุเขน น นาสาย        น โอฏฺเ€หิ ภมูหิ วา  
+<span class="LineNumber"> 005 </span>           น คีวาย น อํเสหิ         น อุทเรน น ปิฏฺ€ิยา  
+<span class="LineNumber"> 006 </span>           น โสณิยา น อุรสา        น สมฺพาธา น เมถุนา ๒  
+<span class="LineNumber"> 007 </span>           น หตฺเถหิ น ปาเทหิ       น องฺคุลีหิ นเขหิ วา  
+<span class="LineNumber"> 008 </span>           น ชงฺฆาหิ น อูรูหิ         น วณฺเณน สเรน วา  
+
+<span class="LineNumber"> 009 </span>           ลิงฺคํ ชาติมยํ เนว         ยถา อฺาสุ ชาติสุ ฯ  
+<span class="LineNumber"> 010 </span>           ปจฺจตฺตํ สสรีเรสุ ๓        มนุสฺเสเสฺวตํ น วิชฺชติ  
+<span class="LineNumber"> 011 </span>           โวการฺจ มนุสฺเสสุ        สมฺาย ปวุจฺจติ ฯ  
+<span class="LineNumber"> 012 </span>           โย หิ โกจิ มนุสฺเสสุ       โครกฺขํ อุปชีวติ  
+<span class="LineNumber"> 013 </span>           เอวํ วาเสฏฺ€ ชานาหิ      กสฺสโก โส น พฺราหฺมโณ ฯ  
+<span class="LineNumber"> 014 </span>           โย หิ โกจิ มนุสฺเสสุ       ปุถุสิปฺเปน ชีวติ  
+<span class="LineNumber"> 015 </span>           เอวํ วาเสฏฺ€ ชานาหิ      สิปฺปิโก โส น พฺราหฺมโณ ฯ  
+<span class="LineNumber"> 016 </span>           โย หิ โกจิ มนุสฺเสสุ       โวหารํ อุปชีวติ  
+<span class="LineNumber"> 017 </span>           เอวํ วาเสฏฺ€ ชานาหิ      วาณิโช โส น พฺราหฺมโณ ฯ  
+<span class="LineNumber"> 018 </span>           โย หิ โกจิ มนุสฺเสสุ       ปรเปสฺเสน ชีวติ  
+<span class="LineNumber"> 019 </span>           เอวํ วาเสฏฺ€ ชานาหิ      เปสฺสิโก โส น พฺราหฺมโณ ฯ  
+<span class="LineNumber"> 020 </span>           โย หิ โกจิ มนุสฺเสสุ       อทินฺนํ อุปชีวติ  
+<span class="LineNumber"> 021 </span>#๑ ม. ยุ. สีเสน ฯ   ๒ โป. ม. ยุ. น สมฺพาเธ น เมถุเน ฯ  ๓ โป. ม.  
+<span class="LineNumber"> 022 </span>#ปจฺจตฺตฺจ สรีเรสุ ฯ  

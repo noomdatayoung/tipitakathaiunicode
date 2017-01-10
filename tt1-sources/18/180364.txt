@@ -1,0 +1,6 @@
+<span class="LineNumber"> 001 </span>รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 002 </span>๑. กายคตาสติสูตร 		๒. สมถวิปัสนาสูตร 	๓. วิตักกสูตร
+<span class="LineNumber"> 003 </span>๔. สุญญตสูตร 			๕. สติปัฏฐานสูตร 		๖. สัมมัปปธานสูตร
+<span class="LineNumber"> 004 </span>๗. อิทธิปาทสูตร			๘. อินทรียสูตร 		๙. พลสูตร
+<span class="LineNumber"> 005 </span>๑๐. โพชฌงคสูตร 			๑๑. มรรคสูตร
+<span class="LineNumber"> 006 </span>_____________________

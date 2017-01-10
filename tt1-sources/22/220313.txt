@@ -1,0 +1,13 @@
+<span class="LineNumber"> 001 </span>พอใจด้วยการอยู่ป่าของภิกษุนั้น อนึ่งสมัยใด เราเดินทางไกล ย่อมไม่เห็นใครข้างหน้าหรือข้าง
+<span class="LineNumber"> 002 </span>หลัง สมัยนั้น เราย่อมมีความสบายโดยที่สุดด้วยการถ่ายอุจจาระ ปัสสาวะ ฯ
+<span class="LineNumber"> 003 </span>		          จบสูตรที่ ๑๒
+<span class="LineNumber"> 004 </span>		     จบเสกขปริหานิยวรรคที่ ๔
+<span class="LineNumber"> 005 </span>		     __________________
+<span class="LineNumber"> 006 </span>		    รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 007 </span>    	 ๑. เสกขสูตร 		๒. อปริหานิยสูตรที่ ๑ 
+<span class="LineNumber"> 008 </span>๓. อปริหานิยสูตรที่ ๒	๔. โมคคัลลานสูตร 
+<span class="LineNumber"> 009 </span>๕. วิชชาภาคิยสูตร 		๖. วิวาทมูลสูตร 
+<span class="LineNumber"> 010 </span>๗. ทานสูตร 			๘. อัตตการีสูตร 
+<span class="LineNumber"> 011 </span>๙. นิทานสูตร 		๑๐. กิมมิลสูตร 
+<span class="LineNumber"> 012 </span>๑๑. ทารุกขันธสูตร 		๑๒. นาคิตสูตร ฯ
+<span class="LineNumber"> 013 </span>		     __________________

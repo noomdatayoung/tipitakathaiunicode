@@ -1,0 +1,6 @@
+<span class="LineNumber"> 001 </span>	รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 002 </span>	๑. ภิกขุสูตรที่ ๑ 			๒. ภิกขุสูตรที่ ๒ 
+<span class="LineNumber"> 003 </span>	๓. ตปนียสูตร 			๔. อตปนียสูตร 	
+<span class="LineNumber"> 004 </span>	๕. สีลสูตรที่ ๑ 			๖. สีลสูตรที่ ๒ 
+<span class="LineNumber"> 005 </span>	๗. อาตาปีสูตร 			๘. นกุหนาสูตรที่ ๑ 	
+<span class="LineNumber"> 006 </span>	๙. นกุหนาสูตรที่ ๒ 		๑๐. โสมนัสสสูตร ฯ

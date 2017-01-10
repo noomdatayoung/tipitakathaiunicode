@@ -1,0 +1,25 @@
+<span class="LineNumber"> 001 </span>    [๑๕๔๕] ส. ธัมมตัณหาไม่เป็นทุกขสมุทัย หรือ?             
+<span class="LineNumber"> 002 </span>           ป. ถูกแล้ว        
+<span class="LineNumber"> 003 </span>           ส. ความโลภพระผู้มีพระภาคตรัสว่า เป็นทุกขสมุทัย และธัมมตัณหาก็เป็น             
+<span class="LineNumber"> 004 </span>              ความโลภ มิใช่หรือ?  
+<span class="LineNumber"> 005 </span>           ป. ถูกแล้ว        
+<span class="LineNumber"> 006 </span>           ส. หากว่า ความโลภ พระผู้มีพระภาคตรัสว่า เป็นทุกขสมุทัย และธัมมตัณหา           
+<span class="LineNumber"> 007 </span>              ก็เป็นความโลภ ก็ต้องไม่กล่าวว่า ธัมมตัณหาไม่เป็นทุกขสมุทัย                 
+<span class="LineNumber"> 008 </span>    [๑๕๔๖] ส. โลภะคือธัมมตัณหา ไม่เป็นทุกขสมุทัย หรือ?     
+<span class="LineNumber"> 009 </span>           ป. ถูกแล้ว        
+<span class="LineNumber"> 010 </span>           ส. โลภะคือรูปตัณหา ไม่เป็นทุกขสมุทัย หรือ?      
+<span class="LineNumber"> 011 </span>           ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ                     
+<span class="LineNumber"> 012 </span>           ส. โลภะคือธัมมตัณหา ไม่เป็นทุกขสมุทัย หรือ?     
+<span class="LineNumber"> 013 </span>           ป. ถูกแล้ว        
+<span class="LineNumber"> 014 </span>           ส. โลภะคือสัททตัณหา ฯลฯ คือคันธตัณหา ฯลฯ คือรสตัณหา ฯลฯ คือ                   
+<span class="LineNumber"> 015 </span>              โผฏฐัพพตัณหา ไม่เป็นทุกขสมุทัย หรือ?         
+
+<span class="LineNumber"> 016 </span>            ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ                     
+<span class="LineNumber"> 017 </span>    [๑๕๔๗] ส. โลภะคือรูปตัณหา เป็นทุกขสมุทัย หรือ?         
+<span class="LineNumber"> 018 </span>           ป. ถูกแล้ว        
+<span class="LineNumber"> 019 </span>           ส. โลภะคือธัมมตัณหา เป็นทุกขสมุทัย หรือ?        
+<span class="LineNumber"> 020 </span>           ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ                     
+<span class="LineNumber"> 021 </span>           ส. โลภะคือสัททตัณหา ฯลฯ คือโผฏฐัพพตัณหา เป็นทุกขสมุทัย หรือ?                  
+<span class="LineNumber"> 022 </span>           ป. ถูกแล้ว        
+<span class="LineNumber"> 023 </span>           ส. โลภะคือธัมมตัณหา เป็นทุกขสมุทัย หรือ?        
+<span class="LineNumber"> 024 </span>           ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ       

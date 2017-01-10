@@ -1,0 +1,14 @@
+<span class="LineNumber"> 001 </span>        เอกจฺฉนฺเน น  วตฺถพฺพํ       น ฉมายํ นิสชฺชิเต ๑  
+<span class="LineNumber"> 002 </span>        อาสเน นีเจ จงฺกเม ๒      ฉมายํ จงฺกเม น จ  
+<span class="LineNumber"> 003 </span>        วุฑฺฒตเรน อกมฺมํ            รตฺติจฺเฉทา ๓ จ โสธนา  
+<span class="LineNumber"> 004 </span>        นิกฺขิปนํ สมาทานํ            าตพฺพํ ปาริวาสิกา ๔  
+<span class="LineNumber"> 005 </span>        มูลาย มานตฺตารหา          ตถา มานตฺตจาริกา  
+<span class="LineNumber"> 006 </span>        อพฺภานารหกา จาปิ          สมฺเภทนยโต ปุน ๕ ฯ  
+<span class="LineNumber"> 007 </span>        ปาริวาสิกานํ ๖ ตโย        จตุมานตฺตจาริเก  
+<span class="LineNumber"> 008 </span>        น สเมนฺติ รตฺติจฺเฉทา ๗     มานตฺเตสุ จ ทิวาสิกํ ๘ ฯ  
+<span class="LineNumber"> 009 </span>        เทฺว กมฺมา สทิสา เสสา      ตโย กมฺมา สมานตาติ ๙ ฯ  
+<span class="LineNumber"> 010 </span>#๑ ม. ยุ. เอกจฺฉนฺเน จ วุฏฺ€านํ ตเถว จ นิมนฺตเย ฯ    ๒ ยุ. นีจจงฺกเม ฯ  
+<span class="LineNumber"> 011 </span>#๓ ม. ยุ. รตฺติจฺเฉโท ฯ   ๔ ม. วตฺตํ ว ปริวาสิเก ฯ ยุ. รตฺติ วา ปาริวาสิเก ฯ  
+<span class="LineNumber"> 012 </span>#๕ ม. อพฺภานารเหน โย จาปิ สมฺเภทํ นยโต ปุน ฯ ยุ. อพฺภานารโห โย จาปิ  
+<span class="LineNumber"> 013 </span>#สมฺเภทํ นยโต ปุน ฯ  ๖ ม. ยุ. ปาริวาสิเกสุ ฯ   ๗ ม. ยุ. สมนฺติ รจฺติจฺเฉเทสุ ฯ  
+<span class="LineNumber"> 014 </span>#๘ ม. ยุ. เทวสิ ฯ   ๙ ม. ยุ. สมาสมาติ ฯ  

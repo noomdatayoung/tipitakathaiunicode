@@ -1,0 +1,8 @@
+<span class="LineNumber"> 001 </span>[ส่วนที่เป็นอดีต อนาคต ปัจจุบัน ในที่ทุกแห่ง พึงทำเหมือนอย่างข้างต้นนั้น เทอญ]
+<span class="LineNumber"> 002 </span>จบทุติยวรรคที่ ๒
+<span class="LineNumber"> 003 </span>รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 004 </span>๑. สัตติมสูตร 		๒. สนิทานสูตร 		๓. คิญชกาวสถสูตร
+<span class="LineNumber"> 005 </span>๔. หีนาธิมุตติสูตร 		๕. จังกมสูตร 		๖. สตาปารัทธสูตร
+<span class="LineNumber"> 006 </span>๗. อัสสัทธมูลกสูตรที่ ๑ 	๘. อัสสัทธมูลกสูตรที่ ๒.	๙. อหิริกมูลกสูตร 
+<span class="LineNumber"> 007 </span>๑๐. อโนตตัปปมูลกสูตร 	๑๑. อัปปสุตสูตร 		๑๒. กุสิตสูตร ฯ
+<span class="LineNumber"> 008 </span>_________

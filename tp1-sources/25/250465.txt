@@ -1,0 +1,24 @@
+<span class="LineNumber"> 001 </span>               ชิวฺหํ พฬิเสน คเหตฺวา  
+<span class="LineNumber"> 002 </span>               อารจยารจยา วิหนนฺติ ๑ ฯ  
+<span class="LineNumber"> 003 </span>               อถ เวตฺตรณึ ปน ทุคฺคํ  
+
+<span class="LineNumber"> 004 </span>               ติณฺหธารํ ขุรธารมุเปนฺติ ๒  
+<span class="LineNumber"> 005 </span>               ตตฺถ มนฺทา ปปตนฺติ  
+<span class="LineNumber"> 006 </span>               ปาปการา ๓  ปาปานิ กตฺวา ๔ ฯ  
+<span class="LineNumber"> 007 </span>               ขาทนฺติ หิ ตตฺถ รุทนฺเต  
+<span class="LineNumber"> 008 </span>               สามา สพลา กาโกลคณา จ  
+<span class="LineNumber"> 009 </span>               โสณา สิงฺคาลา ปฏิคิชฺฌา  
+<span class="LineNumber"> 010 </span>               กุลลา วายสา จ วิตุทนฺติ ฯ  
+<span class="LineNumber"> 011 </span>               กิจฺฉา วตายํ อิธ วุตฺติ  
+<span class="LineNumber"> 012 </span>               ยํ ชโน ปสฺสติ ๕ กิพฺพิสฺสการี  
+<span class="LineNumber"> 013 </span>               ตสฺมา อิธ ชีวิตเสเส  
+<span class="LineNumber"> 014 </span>               กิจฺจกโร สิยา นโร น จ มชฺเช ๖ ฯ  
+<span class="LineNumber"> 015 </span>               เต คณิตา วิทูหิ ติลวาหา  
+<span class="LineNumber"> 016 </span>               เย ปทุเม นิรเย อุปนีตา  
+<span class="LineNumber"> 017 </span>               นหุตานิ หิ โกฏิโย ปฺจ ภวนฺติ  
+<span class="LineNumber"> 018 </span>               ทฺวาทส โกฏิสตานิ ปุนฺา ๗ ฯ  
+<span class="LineNumber"> 019 </span>               ยาว ทุกฺขา นิรยา อิธ วุตฺตา  
+<span class="LineNumber"> 020 </span>               ตตฺถปิ ตาว จิรํ วสิตพฺพํ  
+<span class="LineNumber"> 021 </span>#๑ โป. อารปยา วิหรนฺติ ฯ ม. อารชยารชยา ... ฯ  ๒ ม. ติณฺหธารขุร ... ฯ  
+<span class="LineNumber"> 022 </span>#๓ ม. ยุ. ปาปกรา ฯ ๔ ม. ยุ. กริตฺวา ฯ  ๕ ม. ผุสติ ฯ ๖ โป. น ปมชฺชเร ฯ  
+<span class="LineNumber"> 023 </span>#ม. น อปฺปมชฺเช ฯ ๗ โป. ปุนฺเ ฯ

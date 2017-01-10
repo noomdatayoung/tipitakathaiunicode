@@ -1,0 +1,16 @@
+<span class="LineNumber"> 001 </span>		          คันธวิเลปนสูตร             
+<span class="LineNumber"> 002 </span>		   ว่าด้วยสัตว์ผู้เว้นเครื่องลูบไล้มีน้อย             
+<span class="LineNumber"> 003 </span>	[๑๗๗๕] ดูกรภิกษุทั้งหลาย ฉันนั้นเหมือนกัน สัตว์ผู้งดเว้นจากการทัดทรง ประดับ     
+<span class="LineNumber"> 004 </span>และตกแต่งร่างกายด้วยดอกไม้ ของหอมและเครื่องประเทืองผิว อันเป็นฐานแห่งการแต่งตัว      
+<span class="LineNumber"> 005 </span>มีน้อย โดยที่แท้ สัตว์ผู้ไม่งดเว้นจากการทัดทรงประดับ และตกแต่งร่างกายด้วยดอกไม้ ของ  
+<span class="LineNumber"> 006 </span>หอม และเครื่องประเทืองผิวอันเป็นฐานแห่งการแต่งตัว มีมากกว่า ฯลฯ.    
+<span class="LineNumber"> 007 </span>		           จบ สูตรที่ ๑๐             
+<span class="LineNumber"> 008 </span>		  จบ อามกธัญญเปยยาล ทุติยวรรคที่ ๘   
+<span class="LineNumber"> 009 </span>		          ------------               
+<span class="LineNumber"> 010 </span>		     รวมพระสูตรที่มีในวรรคนี้ คือ    
+<span class="LineNumber"> 011 </span>         ๑. ปาณาติปาตสูตร        ๒. อทินนาทานสูตร  
+<span class="LineNumber"> 012 </span>         ๓. กาเมสุมิจฉาจารสูตร    ๔. มุสาวาทสูตร   
+<span class="LineNumber"> 013 </span>         ๕. เปสุญญสูตร           ๖. ผรุสสูตร       
+<span class="LineNumber"> 014 </span>         ๗. สัมผัปปลาปสูตร        ๘. พีชสูตร       
+<span class="LineNumber"> 015 </span>         ๙. วิกาลโภชนสูตร        ๑๐. คันธวิเลปนสูตร.                
+<span class="LineNumber"> 016 </span>		         -------------   

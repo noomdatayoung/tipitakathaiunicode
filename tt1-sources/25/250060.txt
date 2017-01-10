@@ -1,0 +1,15 @@
+<span class="LineNumber"> 001 </span>ครั้งนั้นแล พระผู้มีพระภาคทรงทราบเนื้อความนี้แล้ว ได้ทรงเปล่งอุทานนี้ในเวลานั้นว่า
+<span class="LineNumber"> 002 </span>	ดิน น้ำ ไฟ และลม ย่อมไม่หยั่งลงในนิพพานธาตุใดในนิพพานธาตุ
+<span class="LineNumber"> 003 </span>	นั้น ดาวทั้งหลายย่อมไม่สว่าง พระอาทิตย์ย่อมไม่ปรากฏ พระจันทร์
+<span class="LineNumber"> 004 </span>	ย่อมไม่สว่าง ความมืดย่อมไม่มีก็เมื่อใดพราหมณ์ชื่อว่าเป็นมุนีเพราะรู้ 
+<span class="LineNumber"> 005 </span>	(สัจจะ ๔) รู้แล้วด้วยตน เมื่อนั้น พราหมณ์ย่อมหลุดพ้นจากรูปและ
+<span class="LineNumber"> 006 </span>	อรูปจากสุขและทุกข์ ฯ
+<span class="LineNumber"> 007 </span>	จบสูตรที่ ๑๐
+<span class="LineNumber"> 008 </span>	จบโพธิวรรคที่ ๑
+<span class="LineNumber"> 009 </span>	__________
+<span class="LineNumber"> 010 </span>	รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 011 </span>	๑. โพธิสูตรที่ ๑ 			๒. โพธิสูตรที่ ๒ 
+<span class="LineNumber"> 012 </span>	๓. โพธิสูตรที่ ๓ 			๔. อชปาลนิโครธสูตร 
+<span class="LineNumber"> 013 </span>	๕. เถรสูตร 				๖. มหากัสสปสูตร 
+<span class="LineNumber"> 014 </span>	๗. ปาวาสูตร 			๘. สังคามชิสูตร
+<span class="LineNumber"> 015 </span>	๙. ชฎิลสูตร 				๑๐. พาหิยสูตร ฯ

@@ -1,0 +1,6 @@
+<span class="LineNumber"> 001 </span>		  ตสฺสุทฺทานํ  
+<span class="LineNumber"> 002 </span>	  อสมฺมตตฺถงฺคตา  อุปสฺสย  อามิสทาเนน  สิพฺพติ  ๑  
+<span class="LineNumber"> 003 </span>	  อทฺธานํ  นาวํ  ภุฺเชยฺย  ๒  เอโก  เอกาย  เต  ทสาติ ฯ  
+<span class="LineNumber"> 004 </span>		  ___________________  
+<span class="LineNumber"> 005 </span>#  ๑  ม.  อสมฺมต  อตฺถงฺคตู  ปสฺสยามิสทาเนน ฯ  
+<span class="LineNumber"> 006 </span>#  ๒  ม.  สิพฺพติ  อทฺธานํ  นาวํ  ภุฺเชยฺย  ... ฯ  

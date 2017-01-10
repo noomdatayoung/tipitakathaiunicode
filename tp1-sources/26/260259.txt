@@ -1,0 +1,14 @@
+<span class="LineNumber"> 001 </span>		       ตสฺสุทฺทานํ  
+<span class="LineNumber"> 002 </span>	  อมฺพสกฺขโร เสริสฺสโก จ    ปิงฺคโล เรวตี อุจฺฉุขาทโก ๑  
+<span class="LineNumber"> 003 </span>	เทฺว กุมารา เทฺว คูถโภชนา ๒  ปาฏลิโปกฺขรณี จ ๓  
+<span class="LineNumber"> 004 </span>	  อกฺขโต ๔ โภคสํหรา      เสฏฺ€ิปุตฺตา สฏฺ€ิกูฏสหสฺสานิ   
+<span class="LineNumber"> 005 </span>		    [๕]      วคฺโค เตน ปวุจฺจตีติ ๖ ฯ   
+<span class="LineNumber"> 006 </span>			[๗]  
+<span class="LineNumber"> 007 </span>		   มหาวคฺโค จตุตฺโถ ฯ   
+<span class="LineNumber"> 008 </span>		    เปตวตฺถุ สมตฺตํ ฯ   
+<span class="LineNumber"> 009 </span>		    _________________   
+<span class="LineNumber"> 010 </span>#๑ ม. อุจฺฉุ ฯ  ๒ ม. คูถา ฯ  ๓ ม. คณปาฏลิ อมฺพวนํ ฯ  ๔ ม. อกฺขรุกฺข ฯ   
+<span class="LineNumber"> 011 </span>#[๕] ม. อิติ โสฬสวตฺถูนิ ฯ  ๖ ยุ. อิทํ อุทานํ น ทิสฺสติ ฯ [๗] ม. วคฺคุทฺทานํ  
+<span class="LineNumber"> 012 </span>#         อุรโค อุปริวคฺโค          จูฬมหาติจตุธา   
+<span class="LineNumber"> 013 </span>#         วตฺถูนิ เอกปฺาสํ         จตุธา ภาณวารโต ฯ   
+<span class="LineNumber"> 014 </span>#                   เปตวตฺถุปาลิ นิฏฺ€ิตา ฯ   

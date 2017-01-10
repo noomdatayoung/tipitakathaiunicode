@@ -1,0 +1,16 @@
+<span class="LineNumber"> 001 </span>           ลูขปฺปณีตสปฺปาย-          เภสชฺชุปฏฺ€เกน จ   
+<span class="LineNumber"> 002 </span>           อิตฺถี เวสี กุมารี จ        ปณฺฑโก าตเกน จ  
+<span class="LineNumber"> 003 </span>           ราชา โจรา ธุตฺตา นิธิ     เภทา ๑ อฏฺ€วิเธน จ  
+<span class="LineNumber"> 004 </span>           วชา ๒ สตฺถา จ นาวา จ  สุสิเร วิฏภาย จ   
+<span class="LineNumber"> 005 </span>           อชฺโฌกาเส วสฺสาวาโส     อเสนาสนเกน จ   
+<span class="LineNumber"> 006 </span>           ฉวกุฏิกา ฉตฺเต จ         จาฏิยา จ อุเปนฺติ เต  
+<span class="LineNumber"> 007 </span>           กติกา ปฏิสฺสุณิตฺวา         พหิทฺธา จ อุโปสถา  
+<span class="LineNumber"> 008 </span>           ปุริมิกา ปจฺฉิมิกา          ยถาาเยน โยชเย   
+<span class="LineNumber"> 009 </span>           อกรณีโย ๓ ปกฺกมติ       สกรณีโย ๔ ตเถว จ   
+<span class="LineNumber"> 010 </span>           ทฺวีหตีหา จ ปุน [๕]      สตฺตาหกรณีเยน จ  
+<span class="LineNumber"> 011 </span>           สตฺตาหนาคตา เจว        อาคจฺเฉยฺย เอยฺย ๖ วา  
+<span class="LineNumber"> 012 </span>           วตฺถุทฺทาเน อนฺตริกา       ตนฺติมคฺคํ นิสามเยติ ฯ  
+<span class="LineNumber"> 013 </span>                อิมมฺหิ ขนฺธเก วตฺถุ ๗ เทฺวปณฺณาส ฯ  
+<span class="LineNumber"> 014 </span>                       ___________________  
+<span class="LineNumber"> 015 </span>#๑ ม. เภทอฏฺ€วิเธน จ ฯ ๒ ม. วชสตฺถา ฯ  ๓ ม. อกรณึ ฯ ๔ ม. สกรณึ ฯ  
+<span class="LineNumber"> 016 </span>#๕ ม. จ. ฯ  ๖ ม. ยุ. น เอยฺย วา ฯ  ๗ ม. วตฺถูนิ ... ฯ   

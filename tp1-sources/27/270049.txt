@@ -1,0 +1,15 @@
+<span class="LineNumber"> 001 </span>		 สมโหทธิ กตฺติก โพนฺทิ ปุน  
+<span class="LineNumber"> 002 </span>		 จตุรงฺคุล พฺยคฺฆวเรน ทส ฯ  
+<span class="LineNumber"> 003 </span>			  ___________  
+<span class="LineNumber"> 004 </span>		  ตตฺร วคฺคุทฺทานํ ภวติ ๑ ฯ  
+<span class="LineNumber"> 005 </span>			     [๒]  
+<span class="LineNumber"> 006 </span>		  อปณฺณกํ สีลวคฺค กุรุงฺค  
+<span class="LineNumber"> 007 </span>		  กุลาวกํ อตฺถกาเมน ปฺจมํ  
+<span class="LineNumber"> 008 </span>		  อาสึโส อิตฺถี วรุณํ อปายิ  
+<span class="LineNumber"> 009 </span>		  ลิตฺตวคฺเคน เต ทส  
+<span class="LineNumber"> 010 </span>		  ปโรสตํ หํสิ สริกฺขํ ๓ อสมฺปทํ  
+<span class="LineNumber"> 011 </span>		ปาปเสวิวคฺโค ๔ เอกนิปาตมฺหิลงฺกตํ ฯ  
+<span class="LineNumber"> 012 </span>		      เอกนิปาตํ นิฏฺ€ิตํ ฯ  
+<span class="LineNumber"> 013 </span>			  ___________  
+<span class="LineNumber"> 014 </span>#๑ ม. อิเม ปา€า นตฺถิ ฯ  ๒ ม. อถวา วคฺคุทฺทานํ ฯ  ๓ ม. หํจิ กุสนาฬี ฯ  
+<span class="LineNumber"> 015 </span>#๔ ม. กกณฺฏกวคฺโค ฯ  

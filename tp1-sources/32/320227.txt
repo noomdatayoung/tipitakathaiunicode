@@ -1,0 +1,19 @@
+<span class="LineNumber"> 001 </span>	อิตฺถํ สุทํ อายสฺมา คนฺโธทกิโย เถโร อิมา คาถาโย  
+<span class="LineNumber"> 002 </span>อภาสิตฺถาติ ฯ  
+<span class="LineNumber"> 003 </span>		คนฺโธทกิยตฺเถรสฺส อปทานํ สมตฺตํ ฯ  
+<span class="LineNumber"> 004 </span>	ปฺจมํ สมฺมุขาถวิกตฺเถราปทานํ (๑๒๕)  
+<span class="LineNumber"> 005 </span>	[๑๒๗] ชายมาเน วิปสฺสมฺหิ        นิมิตฺตํ พฺยากรึ อหํ  
+<span class="LineNumber"> 006 </span>	นิพฺพาปยํ จ ชนตํ          พุทฺโธ โลเก ภวิสฺสติ ฯ  
+<span class="LineNumber"> 007 </span>	ยสฺมึ จ ชายมานสฺมึ        ทสสหสฺสี ปกมฺปติ=  
+<span class="LineNumber"> 008 </span>	โสทานิ ภควา สตฺถา       ธมฺมํ เทเสติ จกฺขุมา ฯ  
+<span class="LineNumber"> 009 </span>	ยสฺมึ จ ชายมานสฺมึ        อาโลโก วิปุโล อหุ  
+<span class="LineNumber"> 010 </span>	โสทานิ ภควา สตฺถา       ธมฺมํ เทเสติ จกฺขุมา ฯ  
+<span class="LineNumber"> 011 </span>	ยสฺมึ จ ชายมานสฺมึ        สริตาโย น สนฺทิสุํ ๑  
+<span class="LineNumber"> 012 </span>	โสทานิ ภควา สตฺถา       ธมฺมํ เทเสติ จกฺขุมา ฯ  
+<span class="LineNumber"> 013 </span>	ยสฺมึ จ ชายมานสฺมึ        อวีจิคฺคิ น ปชฺชลิ  
+<span class="LineNumber"> 014 </span>	โสทานิ ภควา สตฺถา       ธมฺมํ เทเสติ จกฺขุมา ฯ  
+<span class="LineNumber"> 015 </span>	ยสฺมึ จ ชายมานสฺมึ        ปกฺขิสงฺโฆ น สฺจริ  
+<span class="LineNumber"> 016 </span>	โสทานิ ภควา สตฺถา       ธมฺมํ เทเสติ จกฺขุมา ฯ  
+<span class="LineNumber"> 017 </span>	ยสฺมิฺจ ชายมานสฺมึ        วาตกฺขนฺโธ น วายติ  
+<span class="LineNumber"> 018 </span>	โสทานิ ภควา สตฺถา       ธมฺมํ เทเสติ จกฺขุมา ฯ  
+<span class="LineNumber"> 019 </span>#๑ ม สนฺทยุํ ฯ  

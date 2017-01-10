@@ -1,0 +1,11 @@
+<span class="LineNumber"> 001 </span>สามิโก  โจเทตฺวา  เทติ  ๑  อุมฺมตฺตกสฺส  อาทิกมฺมิกสฺสาติ ฯ  
+<span class="LineNumber"> 002 </span>		  ทสมสิกฺขาปทํ  นิฏฺ€ิตํ  ๒ ฯ  
+<span class="LineNumber"> 003 </span>		  จีวรวคฺโค  ๓  ป€โม ฯ  
+<span class="LineNumber"> 004 </span>		  	_____________  
+<span class="LineNumber"> 005 </span>		  		ตสฺสุทฺทานํ  
+<span class="LineNumber"> 006 </span>	  ทเสกรตฺติ  มาโส  จ  ๔  โธวาปนํ  ๕  ปฏิคฺคโห  
+<span class="LineNumber"> 007 </span>	  อฺาตกฺจ  อุทฺทิสฺส  ๖  อุภินฺนํ  ทูตเกน  จาติ  ๗ ฯ  
+<span class="LineNumber"> 008 </span>		  _____________  
+<span class="LineNumber"> 009 </span>#  ๑  ม.  ยุ.  สามิกา  โจเทตฺวา  เทนฺติ ฯ  ๒  ม.  ราชสิกฺขาปทํ  นิฏฺ€ิตํ  ทสมํ ฯ  
+<span class="LineNumber"> 010 </span>#  ๓  ม.  ยุ.  ก€ินวคฺโค ฯ  ๔  ม.  อุพฺภตํ  กถินํ  ตีณิ ฯ  ๕  ม.  ยุ.  โธวนฺจ ฯ  
+<span class="LineNumber"> 011 </span>#  ๖  ม.  ยุ.  อฺาตกานิ  ตีเณว ฯ  ๗  ยุ.  อิติสทฺโท  นตฺถิ ฯ  

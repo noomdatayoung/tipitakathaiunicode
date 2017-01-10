@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>เพราะฉะนั้นแหละ เธอทั้งหลายพึงกระทำความเพียรเพื่อรู้ตามความเป็นจริงว่า นี้ทุกข์ ฯลฯ  
+<span class="LineNumber"> 002 </span>นี้ทุกขนิโรธคามินีปฏิปทา.         
+<span class="LineNumber"> 003 </span>		           จบ สูตรที่ ๑๐             
+<span class="LineNumber"> 004 </span>		        จบ อภิสมยวรรคที่ ๖           
+<span class="LineNumber"> 005 </span>		         --------------              
+<span class="LineNumber"> 006 </span>		     รวมพระสูตรที่มีในวรรคนี้ คือ    
+<span class="LineNumber"> 007 </span>         ๑. นขสิขาสูตร              ๒. โปกขรณีสูตร 
+<span class="LineNumber"> 008 </span>         ๓. สัมเภชชสูตรที่ ๑          ๔. สัมเภชชสูตรที่ ๒           
+<span class="LineNumber"> 009 </span>         ๕. ปฐวีสูตรที่ ๑             ๖. ปฐวีสูตรที่ ๒              
+<span class="LineNumber"> 010 </span>         ๗. สมุททสูตรที่ ๑            ๘. สมุททสูตรที่ ๒             
+<span class="LineNumber"> 011 </span>         ๙. ปัพพตูปมาสูตรที่ ๑         ๑๐. ปัพพตูปมาสูตรที่ ๒       
+<span class="LineNumber"> 012 </span>		        ---------------   

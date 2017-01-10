@@ -1,0 +1,16 @@
+<span class="LineNumber"> 001 </span>พฺราหฺมณา   วา   ปริสุทฺธํ   ปรมานุตฺตรํ   สุฺตํ   อุปสมฺปชฺช   วิหรึสุ  
+<span class="LineNumber"> 002 </span>สพฺเพ    เต    อิมํเยว   ปริสุทฺธํ   ปรมานุตฺตรํ   สุฺตํ   อุปสมฺปชฺช  
+<span class="LineNumber"> 003 </span>วิหรึสุ   ฯ   เยปิ   หิ   เกจิ   อานนฺท   อนาคตมทฺธานํ  สมณา  วา  
+<span class="LineNumber"> 004 </span>พฺราหฺมณา     วา     ปริสุทฺธํ    ปรมานุตฺตรํ    สุฺตํ    อุปสมฺปชฺช  
+<span class="LineNumber"> 005 </span>วิหริสฺสนฺติ    สพฺเพ    เต   อิมํเยว   ปริสุทฺธํ   ปรมานุตฺตรํ   สุฺตํ  
+<span class="LineNumber"> 006 </span>อุปสมฺปชฺช   วิหริสฺสนฺติ   ฯ   เยปิ  หิ  เกจิ  อานนฺท  เอตรหิ  สมณา  
+<span class="LineNumber"> 007 </span>วา    พฺราหฺมณา    วา   ปริสุทฺธํ   ปรมานุตฺตรํ   สุฺตํ   อุปสมฺปชฺช  
+<span class="LineNumber"> 008 </span>วิหรนฺติ    สพฺเพ    เต    อิมํเยว    ปริสุทฺธํ   ปรมานุตฺตรํ   สุฺตํ  
+<span class="LineNumber"> 009 </span>อุปสมฺปชฺช   วิหรนฺติ   ฯ   ตสฺมาติห   อานนฺท   ปริสุทฺธํ   ปรมานุตฺตรํ  
+<span class="LineNumber"> 010 </span>สุฺตํ    อุปสมฺปชฺช    วิหริสฺสามาติ    ๑   เอวฺหิ   โว   อานนฺท  
+<span class="LineNumber"> 011 </span>สิกฺขิตพฺพนฺติ ฯ  
+<span class="LineNumber"> 012 </span>     อิทมโวจ    ภควา    อตฺตมโน   อายสฺมา   อานนฺโท   ภควโต  
+<span class="LineNumber"> 013 </span>ภาสิตํ อภินนฺทีติ ฯ  
+<span class="LineNumber"> 014 </span>                 จูฬสุฺตสุตฺตํ นิฏฺ€ิตํ ป€มํ ฯ  
+<span class="LineNumber"> 015 </span>                        _______  
+<span class="LineNumber"> 016 </span>#๑ ยุ. วิหริสฺสามีติ ฯ  

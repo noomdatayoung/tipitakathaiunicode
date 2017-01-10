@@ -1,0 +1,8 @@
+<span class="LineNumber"> 001 </span>		     รวมชาดกที่มีในวรรคนี้            
+<span class="LineNumber"> 002 </span>             ๕. โรหนมิคชาดก๖. หังสชาดก    
+<span class="LineNumber"> 003 </span>             ๗. สัตติคุมพชาดก๘. ภัลลาติยชาดก
+<span class="LineNumber"> 004 </span>             ๙. โสมนัสสชาดก             ๑๐. จัมเปยยชาดก 
+<span class="LineNumber"> 005 </span>            ๑๑. มหาโลภนชาดก            ๑๒. ปัญจปัณฑิตชาดก 
+<span class="LineNumber"> 006 </span>            ๑๓. หัตถิปาลชาดก             ๑๔. อโยฆรชาดก. 
+<span class="LineNumber"> 007 </span>		     จบ วีสตินิบาตชาดก. 
+<span class="LineNumber"> 008 </span>		     _________________ 

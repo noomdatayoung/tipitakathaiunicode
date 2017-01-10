@@ -1,0 +1,13 @@
+<span class="LineNumber"> 001 </span>		     ๑๐. ขทิรังคารชาดก
+<span class="LineNumber"> 002 </span>		      ว่าด้วยผู้มีจิตมั่นคง           
+<span class="LineNumber"> 003 </span>  	[๔๐] เราจะตกนรกมีเท้าขึ้นเบื้องบน มีศีรษะลงเบื้องล่างก็ตาม เราจักไม่ทำ            
+<span class="LineNumber"> 004 </span>           กรรมอันไม่ประเสริฐ ขอเชิญท่านจงรับก้อนข้าวเถิด.
+<span class="LineNumber"> 005 </span>		   จบ ขทิรังคารชาดกที่ ๑๐.            
+<span class="LineNumber"> 006 </span>		     จบ กุลาวกวรรคที่ ๔.
+<span class="LineNumber"> 007 </span>		   รวมชาดกที่มีในวรรคนี้  คือ         
+<span class="LineNumber"> 008 </span>           ๑. กุลาวกชาดก            ๒. นัจจชาดก         
+<span class="LineNumber"> 009 </span>           ๓. สัมโมทมานชาดก         ๔. มัจฉชาดก         
+<span class="LineNumber"> 010 </span>           ๕. วัฏฏกชาดก             ๖. สกุณชาดก         
+<span class="LineNumber"> 011 </span>           ๗. ติตติรชาดก             ๘. พกชาดก          
+<span class="LineNumber"> 012 </span>           ๙. นันทชาดก             ๑๐. ขทิรังคารชาดก.   
+<span class="LineNumber"> 013 </span>		     _________________ 

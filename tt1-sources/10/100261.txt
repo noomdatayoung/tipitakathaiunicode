@@ -1,0 +1,9 @@
+<span class="LineNumber"> 001 </span>รวมพระสูตรที่มีในวรรคนี้ คือ  
+<span class="LineNumber"> 002 </span>    	๑. มหาปทานสูตร 			๒. มหานิทานสูตร 
+<span class="LineNumber"> 003 </span>๓. มหาปรินิพพานสูตร 		 ๔. มหาสุทัสสนสูตร 
+<span class="LineNumber"> 004 </span>๕. ชนวสภสูตร 			๖. มหาโควินทสูตร 
+<span class="LineNumber"> 005 </span>๗. มหาสมัยสูตร 			 ๘. สักกปัณหสูตร 
+<span class="LineNumber"> 006 </span>๙. มหาสติปัฏฐานสูตร 		๑๐. ปายาสิราชัญญสูตร ทั้งหมดนี้
+<span class="LineNumber"> 007 </span>รวมเรียกว่ามหาวรรค ฯ     
+<span class="LineNumber"> 008 </span>		    		จบ มหาวรรค
+<span class="LineNumber"> 009 </span>		      ------------------ 

@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>		 สุตฺตนฺตปิฏเก ขุทฺทกนิกายสฺส   
+<span class="LineNumber"> 002 </span>		      เปตวตฺถุ  
+<span class="LineNumber"> 003 </span>		      __________   
+<span class="LineNumber"> 004 </span>	   นโม ตสฺส ภควโต อรหโต สมฺมาสมฺพุทฺธสฺส ฯ  
+<span class="LineNumber"> 005 </span>	[๘๖] ๑ เขตฺตูปมา อรหนฺโต        ทายกา กสฺสกูปมา  
+<span class="LineNumber"> 006 </span>	  พีชูปมํ เทยฺยธมฺมํ          เอตฺโต ๑ นิพฺพตฺตเต ผลํ  
+<span class="LineNumber"> 007 </span>	  เอตํ พีชํ ๒ กสิเขตฺตํ      เปตานํ ทายกสฺส จ  
+<span class="LineNumber"> 008 </span>	  ตํ เปตา ปริภุฺชนฺติ        ทาตา ปุฺเน วฑฺฒติ   
+<span class="LineNumber"> 009 </span>	  อิเธว กุสลํ กตฺวา         เปเต จ ปฏิปูชิย   
+<span class="LineNumber"> 010 </span>	  สคฺคฺจ กมติ €านํ         กมฺมํ กตฺวาน ภทฺทกนฺติ ฯ  
+<span class="LineNumber"> 011 </span>		เขตฺตูปมาเปตวตฺถุ ป€มํ ฯ  
+<span class="LineNumber"> 012 </span>	[๘๗] ๒ กาโย เต สพฺพโส วณฺโณ    สพฺพา โอภาสเต ทิสา  
+<span class="LineNumber"> 013 </span>	  มุขํ เต สูกรสฺเสว         กึ กมฺมมกรา ๓ ปุเรติ ๔ ฯ  
+<span class="LineNumber"> 014 </span>	  กาเยน สฺโต อาสึ       วาจายาสึ อสฺโต  
+<span class="LineNumber"> 015 </span>	  เตน เมตาทิโส วณฺโณ      ยถา ปสฺสสิ นารท   
+<span class="LineNumber"> 016 </span>	  ตนฺตฺยาหํ นารท พฺรูมิ       สามํ ทิฏฺ€มิทนฺตยา  
+<span class="LineNumber"> 017 </span>#๑ ยุ. โอโฆ ฯ  ๒ ยุ. โอฆพีชํ ฯ  ๓ ม. ยุ. กมฺมมการี ฯ  ๔ ม. อิติสทฺโท นตฺถิ ฯ  

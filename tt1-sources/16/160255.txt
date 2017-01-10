@@ -1,0 +1,7 @@
+<span class="LineNumber"> 001 </span>รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 002 </span>๑. จักขุสูตร 		๒. รูปสูตร		๓. วิญญาณสูตร 
+<span class="LineNumber"> 003 </span>๔. สัมผัสสสูตร	๕. เวทนาสูตร 	๖. สัญญาสูตร
+<span class="LineNumber"> 004 </span>๗. เจตนาสูตร 	๘. ตัณหาสูตร	๙. ธาตุสูตร 
+<span class="LineNumber"> 005 </span>๑๐. ขันธสูตร		๑๑. อนุสยสูตร 	๑๒. อปคตสูตร
+<span class="LineNumber"> 006 </span>จบราหุลสังยุตต์ที่ ๖
+<span class="LineNumber"> 007 </span>___________

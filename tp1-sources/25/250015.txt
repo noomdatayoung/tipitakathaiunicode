@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>                 สุตฺตนฺตปิฏเก ขุทฺทกนิกายสฺส  
+<span class="LineNumber"> 002 </span>                       ธมฺมปทคาถา  
+<span class="LineNumber"> 003 </span>                       _____________  
+<span class="LineNumber"> 004 </span>            นโม ตสฺส ภควโต อรหโต สมฺมาสมฺพุทฺธสฺส ฯ  
+<span class="LineNumber"> 005 </span>                ธมฺมปทคาถาย ป€โม ยมกวคฺโค  
+<span class="LineNumber"> 006 </span>  [๑๑] ๑ มโนปุพฺพงฺคมา ธมฺมา        มโนเสฏฺ€า มโนมยา  
+<span class="LineNumber"> 007 </span>         มนสา เจ ปทุฏฺเ€น         ภาสติ วา กโรติ วา  
+<span class="LineNumber"> 008 </span>         ตโต นํ ทุกฺขมเนฺวติ         จกฺกํว วหโต ปทํ ฯ  
+<span class="LineNumber"> 009 </span>         มโนปุพฺพงฺคมา ธมฺมา        มโนเสฏฺ€า มโนมยา  
+<span class="LineNumber"> 010 </span>         มนสา เจ ปสนฺเนน         ภาสติ วา กโรติ วา  
+<span class="LineNumber"> 011 </span>         ตโต นํ สุขมเนฺวติ          ฉายาว อนุปายินี ฯ  
+<span class="LineNumber"> 012 </span>         อกฺโกจฺฉิ มํ อวธิ มํ         อชินิ มํ อหาสิ เม  
+<span class="LineNumber"> 013 </span>         เย จ ตํ อุปนยฺหนฺติ         เวรํ เตสํ น สมฺมติ ฯ  
+<span class="LineNumber"> 014 </span>         อกฺโกจฺฉิ มํ อวธิ มํ         อชินิ มํ อหาสิ เม  
+<span class="LineNumber"> 015 </span>         เย จ ตํ นูปนยฺหนฺติ         เวรํ เตสูปสมฺมติ ฯ  
+<span class="LineNumber"> 016 </span>         น หิ เวเรน เวรานิ        สมฺมนฺตีธ กุทาจนํ  
+<span class="LineNumber"> 017 </span>         อเวเรน จ สมฺมนฺติ         เอส ธมฺโม สนนฺตโน ฯ  

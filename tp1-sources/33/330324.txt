@@ -1,0 +1,10 @@
+<span class="LineNumber"> 001 </span>	อิตฺถํ สุทํ ปฏาจารา ภิกฺขุนี อิมา คาถาโย อภาสิตฺถาติ ฯ  
+<span class="LineNumber"> 002 </span>		 ปฏาจาราเถริยา อปทานํ สมตฺตํ ฯ  
+<span class="LineNumber"> 003 </span>		           อุทฺทานํ  
+<span class="LineNumber"> 004 </span>	เอกุโปสถิกา เจว          สลฬา จาถ โมทกา  
+<span class="LineNumber"> 005 </span>	เอกาสนา ปฺจทีปา         นฬมาลี จ โคตมี ฯ  
+<span class="LineNumber"> 006 </span>	เขมา อุปฺปลวณฺณา จ        ปฏาจารา จ ภิกฺขุนี  
+<span class="LineNumber"> 007 </span>	คาถาสตานิ ปฺเจว ๑      นว จาปิ ตทุตฺตริ ฯ  
+<span class="LineNumber"> 008 </span>		    เอกุโปสถวคฺโค ทุติโย ฯ  
+<span class="LineNumber"> 009 </span>		      _______________  
+<span class="LineNumber"> 010 </span>#๑ โป. ยุ. ... จตฺตาริ นวุตึ สตฺตเมว จ ฯ  

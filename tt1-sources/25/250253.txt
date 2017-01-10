@@ -1,0 +1,16 @@
+<span class="LineNumber"> 001 </span>	ย่อมนอบน้อมพระพุทธเจ้าพระองค์นี้ ผู้มีพระคุณใหญ่ ผู้ปราศจากความ
+<span class="LineNumber"> 002 </span>	ครั่นคร้ามด้วยคิดว่า บุคคลผู้เปรียบด้วยพระองค์ย่อมไม่มีในโลกพร้อม
+<span class="LineNumber"> 003 </span>	ทั้งเทวโลก ฯ
+<span class="LineNumber"> 004 </span>เนื้อความแม้นี้พระผู้มีพระภาคตรัสแล้ว เพราะเหตุนั้น ข้าพเจ้าได้สดับมาแล้วฉะนี้แล ฯ
+<span class="LineNumber"> 005 </span>	จบสูตรที่ ๑๓
+<span class="LineNumber"> 006 </span>	จบจตุกกนิบาต
+<span class="LineNumber"> 007 </span>	________
+<span class="LineNumber"> 008 </span>	รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 009 </span>	๑. พราหมณสูตร 			๒. จัตตาริสูตร 
+<span class="LineNumber"> 010 </span>	๓. ชานสูตร 				๔. สมณสูตร
+<span class="LineNumber"> 011 </span>	๕. ศีลสูตร 				๖. ตัณหาสูตร 
+<span class="LineNumber"> 012 </span>	๗. พรหมสูตร 			๘. พหุการสูตร 
+<span class="LineNumber"> 013 </span>	๙. กุหนาสูตร				๑๐. ปุริสสูตร 	
+<span class="LineNumber"> 014 </span>	๑๑. จรสูตร 				๑๒. สัมปันนสูตร	
+<span class="LineNumber"> 015 </span>	๑๓. โลกสูตร ฯ
+<span class="LineNumber"> 016 </span>	จบอิติวุตตกะ

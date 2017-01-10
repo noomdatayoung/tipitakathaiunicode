@@ -1,0 +1,13 @@
+<span class="LineNumber"> 001 </span>  	[๘๐๒] ผู้ใด เมื่อกำลังเจริญอยู่ กระทำที่พึ่งอาศัยให้พินาศไปเสีย ความเจริญ         
+<span class="LineNumber"> 002 </span>            ของผู้นั้น ท่านผู้ฉลาดไม่สรรเสริญ นักปราชญ์รังเกียจความพินาศของผู้          
+<span class="LineNumber"> 003 </span>            นั้น จึงเพียรพยายามที่จะตัดรากเหง้าเสีย.    
+<span class="LineNumber"> 004 </span>		     จบ ปลาสชาดกที่ ๑๐. 
+<span class="LineNumber"> 005 </span>		   จบ วรรณาโรหวรรคที่ ๒.
+<span class="LineNumber"> 006 </span>		    _________________  
+<span class="LineNumber"> 007 </span>		   รวมชาดกที่มีในวรรคนี้ คือ          
+<span class="LineNumber"> 008 </span>            ๑. วรรณาโรหชาดก             ๒. สีลวีมังสชาดก
+<span class="LineNumber"> 009 </span>            ๓. หิริชาดก   ๔. ขัชโชปนกชาดก 
+<span class="LineNumber"> 010 </span>            ๕. อหิตุณฑิกชาดก ๖. คุมพิยชาดก
+<span class="LineNumber"> 011 </span>            ๗. สาลิยชาดก ๘. ตจสารชาดก   
+<span class="LineNumber"> 012 </span>            ๙. มิตตวินทุกชาดก             ๑๐. ปลาสชาดก  
+<span class="LineNumber"> 013 </span>		     _________________ 

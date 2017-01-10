@@ -1,0 +1,9 @@
+<span class="LineNumber"> 001 </span>                    รวมอปทานที่มีในวรรคนี้ คือ          
+<span class="LineNumber"> 002 </span>     ๑. อารักขทายกเถราปทาน             ๒. โภชนทายกเถราปทาน  
+<span class="LineNumber"> 003 </span>     ๓. คตสัญญกเถราปทาน                ๔. สัตตปทุมิยเถราปทาน  
+<span class="LineNumber"> 004 </span>     ๕. ปุปผาสนทายกเถราปทาน            ๖. อาสนถวิกเถราปทาน  
+<span class="LineNumber"> 005 </span>     ๗. สัททสัญญกเถราปทาน               ๘. ติรังสิยเถราปทาน  
+<span class="LineNumber"> 006 </span>     ๙. นาลิปุปผิยเถราปทาน              ๑๐. กุมุทมาลิยเถราปทาน  
+<span class="LineNumber"> 007 </span>     มีคาถา ๕๗ คาถา.     
+<span class="LineNumber"> 008 </span>                    จบ อารักขทายกวรรคที่ ๓๒.            
+<span class="LineNumber"> 009 </span>                       -------------  

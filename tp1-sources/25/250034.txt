@@ -1,0 +1,16 @@
+<span class="LineNumber"> 001 </span>               สพฺเพสุ ภูเตสุ นิธาย ทณฺฑํ  
+<span class="LineNumber"> 002 </span>               โส พฺราหฺมโณ โส สมโณ ส ภิกฺขุ ฯ  
+<span class="LineNumber"> 003 </span>          หิรินิเสโธ ปุริโส          โกจิ โลกสฺมิ วิชฺชติ  
+<span class="LineNumber"> 004 </span>          โย นิทฺทํ อปโพเธติ        อสฺโส ภโทฺร กสามิว  
+<span class="LineNumber"> 005 </span>               อสฺโส ยถา ภโทฺร กสานิวิฏฺโ€  
+<span class="LineNumber"> 006 </span>               อาตาปิโน สํเวคิโน ภวาถ  
+<span class="LineNumber"> 007 </span>               สทฺธาย สีเลน จ วิริเยน จ  
+<span class="LineNumber"> 008 </span>               สมาธินา ธมฺมวินิจฺฉเยน จ  
+<span class="LineNumber"> 009 </span>               สมฺปนฺนวิชฺชาจรณา ปติสฺสตา  
+<span class="LineNumber"> 010 </span>               ปหสฺสถ ทุกฺขมิทํ อนปฺปกํ ฯ  
+<span class="LineNumber"> 011 </span>               อุทกํ หิ นยนฺติ เนตฺติกา  
+<span class="LineNumber"> 012 </span>               อุสุการา นมยนฺติ เตชนํ  
+<span class="LineNumber"> 013 </span>               ทารุํ นมยนฺติ ตจฺฉกา  
+<span class="LineNumber"> 014 </span>               อตฺตานํ ทมยนฺติ สุพฺพตา ฯ  
+<span class="LineNumber"> 015 </span>               ทณฺฑวคฺโค ทสโม ฯ  
+<span class="LineNumber"> 016 </span>                      ______________  

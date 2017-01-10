@@ -1,0 +1,11 @@
+<span class="LineNumber"> 001 </span>ปจฺฉิเม  วา  โอกาเส  อุตฺตเร  วา  โอกาเส  ทกฺขิเณ วา โอกาเส ฯ  
+<span class="LineNumber"> 002 </span>ปเทสปุจฺฉาติ   ปุรตฺถิเม   วา  ปเทเส  ปจฺฉิเม  วา  ปเทเส  อุตฺตเร  
+<span class="LineNumber"> 003 </span>วา ปเทเส ทกฺขิเณ วา ปเทเสติ ฯ  
+<span class="LineNumber"> 004 </span>                      มหาสงฺคามํ นิฏฺ€ิตํ ฯ  
+<span class="LineNumber"> 005 </span>                         ตสฺสุทฺทานํ  
+<span class="LineNumber"> 006 </span>  [๑๑๒๓] วตฺถุ นิทานํ อากาโร         ปุพฺพาปรํ กตากตํ  
+<span class="LineNumber"> 007 </span>         กมฺมาธิกรณฺเจว            สมโถ ฉนฺทคามิ จ  
+<span class="LineNumber"> 008 </span>         โทสา โมหา ภยา เจว       สฺา นิชฺฌาปเนน จ  
+<span class="LineNumber"> 009 </span>         เปกฺขา ปสาเท ปกฺโขมฺหิ      สุตเถรตเรน จ  
+<span class="LineNumber"> 010 </span>         อสมฺปตฺตฺจ สมฺปตฺตํ          ธมฺเมน วินเยน จ  
+<span class="LineNumber"> 011 </span>         สตฺถุสฺส สาสเนนาปิ          มหาสงฺคามาปนาติ ฯ  

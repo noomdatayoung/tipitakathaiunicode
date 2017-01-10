@@ -1,0 +1,5 @@
+<span class="LineNumber"> 001 </span>     อถ   โข   โฆฏมุโข   พฺราหฺมโณ   เอติสฺสา   จ   นิจฺจภิกฺขาย  
+<span class="LineNumber"> 002 </span>อปราย    จ    นิจฺจภิกฺขาย    ปาฏลิปุตฺเต    สงฺฆสฺส   อุปฏฺ€านสาลํ  
+<span class="LineNumber"> 003 </span>การาเปสิ ฯ สา เอตรหิ โฆฏมุขีติ วุจฺจตีติ ฯ  
+<span class="LineNumber"> 004 </span>                 โฆฏมุขสุตฺตํ นิฏฺ€ิตํ จตุตฺถํ ฯ  
+<span class="LineNumber"> 005 </span>                       ____________  

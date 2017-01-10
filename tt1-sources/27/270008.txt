@@ -1,0 +1,7 @@
+<span class="LineNumber"> 001 </span>		   รวมชาดกที่มีในวรรคนี้ คือ          
+<span class="LineNumber"> 002 </span>           ๑. ลักขณชาดก            ๒. นิโครธมิคชาดก     
+<span class="LineNumber"> 003 </span>           ๓. กัณฑินชาดก            ๔. วาตมิคชาดก       
+<span class="LineNumber"> 004 </span>           ๕. ขราทิยชาดก           ๖. ติปัลลัตถมิคชาดก  
+<span class="LineNumber"> 005 </span>           ๗. มาลุตชาดก            ๘. มตกภัตตชาดก       
+<span class="LineNumber"> 006 </span>           ๙. อายาจิตภัตตชาดก      ๑๐. นฬปานชาดก.       
+<span class="LineNumber"> 007 </span>		     _________________ 

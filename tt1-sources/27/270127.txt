@@ -1,0 +1,10 @@
+<span class="LineNumber"> 001 </span>            ๕. อันตชาดก       ๖. สมุททชาดก
+<span class="LineNumber"> 002 </span>            ๗. กามวิลาปชาดก   ๘. อุทุมพรชาดก            
+<span class="LineNumber"> 003 </span>            ๙. โกมาริยปุตตชาดก๑๐. พกชาดก. 
+<span class="LineNumber"> 004 </span>		    _________________  
+<span class="LineNumber"> 005 </span>		  รวมวรรคที่มีในติกนิบาตนี้ คือ       
+<span class="LineNumber"> 006 </span>            ๑. สังกัปปวรรค     ๒. ปทุมวรรค
+<span class="LineNumber"> 007 </span>            ๓. อุทปานทูสกวรรค  ๔. อัพภันตรวรรค          
+<span class="LineNumber"> 008 </span>            ๕. กุมภวรรค.
+<span class="LineNumber"> 009 </span>		      จบ ติกนิบาตชาดก.
+<span class="LineNumber"> 010 </span>		     _________________ 

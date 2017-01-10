@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>	ปฏิสมฺภิทา จตสฺโส         วิโมกฺขาปิจ อฏฺ€ิเม  
+<span class="LineNumber"> 002 </span>	ฉฬภิฺา สจฺฉิกตา         กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 003 </span>	อิตฺถํ สุทํ อายสฺมา อารามทายโก เถโร อิมา คาถาโย  
+<span class="LineNumber"> 004 </span>อภาสิตฺถาติ ฯ  
+<span class="LineNumber"> 005 </span>	อารามทายกตฺเถรสฺส อปทานํ สมตฺตํ ฯ  
+<span class="LineNumber"> 006 </span>	อฏฺ€มํ อนุเลปทายกตฺเถราปทานํ (๓๐๘)  
+<span class="LineNumber"> 007 </span>	[๓๑๐] อตฺถทสฺสิสฺส มุนิโน         อทฺทสํ สาวกํ อหํ  
+<span class="LineNumber"> 008 </span>	นวกมฺมํ กโรนฺตสฺส         สีมาย อุปคฺฉหํ ฯ  
+<span class="LineNumber"> 009 </span>	นิฏฺ€ิเต นวกมฺเม จ        อนุเลปํ อทาสหํ  
+<span class="LineNumber"> 010 </span>	ปสนฺนจิตฺโต สุมโน         ปุฺกฺเขตฺเต อนุตฺตเร ฯ  
+<span class="LineNumber"> 011 </span>	อฏฺ€ารเส กปฺปสเต        ยํ กมฺมมกรึ ตทา  
+<span class="LineNumber"> 012 </span>	ทุคฺคตึ นาภิชานามิ         อนุเลปสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 013 </span>	ปฏิสมฺภิทา จตสฺโส         วิโมกฺขาปิจ อฏฺ€ิเม  
+<span class="LineNumber"> 014 </span>	ฉฬภิฺา สจฺฉิกตา         กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 015 </span>	อิตฺถํ สุทํ อายสฺมา อนุเลปทายโก เถโร อิมา คาถาโย  
+<span class="LineNumber"> 016 </span>อภาสิตฺถาติ ฯ  
+<span class="LineNumber"> 017 </span>	อนุเลปทายกตฺเถรสฺส อปทานํ สมตฺตํ ฯ  

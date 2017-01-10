@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>     พ. ก็สิ่งใดไม่เที่ยง สิ่งนั้นเป็นทุกข์หรือเป็นสุขเล่า?
+<span class="LineNumber"> 002 </span>     ภิ. เป็นทุกข์ พระเจ้าข้า.              
+<span class="LineNumber"> 003 </span>     พ. ก็สิ่งใดไม่เที่ยง เป็นทุกข์ มีความแปรปรวนเป็นธรรมดา ควรหรือหนอ ที่จะตาม          
+<span class="LineNumber"> 004 </span>เห็นสิ่งนั้นว่า นั่นของเรา นั่นเป็นเรา นั่นเป็นตัวตนของเรา?
+<span class="LineNumber"> 005 </span>     ภิ. ไม่ควรเห็นอย่างนั้น พระเจ้าข้า.    
+<span class="LineNumber"> 006 </span>     พ. เพราะเหตุนั้นแล ฯลฯ อริยสาวกผู้ได้สดับแล้ว เห็นอยู่อย่างนี้ ฯลฯ ย่อมทราบ         
+<span class="LineNumber"> 007 </span>ชัดว่า ฯลฯ กิจอื่นเพื่อความเป็นอย่างนี้มิได้มี ฉะนี้แล.    
+<span class="LineNumber"> 008 </span>		           จบ สูตรที่ ๑๐.      
+<span class="LineNumber"> 009 </span>		         จบ ขัชชนิยวรรคที่ ๓.  
+<span class="LineNumber"> 010 </span>		         ------------------------------------      
+<span class="LineNumber"> 011 </span>		      รวมพระสูตรที่มีในวรรคนี้ คือ            
+<span class="LineNumber"> 012 </span>		    ๑. อัสสาทสูตร          ๖. สีหสูตร         
+<span class="LineNumber"> 013 </span>		    ๒. สมุทยสูตร ๑         ๗. ขัชชนิยสูตร     
+<span class="LineNumber"> 014 </span>		    ๓. สมุทยสูตร ๒         ๘. ปิณโฑลยสูตร     
+<span class="LineNumber"> 015 </span>		    ๔. อรหันตสูตรที่ ๑       ๙. ปาลิเลยยกสูตร 
+<span class="LineNumber"> 016 </span>		    ๕. อรหันตสูตรที่ ๒      ๑๐. ปุณณมสูตร.    
+<span class="LineNumber"> 017 </span>		         ----------------------------------------

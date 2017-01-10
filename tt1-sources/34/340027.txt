@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>                      ๔๐. อสันตุฏฐตาทุกะ  
+<span class="LineNumber"> 002 </span>อสนฺตุฏฺฐตา จ กุสเลสุ ธมฺเมสุ                          ความไม่รู้จักอิ่มในกุศลธรรม          
+<span class="LineNumber"> 003 </span>อปฺปฏิวานิตา จ ปธานสฺมึ                              ความไม่ท้อถอยในความพยายาม              
+<span class="LineNumber"> 004 </span>                        ๔๑. วิชชาทุกะ     
+<span class="LineNumber"> 005 </span>วิชฺชา จ                                          ความรู้แจ้ง      
+<span class="LineNumber"> 006 </span>วิมุตฺติ จ                                          ความหลุดพ้น    
+<span class="LineNumber"> 007 </span>                                         ๔๒. ขยญาณทุกะ             
+<span class="LineNumber"> 008 </span>ขเย าณํ                                         ญาณในอริยมรรค     
+<span class="LineNumber"> 009 </span>อนุปฺปาเท าณํ                                     ญาณในอริยผล     
+<span class="LineNumber"> 010 </span>                    สุตตันตมาติกา ๔๒ ทุกะ จบ  
+<span class="LineNumber"> 011 </span>                          มาติกา จบ       
+<span class="LineNumber"> 012 </span>                         ----------

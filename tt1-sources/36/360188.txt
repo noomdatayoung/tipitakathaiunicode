@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>	ความละอัตภาพในกามาวจรนี้ไปแล้วจึงสำเร็จของพระอริยบุคคล ๕ จำพวก
+<span class="LineNumber"> 002 </span>เหล่าไหน
+<span class="LineNumber"> 003 </span>	ความละอัตภาพในกามาวจรนี้ไปแล้วจึงสำเร็จของพระอริยบุคคล ๕ จำพวกเหล่านี้ คือ
+<span class="LineNumber"> 004 </span>	 พระอริยะประเภทอันตราปรินิพพายี
+<span class="LineNumber"> 005 </span>	 พระอริยะประเภทอุปหัจจปรินิพพายี
+<span class="LineNumber"> 006 </span>	 พระอริยะประเภทอสังขารปรินิพพายี
+<span class="LineNumber"> 007 </span>	 พระอริยะประเภทสสังขารปรินิพพายี
+<span class="LineNumber"> 008 </span>	 พระอริยะประเภทอุทธังโสโตอกนิฏฐคามี
+<span class="LineNumber"> 009 </span>			   ทสกนิทเทส จบ
+<span class="LineNumber"> 010 </span>	การบัญญัติจำพวกบุคคลของบุคคลทั้งหลาย ย่อมมีด้วยบัญญัติเพียงเท่านี้
+<span class="LineNumber"> 011 </span>			ปุคคลปัญญัติปกรณ์ ฉภาณวาร จบ
+<span class="LineNumber"> 012 </span>			  -------------

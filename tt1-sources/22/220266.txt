@@ -1,0 +1,7 @@
+<span class="LineNumber"> 001 </span>		    รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 002 </span>     	๑. อาหุเนยยสูตรที่ ๑ 		๒. อาหุเนยยสูตรที่ ๒ 
+<span class="LineNumber"> 003 </span>๓. อินทริยสูตร			๔. พลสูตร 
+<span class="LineNumber"> 004 </span>๕. อาชานิยสูตรที่ ๑ 			๖. อาชานิยสูตรที่ ๒ 
+<span class="LineNumber"> 005 </span>๗. อาชานิยสูตรที่ ๓ 		๘. อนุตตริยสูตร 
+<span class="LineNumber"> 006 </span>๙. อนุสสติสูตร 			๑๐. มหานามสูตร ฯ
+<span class="LineNumber"> 007 </span>		       __________________

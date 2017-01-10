@@ -1,0 +1,16 @@
+<span class="LineNumber"> 001 </span>		      รวมพระสูตรที่มีในวรรคนี้ คือ            
+<span class="LineNumber"> 002 </span>           ๑. อัชฌัตติกสูตร           ๖. สักกายทิฏฐิสูตร   
+<span class="LineNumber"> 003 </span>           ๒. เอตังมมสูตร           ๗. อัตตานุทิฏฐิสูตร    
+<span class="LineNumber"> 004 </span>           ๓. เอโสอัตตาสูตร         ๘. อภินิเวสสูตรที่ ๑   
+<span class="LineNumber"> 005 </span>           ๔. โมจเมสิยาสูตร         ๙. อภินิเวสสูตรที่ ๒   
+<span class="LineNumber"> 006 </span>           ๕. มิจฉาทิฏฐิสูตร         ๑๐. อานันทสูตร.       
+<span class="LineNumber"> 007 </span>		          	 จบ จุลปัณณาสก์.     
+<span class="LineNumber"> 008 </span>		         ------------------------------------      
+<span class="LineNumber"> 009 </span>		      รวมวรรคที่มีในจุลปัณณาสก์นั้น คือ       
+<span class="LineNumber"> 010 </span>          ๑. อันตวรรค            ๔. กุกกุฬวรรค             
+<span class="LineNumber"> 011 </span>          ๒. ธัมมกถิกวรรค         ๕. ทิฏฐิวรรค             
+<span class="LineNumber"> 012 </span>          ๓. อวิชชาวรรค      
+<span class="LineNumber"> 013 </span>     รวม ๕ วรรค ตติยปัณณาสก์และนิบาตก็เรียกในขันธสังยุตนั้น
+<span class="LineNumber"> 014 </span>          รวมปัณณาสก์ที่มีในขันธสังยุต ๓ ปัณณาสก์.         
+<span class="LineNumber"> 015 </span>		           จบ ขันธสังยุต.      
+<span class="LineNumber"> 016 </span>		         ---------------------  

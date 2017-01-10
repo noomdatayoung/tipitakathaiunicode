@@ -1,0 +1,11 @@
+<span class="LineNumber"> 001 </span>         ยสฺส สกฺกริยมานสฺส         อสกฺกาเรน จูภยํ  
+<span class="LineNumber"> 002 </span>         สมาธิ น วิกมฺปติ           อปฺปมาณวิหาริโน ๑  
+<span class="LineNumber"> 003 </span>         ตํ ฌายินํ สาตติกํ           สุขุมทิฏฺ€ิวิปสฺสกํ  
+<span class="LineNumber"> 004 </span>         อุปาทานกฺขยารามํ          อาหุ สปฺปุริโส อิตีติ ฯ ทสมํ ฯ  
+<span class="LineNumber"> 005 </span>		                     ป€มวคฺโค ป€โม ฯ  
+<span class="LineNumber"> 006 </span>		                       ตสฺส อุทฺทานํ  
+<span class="LineNumber"> 007 </span>         สุทฺธกํ ๒ พฬิสํ กุมฺมํ        ทีฆโลมํ ปุเนฬกํ ๓  
+<span class="LineNumber"> 008 </span>         อสนิ ทิฏฺ€ิ สิคาลํ           เวรมฺเภน สคยฺหกนฺติ ๔ ฯ  
+<span class="LineNumber"> 009 </span>		                        ___________  
+<span class="LineNumber"> 010 </span>#๑ ยุ. อปฺปมาทวิหาริโน ฯ  ๒ ม. ยุ. ทารุโณ ฯ  ๓ ม. ยุ. ทีฆโลมิ จ มีฬฺหกํ ฯ  
+<span class="LineNumber"> 011 </span>#๔ ม. สคาถกนฺติ ฯ  

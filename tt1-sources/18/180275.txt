@@ -1,0 +1,13 @@
+<span class="LineNumber"> 001 </span>สา. การปฏิบัติธรรมสมควรแก่ธรรม ผู้มีอายุ
+<span class="LineNumber"> 002 </span>ช. ดูกรท่านผู้มีอายุ ก็ภิกษุผู้ปฏิบัติธรรมสมควรแก่ธรรมแล้ว จะพึงเป็นพระอรหันต์
+<span class="LineNumber"> 003 </span>ได้นานเพียงไร ฯ
+<span class="LineNumber"> 004 </span>สา. ไม่นานนัก ผู้มีอายุ ฯ
+<span class="LineNumber"> 005 </span>จบชัมพุขาทกสังยุตต์
+<span class="LineNumber"> 006 </span>______________________
+<span class="LineNumber"> 007 </span>รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 008 </span>๑. นิพพานสูตร 		๒. อรหัตตสูตร 	๓. ธรรมวาทีปัญหาสูตร
+<span class="LineNumber"> 009 </span>๔. กิมัตถิย สูตร 		๕. อัสสาสสูตร 	๖. ปรมัสสาสสูตร 		๗. เวทนาสูตร
+<span class="LineNumber"> 010 </span>๘. อาสวสูตร  		๙. อวิชชาสูตร 	๑๐. ตัณหาปัญหาสูตร 	๑๑. โอฆสูตร
+<span class="LineNumber"> 011 </span>๑๒. อุปาทานสูตร 		๑๓. ภวสูตร  		๑๔. ทุกขสูตร	๑๕. สักกายสูตร
+<span class="LineNumber"> 012 </span>๑๖. ทุกกรสูตร ฯ
+<span class="LineNumber"> 013 </span>______________________

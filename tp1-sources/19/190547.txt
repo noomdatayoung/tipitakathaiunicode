@@ -1,0 +1,14 @@
+<span class="LineNumber"> 001 </span>สมฺมุขา    เมตํ   อาวุโส   ภควโต   สุตํ   สมฺมุขา   ปฏิคฺคหิตํ   โย  
+<span class="LineNumber"> 002 </span>ภิกฺขเว    ทุกฺขํ    ปสฺสติ    ทุกฺขสมุทยํปิ   โส   ปสฺสติ   ทุกฺขนิโรธํปิ  
+<span class="LineNumber"> 003 </span>ปสฺสติ    ทุกฺขนิโรธคามินึ    ปฏิปทํปิ    ปสฺสติ   ฯ   โย   ทุกฺขสมุทยํ  
+<span class="LineNumber"> 004 </span>ปสฺสติ   ทุกฺขํปิ   โส   ปสฺสติ   ทุกฺขนิโรธํปิ   ปสฺสติ   ทุกฺขนิโรธคามินึ  
+<span class="LineNumber"> 005 </span>ปฏิปทํปิ    ปสฺสติ    ฯ    โย    ทุกฺขนิโรธํ    ปสฺสติ   ทุกฺขํปิ   โส  
+<span class="LineNumber"> 006 </span>ปสฺสติ   ทุกฺขสมุทยํปิ   ปสฺสติ   ทุกฺขนิโรธคามินึ   ปฏิปทํปิ   ปสฺสติ   ฯ  
+<span class="LineNumber"> 007 </span>โย   ทุกฺขนิโรธคามินึ   ปฏิปทํ  ปสฺสติ  ทุกฺขํปิ  โส  ปสฺสติ  ทุกฺขสมุทยํปิ  
+<span class="LineNumber"> 008 </span>ปสฺสติ ทุกฺขนิโรธํปิ ปสฺสตีติ ฯ  
+<span class="LineNumber"> 009 </span>			      โกฏิคามวคฺโค ตติโย ฯ  
+<span class="LineNumber"> 010 </span>				    ตสฺสุทฺทานํ  
+<span class="LineNumber"> 011 </span>		  เทฺว วชฺชี สมฺมาสมฺพุทฺโธ     อรหํ อาสวกฺขโย  
+<span class="LineNumber"> 012 </span>		  มิตฺตํ ๑ ตถา จ โลโก จ    อภิฺเยฺยํ ๒ ควมฺปตีติ ฯ  
+<span class="LineNumber"> 013 </span>				  ______________
+<span class="LineNumber"> 014 </span>#๑ ยุ. มิตฺตา ฯ ๒ สี. ม. ปริฺเยฺยํ ฯ  

@@ -1,0 +1,7 @@
+<span class="LineNumber"> 001 </span>		    รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 002 </span>    	 ๑. กุลุปกสูตร 		๒. ปัจฉาสมณสูตร 
+<span class="LineNumber"> 003 </span>	๓. สมาธิสูตร 		๔. อันธกวินทสูตร 
+<span class="LineNumber"> 004 </span>	๕. มัจฉริยสูตร 		๖. วรรณนาสูตร 
+<span class="LineNumber"> 005 </span>	๗. อิสสาสูตร 		๘. ทิฏฐิสูตร
+<span class="LineNumber"> 006 </span>	๙. วาจาสูตร 		๑๐. วายามสูตร ฯ
+<span class="LineNumber"> 007 </span>		       __________________

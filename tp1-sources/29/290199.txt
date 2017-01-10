@@ -1,0 +1,21 @@
+<span class="LineNumber"> 001 </span>     [๒๗๖]   วทนฺติ   เต   อฺสิตา   กโถชฺชนฺติ   อฺํ   สตฺถารํ  
+<span class="LineNumber"> 002 </span>ธมฺมกฺขานํ   คณํ   ทิฏฺ€ึ   ปฏิปทํ   มคฺคํ   นิสฺสิตา  สนฺนิสฺสิตา  อลฺลีนา  
+<span class="LineNumber"> 003 </span>อุปคตา   อชฺโฌสิตา   อธิมุตฺตา   ฯ   กโถชฺชํ   วุจฺจติ  กลโห  ภณฺฑนํ  
+<span class="LineNumber"> 004 </span>วิคฺคโห   วิวาโท   เมธคํ   ฯ   อถวา   กโถชฺชนฺติ   อโนชวนฺตี  สา  
+<span class="LineNumber"> 005 </span>กถา   ฯ   กโถชฺชํ   วทนฺติ   กลหํ   วทนฺติ   ภณฺฑนํ   วทนฺติ  วิคฺคหํ  
+<span class="LineNumber"> 006 </span>วทนฺติ   วิวาทํ   วทนฺติ   เมธคํ   วทนฺติ   ภณนฺติ  ทีปยนฺติ  โวหรนฺตีติ  
+<span class="LineNumber"> 007 </span>วทนฺติ เต อฺสิตา กโถชฺชํ ฯ  
+<span class="LineNumber"> 008 </span>     [๒๗๗]    ปสํสกามา   กุสลาวทานาติ   ปสํสกามาติ   ปสํสกามา  
+<span class="LineNumber"> 009 </span>ปสํสตฺถิกา   ปสํสาธิปฺปายา   ปสํสปุเรกฺขารา  ปสํสปริเยสนํ  จรนฺตา  ฯ  
+
+<span class="LineNumber"> 010 </span>กุสลาวทานาติ     กุสลวาทา    ปณฺฑิตวาทา    ธีรวาทา    าณวาทา  
+<span class="LineNumber"> 011 </span>เหตุวาทา   ลกฺขณวาทา   การณวาทา   €านวาทา   สกาย   ลทฺธิยาติ  
+<span class="LineNumber"> 012 </span>ปสํสกามา กุสลาวทานา ฯ เตนาห ภควา  
+<span class="LineNumber"> 013 </span>                 เต วาทกามา ปริสํ วิคยฺห  
+<span class="LineNumber"> 014 </span>                 พาลํ ทหนฺติ มิถุ อฺมฺํ  
+<span class="LineNumber"> 015 </span>                 วทนฺติ เต อฺสิตา กโถชฺชํ  
+<span class="LineNumber"> 016 </span>                 ปสํสกามา กุสลาวทานาติ ฯ  
+<span class="LineNumber"> 017 </span>           [๒๗๘] ยุตฺโต กถายํ ปริสาย มชฺเฌ  
+<span class="LineNumber"> 018 </span>                 ปสํสมิจฺฉํ วินิฆาติ โหติ  
+<span class="LineNumber"> 019 </span>                 อปาหตสฺมึ ปน มงฺกุ โหติ  
+<span class="LineNumber"> 020 </span>                 นินฺทาย โส กุปฺปติ รนฺธเมสี ฯ  

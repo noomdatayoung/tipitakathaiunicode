@@ -1,0 +1,16 @@
+<span class="LineNumber"> 001 </span>		สุตฺตนฺตปิฏเก ขุทฺทกนิกายสฺส     
+<span class="LineNumber"> 002 </span>				 ปฏิสมฺภิทามคฺโค   
+<span class="LineNumber"> 003 </span>				    _______    
+<span class="LineNumber"> 004 </span>	นโม ตสฺส ภควโต อรหโต สมฺมาสมฺพุทฺธสฺส    
+<span class="LineNumber"> 005 </span>					มาติกา   
+<span class="LineNumber"> 006 </span>	โสตาวธาเน   ปฺา   สุตมเย   าณํ   สุตฺวาน  สํวเร  ปฺา     
+<span class="LineNumber"> 007 </span>สีลมเย   าณํ   สํวริตฺวา   ๑   สมาทหเน  ปฺา  สมาธิภาวนามเย     
+<span class="LineNumber"> 008 </span>าณํ   ปจฺจยปริคฺคเห   ปฺา   ธมฺมฏฺ€ิติาณํ   อตีตานาคตปจฺจุปฺปนฺนานํ         
+<span class="LineNumber"> 009 </span>ธมฺมานํ       สงฺขิปิตฺวา       ววตฺถาเน      ปฺา      สมฺมสเน   
+<span class="LineNumber"> 010 </span>าณํ      ปจฺจุปฺปนฺนานํ     ธมฺมานํ     วิปริณามานุปสฺสเน     ปฺา  
+<span class="LineNumber"> 011 </span>อุทยพฺพยานุปสฺสเน     าณํ    อารมฺมณํ    ปฏิสงฺขา    ภงฺคานุปสฺสเน   
+<span class="LineNumber"> 012 </span>ปฺา    วิปสฺสเน    าณํ   ภยตุปฏฺ€าเน   ปฺา   อาทีนเว   าณํ   
+<span class="LineNumber"> 013 </span>มุฺจิตุกมฺยตาปฏิสงฺขาสนฺติฏฺ€นา    ปฺา   สงฺขารุเปกฺขาสุ   ๒   าณํ         
+<span class="LineNumber"> 014 </span>พหิทฺธาวุฏฺ€านวิวฏฺฏเน    ปฺา    โคตฺรภุาณํ    ทุภโตวุฏฺ€านวิวฏฺฏเน  
+<span class="LineNumber"> 015 </span>ปฺา      มคฺเค      าณํ      ปโยคปฺปฏิปฺปสฺสทฺธิปฺา      ผเล    
+<span class="LineNumber"> 016 </span>#๑ สี. สํวเร €ตฺวา ฯ ๒ สี. สงฺขารุเปกฺเขสุ ฯ  

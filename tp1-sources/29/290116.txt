@@ -1,0 +1,21 @@
+<span class="LineNumber"> 001 </span>ติรจฺฉานโยนิโกติ   วา   ปิตฺติวิสยิโกติ   วา   มนุสฺโสติ   วา  เทโวติ  
+
+<span class="LineNumber"> 002 </span>วา    รูปีติ    วา    อรูปีติ    วา    สฺีติ   วา   อสฺีติ   วา  
+<span class="LineNumber"> 003 </span>เนวสฺีนาสฺีติ   วา   ฯ   โส   เหตุ  นตฺถิ  ปจฺจโย  นตฺถิ  การณํ  
+<span class="LineNumber"> 004 </span>นตฺถิ   เยน   กปฺเปยฺย  วิกปฺเปยฺย  วิกปฺปํ  อาปชฺเชยฺย  ฯ  โลกสฺมินฺติ  
+<span class="LineNumber"> 005 </span>อปายโลเก  มนุสฺสโลเก  เทวโลเก  ขนฺธโลเก ธาตุโลเก อายตนโลเกติ  
+<span class="LineNumber"> 006 </span>เกนีธ โลกสฺมิ วิกปฺปเยยฺย ฯ เตนาห ภควา$  
+<span class="LineNumber"> 007 </span>                 ส สพฺพธมฺเมสุ วิเสนิภูโต  
+<span class="LineNumber"> 008 </span>                 ยงฺกิฺจิ ทิฏฺ€ํว สุตํ มุตํ วา  
+<span class="LineNumber"> 009 </span>                 ตเมว ทสฺสึ วิวฏํ จรนฺตํ  
+<span class="LineNumber"> 010 </span>                 เกนีธ โลกสฺมิ วิกปฺปเยยฺยาติ ฯ  
+<span class="LineNumber"> 011 </span>           [๑๓๗] น กปฺปยนฺติ น ปุเรกฺขโรนฺติ  
+<span class="LineNumber"> 012 </span>                 อจฺจนฺตสุทฺธีติ น เต วทนฺติ  
+<span class="LineNumber"> 013 </span>                 อาทานคนฺถํ คถิตํ วิสชฺช  
+<span class="LineNumber"> 014 </span>                 อาสํ น กุพฺพนฺติ กุหิฺจิ โลเก ฯ  
+<span class="LineNumber"> 015 </span>     [๑๓๘]   น  กปฺปยนฺติ  น  ปุเรกฺขโรนฺตีติ  กปฺปาติ  เทฺว  กปฺปา  
+<span class="LineNumber"> 016 </span>ตณฺหากปฺโป   จ   ทิฏฺ€ิกปฺโป   จ   ฯเปฯ   อยํ   ตณฺหากปฺโป  ฯเปฯ  
+<span class="LineNumber"> 017 </span>อยํ    ทิฏฺ€ิกปฺโป    ฯ    เตสํ    ตณฺหากปฺโป    ปหีโน   ทิฏฺ€ิกปฺโป  
+<span class="LineNumber"> 018 </span>ปฏินิสฺสฏฺโ€    ตณฺหากปฺปสฺส    ปหีนตฺตา   ทิฏฺ€ิกปฺปสฺส   ปฏินิสฺสฏฺ€ตฺตา  
+<span class="LineNumber"> 019 </span>ตณฺหากปฺปํ    วา    ทิฏฺ€ิกปฺปํ    วา    น   กปฺเปนฺติ   น   ชเนนฺติ  
+<span class="LineNumber"> 020 </span>น     สฺชเนนฺติ     น     นิพฺพตฺเตนฺติ     นาภินิพฺพตฺเตนฺตีติ     น  

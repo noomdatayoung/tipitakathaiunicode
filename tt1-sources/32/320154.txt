@@ -1,0 +1,9 @@
+<span class="LineNumber"> 001 </span>                  อนึ่ง รวมวรรคมี ๑๐ วรรค คือ           
+<span class="LineNumber"> 002 </span>        พุทธวรรคที่ ๑                   สีหาสนิยวรรคที่ ๒  
+<span class="LineNumber"> 003 </span>        สุภูติวรรคที่ ๓                   กุณฑธานวรรคที่ ๔  
+<span class="LineNumber"> 004 </span>        อุปาลิวรรคที่ ๕                  วีชนีวรรคที่ ๖  
+<span class="LineNumber"> 005 </span>        สกจิตตนิยวรรคที่ ๗               นาคสมาลวรรคที่ ๘  
+<span class="LineNumber"> 006 </span>     ติมีรปุปผิยวรรคที่ ๙ เป็น ๑๐ ทั้งสุธาวรรค รวมคาถาได้ ๑,๔๕๕ คาถา.  
+<span class="LineNumber"> 007 </span>                   จบ หมวด ๑๐ แห่งพุทธวรรค.             
+<span class="LineNumber"> 008 </span>                      จบ หมวด ๑๐๐ ที่ ๑.                
+<span class="LineNumber"> 009 </span>                         ----------  

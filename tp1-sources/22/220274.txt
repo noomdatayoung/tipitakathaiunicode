@@ -1,0 +1,13 @@
+<span class="LineNumber"> 001 </span>นานุเสติ   รูปนนฺทิปิ   ๑  นานุเสติ  สกฺกายนนฺทิปิ  ๒  นานุเสติ  โส   
+<span class="LineNumber"> 002 </span>กามนนฺทิยาปิ   อนนุสยา   พฺยาปาทนนฺทิยาปิ   อนนุสยา  วิเหสานนฺทิยาปิ   
+<span class="LineNumber"> 003 </span>อนนุสยา  รูปนนฺทิยาปิ  อนนุสยา  สกฺกายนนฺทิยาปิ  อนนุสยา  อยํ  วุจฺจติ   
+<span class="LineNumber"> 004 </span>ภิกฺขเว   ภิกฺขุ  นิราลโย  ๓  อจฺเฉชฺชิ  ๔  ตณฺหํ  วิวฏฺฏยิ  สฺโชนํ         
+<span class="LineNumber"> 005 </span>สมฺมามานาภิสมยา   อนฺตมกาสิ   ทุกฺขสฺส  ฯ  อิมา  โข  ภิกฺขเว  ปฺจ   
+<span class="LineNumber"> 006 </span>นิสฺสารณิยา ธาตุโยติ ฯ      
+<span class="LineNumber"> 007 </span>                  พฺราหฺมณวคฺโค ปฺจโม ฯ   
+<span class="LineNumber"> 008 </span>                 จตุตฺโถ ปณฺณาสโก นิฏฺ€ิโต ฯ   
+<span class="LineNumber"> 009 </span>                        ตสฺสุทฺทานํ   
+<span class="LineNumber"> 010 </span>        โสโณ โทโณ สํคารโว       การณปาลี จ ปิงฺคิยานี   
+<span class="LineNumber"> 011 </span>        สุปินา จ วสฺสา วาจา       กุลํ นิสฺสรณิเยน จาติ ฯ   
+<span class="LineNumber"> 012 </span>                     ________________   
+<span class="LineNumber"> 013 </span>#๑-๒ ม. ... นนฺทีปิ ฯ  ๓ ม. ยุ. นิรมุสโย ฯ  ๔ โป. ม. อจฺเฉจฺฉิ ฯ  

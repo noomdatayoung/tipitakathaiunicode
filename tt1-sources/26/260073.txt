@@ -1,0 +1,9 @@
+<span class="LineNumber"> 001 </span>		         รวมวิมานที่มีในวรรค  
+<span class="LineNumber"> 002 </span>		       รวมวิมานที่มีในวรรคนี้ คือ  
+<span class="LineNumber"> 003 </span>		๑. มัญชิฏฐกวิมาน                ๒. ปภัสสรวิมาน  
+<span class="LineNumber"> 004 </span>		๓. นาควิมาน                   ๔. อโลมวิมาน  
+<span class="LineNumber"> 005 </span>		๕. กัญชิกทายิกาวิมาน             ๖. วิหารวิมาน  
+<span class="LineNumber"> 006 </span>		๗. จตุริตถีวิมาน                 ๘. อัมพวิมาน  
+<span class="LineNumber"> 007 </span>		๙. ปีตวิมาน                   ๑๐. อุจฉุวิมาน  
+<span class="LineNumber"> 008 </span>	  ๑๑. วันทนวิมาน                 ๑๒. รัชชุมาลาวิมาน.  
+<span class="LineNumber"> 009 </span>		      จบ วรรคที่ ๔ ในอิตถีวิมาน.  

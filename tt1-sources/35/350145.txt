@@ -1,0 +1,14 @@
+<span class="LineNumber"> 001 </span>           อวิชชาเกิดเพราะอุปาทานเป็นปัจจัย ฯลฯ
+<span class="LineNumber"> 002 </span>           สังขารเกิดเพราะอวิชชาเป็นปัจจัย
+<span class="LineNumber"> 003 </span>           วิญญาณเกิดเพราะสังขารเป็นปัจจัย
+<span class="LineNumber"> 004 </span>           นามรูปเกิดเพราะวิญญาณเป็นปัจจัย
+<span class="LineNumber"> 005 </span>           สฬายตนะเกิดเพราะนามรูปเป็นปัจจัย
+<span class="LineNumber"> 006 </span>           ผัสสะเกิดเพราะสฬายตนะเป็นปัจจัย
+<span class="LineNumber"> 007 </span>           เวทนาเกิดเพราะผัสสะเป็นปัจจัย
+<span class="LineNumber"> 008 </span>           ตัณหาเกิดเพราะเวทนาเป็นปัจจัย
+<span class="LineNumber"> 009 </span>           อุปาทานเกิดเพราะตัณหาเป็นปัจจัย
+<span class="LineNumber"> 010 </span>           ภพเกิดเพราะอุปาทานเป็นปัจจัย
+<span class="LineNumber"> 011 </span>           ชาติเกิดเพราะภพเป็นปัจจัย
+<span class="LineNumber"> 012 </span>           ชรามรณะเกิดเพราะชาติเป็นปัจจัย
+<span class="LineNumber"> 013 </span>     ความเกิดขึ้นแห่งกองทุกข์ทั้งมวลนี้ ย่อมมีด้วยประการอย่างนี้
+<span class="LineNumber"> 014 </span>                       อภิธรรมมาติกา จบ

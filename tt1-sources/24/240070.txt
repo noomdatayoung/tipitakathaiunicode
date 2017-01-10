@@ -1,0 +1,6 @@
+<span class="LineNumber"> 001 </span>                   รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 002 </span>     ๑. อุปาลิสูตรที่ ๑ 			๒. อุปาลิสูตรที่ ๒ 
+<span class="LineNumber"> 003 </span>     ๓. อุพพาหสูตร			๔. อุปสัมปทาสูตร 
+<span class="LineNumber"> 004 </span>     ๕. นิสสยสูตร				 ๖. สามเณรสูตร 
+<span class="LineNumber"> 005 </span>     ๗. อุปาลิสังฆเภทสูตร 		๘. อุปาลิสังฆสามัคคีสูตร
+<span class="LineNumber"> 006 </span>     ๙. อานันทสังฆเภทสูตร		๑๐. อานันทสังฆสามัคคีสูตร ฯ

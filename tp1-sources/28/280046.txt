@@ -1,0 +1,5 @@
+<span class="LineNumber"> 001 </span>			ชาตกสวฺหยโน ปวโร    
+<span class="LineNumber"> 002 </span>			โสณกอรินฺทมสวฺหยโน     
+<span class="LineNumber"> 003 </span>			ตถาวุตฺตรเถสภสงฺกิจฺจวโร ฯ     
+<span class="LineNumber"> 004 </span>			     สฏฺ€ินิปาตํ นิฏฺ€ิตํ ฯ      
+<span class="LineNumber"> 005 </span>				_________     

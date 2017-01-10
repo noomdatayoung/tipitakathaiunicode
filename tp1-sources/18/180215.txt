@@ -1,0 +1,16 @@
+<span class="LineNumber"> 001 </span>ฯเปฯ    ชิวฺหาย    สติ    ฯเปฯ   มนสฺมึ   สติ   มโนสมฺผสฺสปจฺจยา  
+<span class="LineNumber"> 002 </span>อุปฺปชฺชติ อชฺฌตฺตํ สุขทุกฺขนฺติ ๑ ฯ  
+<span class="LineNumber"> 003 </span>     [๓๐๘]  หตฺเถสุ  ภิกฺขเว  อสติ  อาทานนิกฺเขปนํ  น โหติ ปาเทสุ  
+<span class="LineNumber"> 004 </span>อสติ   อภิกฺกมปฏิกฺกโม   น   โหติ   ปพฺเพสุ   อสติ   สมฺมิฺชนปสารณํ  
+<span class="LineNumber"> 005 </span>น   โหติ   กุจฺฉิสฺมึ  อสติ  ชิฆจฺฉาปิปาสา  น  โหติ  ฯ  เอวเมว  โข  
+<span class="LineNumber"> 006 </span>ภิกฺขเว    จกฺขุสฺมึ    อสติ    จกฺขุสมฺผสฺสปจฺจยา   นุปฺปชฺชติ   อชฺฌตฺตํ  
+<span class="LineNumber"> 007 </span>สุขทุกฺขํ     ฯเปฯ    ชิวฺหาสมฺผสฺสปจฺจยา    ฯเปฯ    มนสฺมึ    อสติ  
+<span class="LineNumber"> 008 </span>มโนสมฺผสฺสปจฺจยา นุปฺปชฺชติ อชฺฌตฺตํ สุขทุกฺขนฺติ ฯ  
+<span class="LineNumber"> 009 </span>                    สมุทฺทวคฺโค ตติโย ฯ  
+<span class="LineNumber"> 010 </span>                        ตสฺสุทฺทานํ  
+<span class="LineNumber"> 011 </span>         เทฺว สมุทฺทา พาฬิสิโก ๒   ขีรรุกฺเขน โกฏฺ€ิโก  
+<span class="LineNumber"> 012 </span>         กามภู อุทายิ เจว         อาทิตฺเตน จ อฏฺ€มํ  
+<span class="LineNumber"> 013 </span>         หตฺถปาทปพฺพา ๓ เจว     วคฺโค เตน ปวุจฺจตีติ ฯ  
+<span class="LineNumber"> 014 </span>                     __________________  
+<span class="LineNumber"> 015 </span>#๑ ม. ยุ. สุขํ ทุกฺขํ ฯเปฯ หตฺเถสุ ฯ  ๒ ยุ. พาฬสิโก ฯ  ๓ ม. หตฺถปาทูปมา  
+<span class="LineNumber"> 016 </span>#เทฺวติ ฯ ยุ. หตฺถปาทุปมา ทุเว ฯ  

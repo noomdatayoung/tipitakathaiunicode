@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>				ทุกกฏ  
+<span class="LineNumber"> 002 </span>	ภิกษุรับยามกาลิก สัตตาหกาลิก ยาวชีวิกไว้ เพื่อประสงค์เป็นอาหาร ต้องอาบัติทุกกฏ.  
+<span class="LineNumber"> 003 </span>	ขณะกลืน ต้องอาบัติทุกกฏ ทุกๆ คำกลืน.  
+<span class="LineNumber"> 004 </span>	ในกาล ภิกษุสำคัญว่าวิกาล ... ต้องอาบัติทุกกฏ.  
+<span class="LineNumber"> 005 </span>	ในกาล ภิกษุสงสัย ... ต้องอาบัติทุกกฏ.  
+<span class="LineNumber"> 006 </span>				ไม่ต้องอาบัติ  
+<span class="LineNumber"> 007 </span>	ในกาล ภิกษุสำคัญว่าในกาล ... ไม่ต้องอาบัติ.  
+<span class="LineNumber"> 008 </span>				อนาปัตติวาร  
+<span class="LineNumber"> 009 </span>	[๕๑๑] ภิกษุฉันยามกาลิก สัตตาหกาลิก ยาวชีวิก เมื่อมีเหตุสมควร ๑ ภิกษุวิกล  
+<span class="LineNumber"> 010 </span>จริต ๑ ภิกษุอาทิกัมมิกะ ๑ ไม่ต้องอาบัติแล.  
+<span class="LineNumber"> 011 </span>			โภชนวรรค สิกขาบทที่ ๗ จบ.  
+<span class="LineNumber"> 012 </span>				___________ 

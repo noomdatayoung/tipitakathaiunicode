@@ -1,0 +1,7 @@
+<span class="LineNumber"> 001 </span>		   รวมชาดกที่มีในวรรคนี้ คือ          
+<span class="LineNumber"> 002 </span>            ๑. ปทุมชาดก           ๒. มุทุปาณิชาดก       
+<span class="LineNumber"> 003 </span>            ๓. จุลลปโลภนชาดก      ๔. มหาปนาทชาดก        
+<span class="LineNumber"> 004 </span>            ๕. ขุรัปปชาดก          ๖. วาตัคคสินธวชาดก   
+<span class="LineNumber"> 005 </span>            ๗. สุวรรณกักกฏกชาดก    ๘. อารามทูสกชาดก     
+<span class="LineNumber"> 006 </span>            ๙. สุชาตาชาดก        ๑๐. อุลูกชาดก.         
+<span class="LineNumber"> 007 </span>		     _________________ 

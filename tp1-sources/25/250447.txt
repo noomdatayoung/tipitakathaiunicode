@@ -1,0 +1,22 @@
+<span class="LineNumber"> 001 </span>พฺรหฺมจริยํ    กตํ    กรณียํ    นาปรํ   อิตฺถตฺตายาติ   อพฺภฺาสิ   ฯ  
+<span class="LineNumber"> 002 </span>อฺตโร   โข   ปนายสฺมา   เสโล   สปริโส  อรหตํ  อโหสิ  ฯ  อถ  
+<span class="LineNumber"> 003 </span>โข  อายสฺมา  เสโล  สปริโส  เยน  ภควา  เตนุปสงฺกมิ  อุปสงฺกมิตฺวา  
+<span class="LineNumber"> 004 </span>เอกํสํ     จีวรํ     กตฺวา    เยน    ภควา    เตนฺชลิมฺปณาเมตฺวา  
+<span class="LineNumber"> 005 </span>ภควนฺตํ คาถาย ๑ อชฺฌภาสิ  
+<span class="LineNumber"> 006 </span>           ยนฺตํ สรณมาคมฺม ๒       อิโต อฏฺ€มิ จกฺขุมา ๓   
+<span class="LineNumber"> 007 </span>           สตฺตรตฺเตน ภควา         ทนฺตมฺหา ๔ ตว สาสเน ฯ  
+
+<span class="LineNumber"> 008 </span>           ตุวํ พุทฺโธ ตุวํ สตฺถา       ตุวํ มาราภิภู มุนิ  
+<span class="LineNumber"> 009 </span>           ตุวํ อนุสเย ๕ เฉตฺวา     ติณฺโณ ตาเรสิมํ ปชํ  
+<span class="LineNumber"> 010 </span>           อุปธี เต สมติกฺกนฺตา       อาสวา เต ปทาลิตา  
+<span class="LineNumber"> 011 </span>           สีโหสิ อนุปาทาโน         ปหีนภยเภรโว  
+<span class="LineNumber"> 012 </span>           ภิกฺขโว ติสตา อิเม        ติฏฺ€นฺติ ปฺชลีกตา  
+<span class="LineNumber"> 013 </span>           ปาเท วีร ปสาเรหิ        นาคา วนฺทนฺตุ สตฺถุโนติ ฯ  
+<span class="LineNumber"> 014 </span>                       เสลสุตฺตํ สตฺตมํ ฯ  
+<span class="LineNumber"> 015 </span>                       _______________  
+<span class="LineNumber"> 016 </span>           สุตฺตนิปาเต ตติยสฺส มหาวคฺคสฺส อฏฺ€มํ สลฺลสุตฺตํ  
+<span class="LineNumber"> 017 </span>   [๓๘๐] ๘ อนิมิตฺตมนฺาตํ           มจฺจานํ อิธ ชีวิตํ  
+<span class="LineNumber"> 018 </span>           กสิรฺจ ปริตฺตฺจ          ตฺจ ทุกฺเขน สฺุตํ ๖ ฯ  
+<span class="LineNumber"> 019 </span>           น หิ โส อุปกฺกโม อตฺถิ     เยน ชาตา น มิยฺยเร  
+<span class="LineNumber"> 020 </span>#๑ ยุ. คาถาหิ ฯ  ๒ ม. ยุ. สรณาคมฺห ฯ  ๓ โป. ม. จกฺขุม ฯ  ๔ ม. ยุ.  
+<span class="LineNumber"> 021 </span>#ทนฺตมฺห ฯ ๕ โป. อกุสเล ฯ ๖ โป. ม. สํยุตํ ฯ  

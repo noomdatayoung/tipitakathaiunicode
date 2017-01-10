@@ -1,0 +1,10 @@
+<span class="LineNumber"> 001 </span>เอวํ   วุตฺเต   ปาฏลิโย  คามณี  ภควนฺตํ  เอตทโวจ  อภิกฺกนฺตํ  ภนฺเต  
+<span class="LineNumber"> 002 </span>อภิกฺกนฺตํ    ภนฺเต   ฯเปฯ   อชฺชตคฺเค   ปาณุเปตํ   สรณงฺคตนฺติ   ฯ  
+<span class="LineNumber"> 003 </span>เตรสมํ ฯ  
+<span class="LineNumber"> 004 </span>                    คามณิสํยุตฺตํ สมตฺตํ ฯ  
+<span class="LineNumber"> 005 </span>                        ตสฺสุทฺทานํ  
+<span class="LineNumber"> 006 </span>        จณฺฑปุตฺโต ๑ โยธาชีโว   หตฺถิ ๒ หโย จ ภูมโก  
+<span class="LineNumber"> 007 </span>        เทสนาสงฺขา กุลํ มณิจูฬํ    คนฺธภกราสิยปาฏลีติ ๓ ฯ  
+<span class="LineNumber"> 008 </span>                     _______________  
+<span class="LineNumber"> 009 </span>#๑ ม. ยุ. จณฺโฑ ปุโฏ ฯ  ๒ ม. หตฺถิสฺโส อสิพนฺธโก ฯ ยุ. หตฺถิ หโย ปจฺฉาภูมโก ฯ  
+<span class="LineNumber"> 010 </span>#๓ ม. ยุ. ภทฺรราสิยปาฏลีติ ฯ  

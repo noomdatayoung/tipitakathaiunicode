@@ -1,0 +1,7 @@
+<span class="LineNumber"> 001 </span>รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 002 </span>๑. สุวัณณปาติสูตร 		๒. รูปิยปาติสูตร 
+<span class="LineNumber"> 003 </span>๓. สุวัณณนิกขสูตร		๔. สุวัณณนิกขสตสูตร 
+<span class="LineNumber"> 004 </span>๕. สิงคินิกขสูตร 		๖. สังคินิกขสตสูตร 
+<span class="LineNumber"> 005 </span>๗. ปฐวีสูตร 			๘. อามิสกิญจิกขสูตร
+<span class="LineNumber"> 006 </span> ๙. ชีวิตสูตร			๑๐. ชนปทกัลยาณีสูตร ฯ
+<span class="LineNumber"> 007 </span>________

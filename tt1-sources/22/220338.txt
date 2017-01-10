@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>เรียกว่าเป็นบุคคลที่เจ็ด แห่งพระอริยสงฆ์  นรชนใดเบียดเบียน ทำร้าย
+<span class="LineNumber"> 002 </span>บุคคลเช่นนั้นผู้เป็นภิกษุ ในกาลก่อน นรชนนั้นชื่อว่าทำร้ายตนเอง ย่อม
+<span class="LineNumber"> 003 </span>บั่นรอนอรหัตผลในภายหลัง ส่วนนรชนใดย่อมรักษาตน นรชนนั้นชื่อว่า
+<span class="LineNumber"> 004 </span>เป็นผู้รักษาตนที่เป็นส่วนภายนอก เพราะเหตุนั้น บัณฑิตไม่ขุดโค่นคุณ
+<span class="LineNumber"> 005 </span>ความดีของตน ชื่อว่าพึงรักษาตนทุกเมื่อ ฯ
+<span class="LineNumber"> 006 </span>		          จบสูตรที่ ๑๒
+<span class="LineNumber"> 007 </span>		        จบธรรมิกวรรคที่ ๕
+<span class="LineNumber"> 008 </span>		        __________________
+<span class="LineNumber"> 009 </span>		    รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 010 </span>     	๑. นาคสูตร 			๒. มิคสาลาสูตร 
+<span class="LineNumber"> 011 </span>๓. อิณสูตร 			๔. มหาจุนทสูตร
+<span class="LineNumber"> 012 </span>๕. สันทิฏฐิกสูตรที่ ๑ 	๖. สันทิฏฐิกสูตรที่ ๒ 
+<span class="LineNumber"> 013 </span>๗. เขมสุมนสูตร 		๘. อินทรียสังวรสูตร 
+<span class="LineNumber"> 014 </span>๙. อานันทสูตร 		๑๐. ขัตติยาธิปปายสูตร 
+<span class="LineNumber"> 015 </span>๑๑. อัปปมาทสูตร		๑๒. ธรรมิกสูตร ฯ
+<span class="LineNumber"> 016 </span>		         จบปฐมปัณณาสก์
+<span class="LineNumber"> 017 </span>		         __________________

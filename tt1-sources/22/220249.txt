@@ -1,0 +1,8 @@
+<span class="LineNumber"> 001 </span>		    รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 002 </span>     	๑. ทุจริตสูตร 		๒. กายทุจริตสูตร 
+<span class="LineNumber"> 003 </span>๓. วจีทุจริตสูตร 		๔. มโนทุจริตสูตร
+<span class="LineNumber"> 004 </span>๕. อปรทุจริตสูตร 		๖. อปรกายทุจริตสูตร 
+<span class="LineNumber"> 005 </span>๗. อปรวจีทุจริตสูตร 	๘. อปรมโนทุจริตสูตร 
+<span class="LineNumber"> 006 </span>๙. สีวถิกาสูตร 		๑๐. ปุคคลปสาทสูตร ฯ
+<span class="LineNumber"> 007 </span>		         จบปัณณาสก์ที่ ๕
+<span class="LineNumber"> 008 </span>		         __________________

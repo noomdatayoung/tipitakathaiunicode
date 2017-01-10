@@ -1,0 +1,23 @@
+<span class="LineNumber"> 001 </span>	ในกาลไหนๆ  เห็นภัยในความถือมั่นอันเป็นเหตุแห่งชาติและ
+<span class="LineNumber"> 002 </span>	มรณะแล้ว  ไม่ถือมั่น  หลุดพ้นในธรรมเป็นที่สิ้นชาติและมรณะ
+<span class="LineNumber"> 003 </span>	ได้  นรชนเหล่านั้นเป็นผู้ถึงความเกษม  มีสุข  ดับสนิทใน
+<span class="LineNumber"> 004 </span>	ปัจจุบัน  ล่วงเวรและภัยทั้งปวงและเข้าไปล่วงทุกข์ทั้งปวงได้  ฯ
+<span class="LineNumber"> 005 </span>	    จบ  เทวสูตสูตร  ที่  ๑๐
+<span class="LineNumber"> 006 </span>	    จบ  สุญญตวรรค  ที่  ๓
+<span class="LineNumber"> 007 </span>	    __________
+
+<span class="LineNumber"> 008 </span>	    หัวข้อเรื่องของสุญญตวรรคนั้น  ดังนี้
+<span class="LineNumber"> 009 </span>	เรื่องสุญญตธรรมอย่างไม่มีธรรมอื่นยิ่งกว่า  ๒  เรื่อง  เรื่องธรรม
+<span class="LineNumber"> 010 </span>	ที่ไม่น่าเป็นไปได้  ๑  เรื่องพระพักกุละ  ๑  เรื่องสมณุทเทส
+<span class="LineNumber"> 011 </span>	อจิรวตะผู้เป็นพระวีระผู้ประเสริฐ  ๑  เรื่องพระภูมิชะผู้มีชื่อว่า
+<span class="LineNumber"> 012 </span>	แผ่นดิน  ๑  เรื่องพระอนุรุทธ  ๑  เรื่องท่านผู้ละกิเลส  ๑
+<span class="LineNumber"> 013 </span>	เรื่องภูมิบัณฑิต  ๑  เรื่องเทวทูต  ๑  ฯ
+<span class="LineNumber"> 014 </span>	    __________
+
+<span class="LineNumber"> 015 </span>	      รวมพระสูตรที่มีในวรรคนี้  คือ
+<span class="LineNumber"> 016 </span>	๑.  จูฬสุญญตสูตร        		๒.  มหาสุญญตสูตร
+<span class="LineNumber"> 017 </span>	๓.  อัจฉริยัพภูตธัมมสูตร          	๔.  พักกุลัตเถรัจฉริยัพภูตสูตร
+<span class="LineNumber"> 018 </span>	๕.  ทันตภูมิสูตร          		๖.  ภูมิชสูตร
+<span class="LineNumber"> 019 </span>	๗.  อนุรุทธสูตร          		๘.  อุปักกิเลสสูตร
+<span class="LineNumber"> 020 </span>	๙.  พาลบัณฑิตสูตร          		๑๐.  เทวทูตสูตร
+<span class="LineNumber"> 021 </span>	 			__________

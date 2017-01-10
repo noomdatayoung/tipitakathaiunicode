@@ -1,0 +1,10 @@
+<span class="LineNumber"> 001 </span>   [๔๙๓]   อนาปตฺติ   คิลานาย   คิลานา   หุตฺวา   วิฺาเปตฺวา  
+<span class="LineNumber"> 002 </span>อคิลานา   ภุฺชติ   คิลานาย   เสสกํ   ภุฺชติ   าตกานํ   ปวาริตานํ 
+<span class="LineNumber"> 003 </span>อฺสฺสตฺถาย อตฺตโน ธเนน อุมฺมตฺติกาย อาทิกมฺมิกายาติ ฯ   
+<span class="LineNumber"> 004 </span>   [๔๙๔]  อุทฺทิฏฺ€า  โข  อยฺยาโย  อฏฺ€  ปาฏิเทสนียา  ธมฺมา  ฯ  
+<span class="LineNumber"> 005 </span>ตตฺถยฺยาโย  ปุจฺฉามิ  กจฺจิตฺถ   ปริสุทฺธา   ฯ   ทุติยมฺปิ   ปุจฺฉามิ 
+<span class="LineNumber"> 006 </span>กจฺจิตฺถ   ปริสุทฺธา   ฯ   ตติยมฺปิ   ปุจฺฉามิ   กจฺจิตฺถ   ปริสุทฺธา   ฯ 
+<span class="LineNumber"> 007 </span>ปริสุทฺเธตฺถยฺยาโย ตสฺมา ตุณฺหี ฯ เอวเมตํ ธารยามีติ ฯ   
+<span class="LineNumber"> 008 </span>				   ปาฏิเทสนียา นิฏฺ€ิตา ๑ ฯ  
+<span class="LineNumber"> 009 </span>					  _____________
+<span class="LineNumber"> 010 </span>#๑ ม. ยุ. ปาฏิเทสนียํ นิฏฺ€ิตํ ฯ  

@@ -1,0 +1,16 @@
+<span class="LineNumber"> 001 </span>			   ตสฺสุทฺทานํ  
+<span class="LineNumber"> 002 </span>		สมาธิ สมาปตฺติ €ิติ วุฏฺ€านํ   กลฺลิตารมฺมเณน จ  
+<span class="LineNumber"> 003 </span>		โคจโร อภินีหาโร          สกฺกจฺจสาตจฺจการี  
+<span class="LineNumber"> 004 </span>		อโถปิ สปฺปายนฺติ ฯ  
+<span class="LineNumber"> 005 </span>		    ขนฺธวารวคฺคสํยุตฺตํ สมตฺตํ ฯ  
+<span class="LineNumber"> 006 </span>			 ตตฺร วคฺคุทฺทานํ  
+<span class="LineNumber"> 007 </span>		นกุลปิตา อนิจฺจฺจ          ภารํ นตุมฺหาเกน จ  
+<span class="LineNumber"> 008 </span>		อตฺตทีเปน ปฺาโส         ป€โมติ ปวุจฺจติ ฯ  
+<span class="LineNumber"> 009 </span>		อุปาโย อรหํ ขชฺชนิโย       เถรํ ปุปฺเผน ปฺจมํ  
+<span class="LineNumber"> 010 </span>		มชฺเฌปณฺณาสโกสโล         สมฺพุทฺเธน ปกาสิตํ ฯ  
+<span class="LineNumber"> 011 </span>		อนฺตํ ธมฺมกถิกาวิชฺชา        กุกฺกุฬํ ทิฏฺ€ิปฺจมํ  
+<span class="LineNumber"> 012 </span>		ตติโย ปณฺณาสโก วุตฺโต      นิปาโตติ ปวุจฺจตีติ ฯ  
+<span class="LineNumber"> 013 </span>		ขนฺธราธทิฏฺ€ิ จ โอกฺกนฺติ     อุปฺปาเทน กิเลเสน จ  
+<span class="LineNumber"> 014 </span>		สารีปุตฺโต จ นาโค จ       สุปณฺณคนฺธพฺพกายิกา  
+<span class="LineNumber"> 015 </span>		พลาโห วจฺฉโคตฺโต จ       ฌาเนน ภวติ เตรสาติ ฯ  
+<span class="LineNumber"> 016 </span>			__________________  

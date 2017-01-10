@@ -1,0 +1,9 @@
+<span class="LineNumber"> 001 </span>รวมอปทานที่มีในวรรคนี้ คือ 
+<span class="LineNumber"> 002 </span>๑. เอกวิหาริยเถราปทาน ๖. กลัมพทายกเถราปทาน
+<span class="LineNumber"> 003 </span>๒. เอกสังขิยเถราปทาน๗. อัมพาฏกทายกเถราปทาน
+<span class="LineNumber"> 004 </span>๓. ปาฏิหิรสัญญกเถราปทาน๘. หรีตกิทายกเถราปทาน
+<span class="LineNumber"> 005 </span>๔. ญาณัตถวิกเถราปทาน๙. อัมพปิณฑิยเถราปทาน 
+<span class="LineNumber"> 006 </span>๕. อุจฉุขัณฑิกเถราปทาน ๑๐. ชัมพูผลิยเถราปทาน
+<span class="LineNumber"> 007 </span>บัณฑิตคำนวณคาถาได้ ๘๖ คาถา.
+<span class="LineNumber"> 008 </span>จบ เอกวิหาริวรรคที่ ๔๔
+<span class="LineNumber"> 009 </span>---------------- 

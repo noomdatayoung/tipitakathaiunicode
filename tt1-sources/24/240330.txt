@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>ไม่พึงมีความสำคัญในรูปที่ได้เห็นเสียงที่ได้ยิน อารมณ์ที่ทราบ ธรรมที่รู้แจ้ง ที่ถึงแล้ว 
+<span class="LineNumber"> 002 </span>แสวงหาแล้ว ตรองตามแล้วด้วยใจ ก็แต่ว่าพึงเป็นผู้มีสัญญา ฯ
+<span class="LineNumber"> 003 </span>                         จบสูตรที่ ๑๑
+<span class="LineNumber"> 004 </span>                        จบทุติยวรรคที่ ๒
+<span class="LineNumber"> 005 </span>                      ________________
+<span class="LineNumber"> 006 </span>                   รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 007 </span>     	๑. มหานามสูตรที่ ๑ 		๒. มหานามสูตรที่ ๒
+<span class="LineNumber"> 008 </span>     	๓. นันทิยสูตร 			๔. สุภูติสูตร 
+<span class="LineNumber"> 009 </span>     	๕. เมตตาสูตร 			๖. ทสมสูตร 
+<span class="LineNumber"> 010 </span>     	๗. โคปาลกสูตร 			๘. สมาธิสูตรที่ ๑
+<span class="LineNumber"> 011 </span>	๙. สมาธิสูตรที่ ๒ 			๑๐. สมาธิสูตรที่ ๓ 
+<span class="LineNumber"> 012 </span>	๑๑. สมาธิสูตรที่ ๔ ฯ

@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>จตุนฺนํ   เวสารชฺชานํ   จตุนฺนํ   ปฏิสมฺภิทานํ   ฉนฺนํ   อภิฺานํ   ฉนฺนํ  
+<span class="LineNumber"> 002 </span>พุทฺธธมฺมานนฺติ   ภควา   ฯ   ภควาติ   เนตํ   นามํ  มาตรา  กตํ  น  
+<span class="LineNumber"> 003 </span>ปิตรา   กตํ  น  ภาตรา  กตํ  น  ภคินิยา  กตํ  น  มิตฺตามจฺเจหิ  กตํ  
+<span class="LineNumber"> 004 </span>น   าติสาโลหิเตหิ   กตํ   น   สมณพฺราหฺมเณหิ   กตํ   น  เทวตาหิ  
+<span class="LineNumber"> 005 </span>กตํ    วิโมกฺขนฺติกเมตํ    พุทฺธานํ   ภควนฺตานํ   โพธิยา   มูเล   สห  
+<span class="LineNumber"> 006 </span>สพฺพฺุตาณสฺส    ปฏิลาภา    สจฺฉิกา    ปฺตฺติ    ยทิทํ    ภควาติ  
+<span class="LineNumber"> 007 </span>เอโกทิภูโต วิหเน ตมํ โสติ ภควา ฯ เตนาห ภควา  
+<span class="LineNumber"> 008 </span>               เอเตสุ ธมฺเมสุ วิเนยฺย ฉนฺทํ  
+<span class="LineNumber"> 009 </span>               ภิกฺขุ สตีมา สุวิมุตฺตจิตฺโต  
+<span class="LineNumber"> 010 </span>               กาเลน โส สมฺมา ธมฺมํ ปริวีมํสมาโน  
+<span class="LineNumber"> 011 </span>               เอโกทิภูโต วิหเน ตมํ โสติ ภควาติ ฯ  
+<span class="LineNumber"> 012 </span>               โสฬสโม สารีปุตฺตสุตฺตนิทฺเทโส ฯ  
+<span class="LineNumber"> 013 </span>             อฏฺ€กวคฺคิกมฺหิ ๑ โสฬส สุตฺตนิทฺเทสา  
+<span class="LineNumber"> 014 </span>                        สมตฺตา ฯ  
+<span class="LineNumber"> 015 </span>                    _______________  
+<span class="LineNumber"> 016 </span>#๑ โป. ม. อฏฺ€กวคฺคมฺหิ ฯ  
+<span class="LineNumber"> 017 </span>#๑ โป. ม. อฏฺ€กวคฺคมฺหิ ฯ 

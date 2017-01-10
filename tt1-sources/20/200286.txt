@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>           สัตว์ทั้งหลายประพฤติชอบในเวลาใด เวลานั้นชื่อว่าเป็นฤกษ์ดี มงคลดี 
+<span class="LineNumber"> 002 </span>สว่างดี รุ่งดี ขณะดี ยามดี และบูชาดีในพรหมจารีบุคคลทั้งหลาย 
+<span class="LineNumber"> 003 </span>กายกรรมเป็นส่วนเบื้องขวาความปรารถนาของท่านเป็นส่วนเบื้องขวา 
+<span class="LineNumber"> 004 </span>สัตว์ทั้งหลายทำกรรมอันเป็นส่วนเบื้องขวาแล้ว ย่อมได้ผลประโยชน์
+<span class="LineNumber"> 005 </span>อันเป็นส่วนเบื้องขวา ท่านเหล่านั้นได้ประโยชน์แล้ว จงได้รับความสุข 
+<span class="LineNumber"> 006 </span>จงงอกงามในพระพุทธศาสนา จงไม่มีโรค ถึงความสุข พร้อมด้วยญาติ
+<span class="LineNumber"> 007 </span>ทั้งมวล ฯ
+<span class="LineNumber"> 008 </span>                         จบมังคลวรรคที่ ๕
+<span class="LineNumber"> 009 </span>                         _________________
+<span class="LineNumber"> 010 </span>                     รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 011 </span>     	๑. อกุศลสูตร 		๒. สาวัชชสูตร 
+<span class="LineNumber"> 012 </span>๓. วิสมสูตร 			๔. สุจริตสูตร
+<span class="LineNumber"> 013 </span>๕. ขตสูตรที่ ๑ 		๖. ขตสูตรที่ ๒ 
+<span class="LineNumber"> 014 </span>๗. ขตสูตรที่ ๓ 		๘. ขตสูตรที่ ๔
+<span class="LineNumber"> 015 </span>๙. วันทนาสูตร 		๑๐. สุปุพพัณหสูตร ฯ
+<span class="LineNumber"> 016 </span>                        ตติยปัณณาสก์จบบริบูรณ์
+<span class="LineNumber"> 017 </span>                        _____________________

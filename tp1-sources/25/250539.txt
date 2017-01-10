@@ -1,0 +1,23 @@
+<span class="LineNumber"> 001 </span>               ปูคมฺปิ วสฺสานํ สมนฺตจกฺขุ  
+<span class="LineNumber"> 002 </span>               ตตฺเถว โส สีติ สิยา วิมุตฺโต  
+<span class="LineNumber"> 003 </span>               ภเวถ ๑ วิฺาณํ ตถาวิธสฺส ฯ  
+<span class="LineNumber"> 004 </span>               อจฺจิ ยถา วาตเวเคน ขิตฺตํ ๒ (อุปสีวาติ ภควา)  
+
+<span class="LineNumber"> 005 </span>               อตฺถํ ปเลติ น อุเปติ สงฺขํ  
+<span class="LineNumber"> 006 </span>               เอวํ มุนี นามกายา วิมุตฺโต  
+<span class="LineNumber"> 007 </span>               อตฺถํ ปเลติ น อุเปติ สงฺขํ ฯ  
+<span class="LineNumber"> 008 </span>               อตฺถงฺคโต โส อุท วา โส นตฺถิ ๓   
+<span class="LineNumber"> 009 </span>               อุทาหุ เว สสฺสติยา อโรโค  
+<span class="LineNumber"> 010 </span>               ตมฺเม มุนี สาธุ วิยากโรหิ  
+<span class="LineNumber"> 011 </span>               ตถา หิ เต วิทิโต เอส ธมฺโม ฯ  
+<span class="LineNumber"> 012 </span>               อตฺถงฺคตสฺส น ปมาณมตฺถิ (อุปสีวาติ ภควา)  
+<span class="LineNumber"> 013 </span>               เยน นํ วชฺชุ ๔ ตํ ตสฺส นตฺถิ  
+<span class="LineNumber"> 014 </span>               สพฺเพสุ ธมฺเมสุ สมูหเตสุ  
+<span class="LineNumber"> 015 </span>               สมูหตา วาทปถาปิ สพฺเพติ ฯ  
+<span class="LineNumber"> 016 </span>               อุปสีวมาณวกปฺหา ฉฏฺ€ี ฯ  
+<span class="LineNumber"> 017 </span>                       _____________  
+<span class="LineNumber"> 018 </span>       สุตฺตนิปาเต ปฺจมสฺส ปารายนวคฺคสฺส สตฺตมา นนฺทปฺหา ฯ  
+<span class="LineNumber"> 019 </span>       [๔๓๑] ๗ สนฺติ โลเก มุนโย (อิจฺจายสฺมา นนฺโท)  
+<span class="LineNumber"> 020 </span>               ชนา วทนฺติ ตยิทํ กถํ สุ  
+<span class="LineNumber"> 021 </span>#๑ โป. ม. จเวถ ฯ ๒ โป. ม. ขิตฺตา ฯ ยุ. ขิตฺโต ฯ ๓ โป. โส น ปหนมตฺถิ ฯ  
+<span class="LineNumber"> 022 </span>#๔ โป. วชฺชา ตนฺตสฺส .. ฯ ม. วชฺชุํ ฯ  

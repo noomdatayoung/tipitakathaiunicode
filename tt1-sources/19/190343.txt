@@ -1,0 +1,8 @@
+<span class="LineNumber"> 001 </span>		     รวมพระสูตรที่มีในวรรคนี้ คือ    
+<span class="LineNumber"> 002 </span>         ๑. อิจฉานังคลสูตร       ๒. สกังภิยสูตร    
+<span class="LineNumber"> 003 </span>         ๓. อานันทสูตรที่ ๑       ๔. อานันทสูตรที่ ๒                
+<span class="LineNumber"> 004 </span>         ๕. ภิกขุสูตรที่ ๑         ๖. ภิกขุสูตรที่ ๒                
+<span class="LineNumber"> 005 </span>         ๗. สังโยชนสูตร         ๘. อนุสยสูตร       
+<span class="LineNumber"> 006 </span>         ๙. อัทธานสูตร          ๑๐. อาสวักขยสูตร   
+<span class="LineNumber"> 007 </span>		         จบ อานาปานสังยุต            
+<span class="LineNumber"> 008 </span>		         -------------

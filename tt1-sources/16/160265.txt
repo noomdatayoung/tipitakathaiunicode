@@ -1,0 +1,14 @@
+<span class="LineNumber"> 001 </span>นั้นหมกไหม้แล้วในนรกสิ้นร้อยปี พันปี หมื่นปี แสนปี เป็นอันมาก ด้วยผลของ
+<span class="LineNumber"> 002 </span>กรรมนั่นแหละยังเหลืออยู่ สามเณรีนั้นจึงต้องเสวยการได้อัตภาพเห็นปานดังนี้ ฯ
+<span class="LineNumber"> 003 </span>จบสูตรที่ ๑๑
+<span class="LineNumber"> 004 </span>จบทุติยวรรคที่ ๒
+<span class="LineNumber"> 005 </span>_________
+<span class="LineNumber"> 006 </span>รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 007 </span>๑. กูปนิมุคคสูตร   		๒. คูถขาทิสูตร
+<span class="LineNumber"> 008 </span>๓. นิจฉวิตถีสูตร   		๔. มังคุฬิตถีสูตร
+<span class="LineNumber"> 009 </span>๕. โอกิลินีสูตร    		๖. สีสัจฉินนสูตร
+<span class="LineNumber"> 010 </span>๗. ภิกขุสูตร      		๘. ภิกขุนีสูตร
+<span class="LineNumber"> 011 </span>๙. สิกขมานาสูตร		๑๐. สามเณรสูตร
+<span class="LineNumber"> 012 </span>๑๑. สามเณรีสูตร
+<span class="LineNumber"> 013 </span>จบลักขณสังยุตต์ที่ ๗
+<span class="LineNumber"> 014 </span>___________

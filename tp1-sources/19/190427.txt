@@ -1,0 +1,8 @@
+<span class="LineNumber"> 001 </span>					   ตสฺสุทฺทานํ  
+<span class="LineNumber"> 002 </span>			  อิจฺฉานงฺคลํ สกํภิยํ ๑       อานนฺเท อปเร ทุเว  
+<span class="LineNumber"> 003 </span>			  ภิกฺขุหิ ๒ เทฺว วุตฺตา       สฺโชนํ อนุสยํ  
+<span class="LineNumber"> 004 </span>			  อทฺธานํ อาสวกฺขยาติ ฯ  
+<span class="LineNumber"> 005 </span>				     อานาปานสํยุตฺตํ นิฏฺ€ิตํ ฯ  
+<span class="LineNumber"> 006 </span>					  __________
+<span class="LineNumber"> 007 </span>#๑ ม. ยุ. ... กงฺเขยฺยํ, อานนฺทา ... ฯ  ๒ ม. ภิกฺขู สํโยชนานุสยา, อทฺธานํ  
+<span class="LineNumber"> 008 </span>#อาสวกฺขยนฺติ ฯ ยุ. ภิกฺขเว ภิกฺขุ เทฺว วุตฺตา ฯ  

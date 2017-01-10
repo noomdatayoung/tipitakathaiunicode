@@ -1,0 +1,22 @@
+<span class="LineNumber"> 001 </span>วชโต คจฺฉโต อภิกฺกมโตติ คจฺฉโต อคตํ ทิสํ ฯ  
+<span class="LineNumber"> 002 </span>     [๙๑๓]  เย  ภิกฺขุ  อภิสมฺภเวติ  เยติ  เย ปริสฺสเย อภิสมฺภเวยฺย  
+<span class="LineNumber"> 003 </span>อภิภเวยฺย    อชฺโฌตฺถเรยฺย   ปริยาทิเยยฺย   มทฺเทยฺยาติ   เย   ภิกฺขุ  
+<span class="LineNumber"> 004 </span>อภิสมฺภเว ฯ  
+<span class="LineNumber"> 005 </span>     [๙๑๔]  ปนฺตมฺหิ  สยนาสเนติ  อนฺเต  ปนฺเต  ปริยนฺเต  เสลนฺเต  
+<span class="LineNumber"> 006 </span>วา   วนนฺเต   วา  อุทกนฺเต  วา  นทนฺเต  วา  ยตฺถ  น  กสิยติ  น  
+<span class="LineNumber"> 007 </span>วปิยติ    ชนนฺตํ    อติกฺกมิตฺวา    มนุสฺสานํ   อนูปจาเร   เสนาสเนติ  
+
+<span class="LineNumber"> 008 </span>ปนฺตมฺหิ สยนาสเน ฯ เตนาห สารีปุตฺตตฺเถโร  
+<span class="LineNumber"> 009 </span>         กตี ปริสฺสยา โลเก       คจฺฉโต อคตํ ทิสํ  
+<span class="LineNumber"> 010 </span>         เย ภิกฺขุ อภิสมฺภเว       ปนฺตมฺหิ สยนาสเนติ ฯ  
+<span class="LineNumber"> 011 </span>   [๙๑๕] กฺยาสฺส พฺยปฺปถโย อสฺสุ    กฺยาสฺสสฺสุ อิธ โคจรา  
+<span class="LineNumber"> 012 </span>         กานิ สีลพฺพตานสฺสุ ๑     ปหิตตฺตสฺส ภิกฺขุโน ฯ  
+<span class="LineNumber"> 013 </span>     [๙๑๖]    กฺยาสฺส    พฺยปฺปถโย   อสฺสูติ   กีทิเสน   พฺยปฺปเถน  
+<span class="LineNumber"> 014 </span>สมนฺนาคโต     อสฺส     กึสณฺ€ิเตน     กึปกาเรน     กึปฏิภาเคนาติ  
+<span class="LineNumber"> 015 </span>วจีปาริสุทฺธึ ปุจฺฉติ ฯ  
+<span class="LineNumber"> 016 </span>     กตมา   วจีปาริสุทฺธิ  ฯ  อิธ  ภิกฺขุ  มุสาวาทํ  ปหาย  มุสาวาทา  
+<span class="LineNumber"> 017 </span>ปฏิวิรโต   โหติ   สจฺจวาที   สจฺจสนฺโธ  เถโต  ปจฺจยิโก  อวิสํวาทโก  
+<span class="LineNumber"> 018 </span>โลกสฺส   ปิสุณํ   วาจํ   ปหาย   ปิสุณาย   วาจาย   ปฏิวิรโต   โหติ  
+<span class="LineNumber"> 019 </span>อิโต  สุตฺวา  น  อมุตฺร  อกฺขาตา  อิเมสํ  เภทาย  อมุตฺร  วา  สุตฺวา  
+<span class="LineNumber"> 020 </span>น   อิเมสํ   อกฺขาตา   อมูสํ   เภทาย   อิติ  ภินฺนานํ  วา  สนฺธาตา  
+<span class="LineNumber"> 021 </span>#๑ ม. สีลพฺพตานาสฺสุ ฯ  

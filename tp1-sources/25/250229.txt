@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>                 สุตฺตนฺตปิฏเก ขุทฺทกนิกายสฺส  
+<span class="LineNumber"> 002 </span>                        อิติวุตฺตกํ  
+<span class="LineNumber"> 003 </span>                        _________  
+<span class="LineNumber"> 004 </span>            นโม ตสฺส ภควโต อรหโต สมฺมาสมฺพุทฺธสฺส ฯ  
+<span class="LineNumber"> 005 </span>                   เอกนิปาตสฺส ป€มวคฺโค  
+<span class="LineNumber"> 006 </span>     [๑๗๙]   ๑   วุตฺตํ   เหตํ   ภควา   วุตฺตมรหตาติ   เม   สุตํ  
+<span class="LineNumber"> 007 </span>เอกธมฺมํ   ภิกฺขเว   ปชหถ   อหํ  โว  ปาฏิโภโค  อนาคามิตาย  กตมํ  
+<span class="LineNumber"> 008 </span>เอกธมฺมํ   โลภํ   ภิกฺขเว   เอกธมฺมํ   ปชหถ   อหํ   โว  ปาฏิโภโค  
+<span class="LineNumber"> 009 </span>อนาคามิตายาติ   ฯ   เอตมตฺถํ   ภควา   อโวจ   ฯ   ตตฺเถตํ   อิติ  
+<span class="LineNumber"> 010 </span>วุจฺจติ  
+<span class="LineNumber"> 011 </span>          เยน โลเภน ลุทฺธาเส      สตฺตา คจฺฉนฺติ ทุคฺคตึ  
+<span class="LineNumber"> 012 </span>          ตํ โลภํ สมฺมทฺาย        ปชหนฺติ วิปสฺสิโน  
+<span class="LineNumber"> 013 </span>         ปหาย น ปุนายนฺติ          อิมํ โลกํ กุทาจนนฺติ ฯ  
+<span class="LineNumber"> 014 </span>       อยมฺปิ อตฺโถ วุตฺโต ภควตา     อิติ เม สุตนฺติ ฯ ป€มํ ฯ  
+<span class="LineNumber"> 015 </span>     [๑๘๐]   ๒   วุตฺตํ   เหตํ   ภควตา   วุตฺตมรหตาติ   เม  สุตํ  
+<span class="LineNumber"> 016 </span>เอกธมฺมํ    ภิกฺขเว    ปชหถ   อหํ   โว   ปาฏิโภโค   อนาคามิตาย  
+<span class="LineNumber"> 017 </span>กตมํ    เอกธมฺมํ    โทสํ    ภิกฺขเว   เอกธมฺมํ   ปชหถ   อหํ   โว  

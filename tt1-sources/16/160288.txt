@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>แล้ว เธอทั้งสองชำนะมารพร้อมทั้งพาหนะได้แล้ว ย่อมทรงไว้ซึ่ง
+<span class="LineNumber"> 002 </span>อัตภาพมีในที่สุด ดังนี้ ฯ
+<span class="LineNumber"> 003 </span>					จบสูตรที่ ๑๒
+<span class="LineNumber"> 004 </span>					จบภิกขุสังยุตต์ที่ ๙
+<span class="LineNumber"> 005 </span>					___________
+<span class="LineNumber"> 006 </span>รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 007 </span>๑. โกลิตสูตร 		๒. อุปติสสสูตร 	๓. ฆฏสูตร 
+<span class="LineNumber"> 008 </span>๔. นวสูตร			๕. สุชาตสูตร 		๖. ภัททีสูตร 
+<span class="LineNumber"> 009 </span>๗. วิสาขสูตร 		๘. นันทสูตร		๙. ติสสสูตร 
+<span class="LineNumber"> 010 </span>๑๐. เถรนามสูตร 	๑๑. กัปปินสูตร 	๑๒. สหายสูตร ฯ
+<span class="LineNumber"> 011 </span>					___________
+<span class="LineNumber"> 012 </span>				รวมสังยุตต์ที่มีในภาคนี้ คือ
+<span class="LineNumber"> 013 </span>๑. อภิสมยสังยุตต์ 		๒. ธาตุสังยุตต์ 		๓. อนมตัคคสังยุตต์
+<span class="LineNumber"> 014 </span>๔. กัสสปสังยุตต์ 		๕. ลาภสังการสังยุตต์ 	๖. ราหุลสังยุตต์
+<span class="LineNumber"> 015 </span>๗. ลักขณสังยุตต์ 		๘. โอปัมมสังยุตต์ 		๙. ภิกขุสังยุตต์ ฯ
+<span class="LineNumber"> 016 </span>				จบนิทานวรรคสังยุตต์
+<span class="LineNumber"> 017 </span>				________________

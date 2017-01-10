@@ -1,0 +1,14 @@
+<span class="LineNumber"> 001 </span>           ธมฺมิกาธมฺมิกา เจว        ยถามคฺเคน ชานถ ๑ ฯ  
+<span class="LineNumber"> 002 </span>           กาลภูตตฺถสฺหิตํ           ลภิสฺสามิ ภวิสฺสติ  
+<span class="LineNumber"> 003 </span>           กายวาจสิกา เมตฺตา       พาหุสจฺจูภยานิ ตุ ๒ ฯ   
+<span class="LineNumber"> 004 </span>           กาลภูเตน สเณฺหน         อตฺถเมตฺเตน โจทเย  
+<span class="LineNumber"> 005 </span>           วิปฺปฏิสารี อธมฺเมน        ตเถวาปิ วิโนทเย ๓ ฯ  
+<span class="LineNumber"> 006 </span>           ธมฺมโจทจุทิตสฺส           วิโนเท วิปฺปฏิสฺสเร ฯ  
+<span class="LineNumber"> 007 </span>           กรุณา หิตานุกมฺปา         วุฏฺ€านมฺปิ ปุรกฺขิตา ๔   
+<span class="LineNumber"> 008 </span>           โจทกสฺส ปฏิปตฺติ          สมฺพุทฺเธน ปกาสิตา ๕  
+<span class="LineNumber"> 009 </span>           สจฺเจ เจว อกุปฺเป จ      จุทิตสฺเสุํ ๖ ธมฺมตาติ ฯ  
+<span class="LineNumber"> 010 </span>                        _______________  
+<span class="LineNumber"> 011 </span>#๑ ม. ยุ. ชานาถ ฯ ๒ ม. ยุ. พาหุสจฺจํ อุภยานิ ฯ ๓ ม. ยุ. วิปฺปฏิสาราธมฺเมน   
+<span class="LineNumber"> 012 </span>#ตถา วาจา วิโนทเย ฯ ๔ ม. ยุ. ธมฺมโจทจุทิตสฺส วิโนเทติ วิปฺปฏิสาโร   
+<span class="LineNumber"> 013 </span>#กรุณา หิตานุกมฺปิ วุฏฺ€าน ปุเรกฺขารตา ฯ ๕ ยุ. รา. ปกาสิตํ ฯ ๖ ม. ยุ.   
+<span class="LineNumber"> 014 </span>#จุทิตสฺเสว ฯ รา. จุทิตสฺเสสา ฯ   

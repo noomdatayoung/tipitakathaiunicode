@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>      สุตฺตนิปาเต ปฺจมสฺส ปารายนวคฺคสฺส นวมา โตเทยฺยปฺหา  
+<span class="LineNumber"> 002 </span>   [๔๓๓] ๙ ยสฺมึ กามา น วสนฺติ       (อิจฺจายสฺมา โตเทยฺโย)  
+<span class="LineNumber"> 003 </span>                                 ตณฺหา ยสฺส น วิชฺชติ  
+<span class="LineNumber"> 004 </span>           กถงฺกถา จ โย ติณฺโณ      วิโมกฺโข ตสฺส กีทิโส ฯ  
+<span class="LineNumber"> 005 </span> ยสฺมึ กามา น วสนฺติ (โตเทยฺยาติ ภควา) ตณฺหา ยสฺส น วิชฺชติ  
+<span class="LineNumber"> 006 </span>           กถงฺกถา จ โย ติณฺโณ      วิโมกฺโข ตสฺส นาปโร ฯ  
+<span class="LineNumber"> 007 </span>               นิราสโส ๑ โส อุท อาสสาโน  
+<span class="LineNumber"> 008 </span>               ปฺาณวาโส อุท ปฺกปฺปี  
+<span class="LineNumber"> 009 </span>               มุนึ อหํ สกฺก ยถา ๒ วิชฺํ  
+<span class="LineNumber"> 010 </span>               ตมฺเม วิยาจิกฺข สมนฺตจกฺขุ ฯ  
+<span class="LineNumber"> 011 </span>               นิราสโส ๓  โส น จ [๔] อาสสาโน  
+<span class="LineNumber"> 012 </span>               ปฺาณวาโส น จ ปฺกปฺปี  
+<span class="LineNumber"> 013 </span>               เอวมฺปิ โตเทยฺย มุนึ วิชาน  
+<span class="LineNumber"> 014 </span>               อกิฺจนํ กามภเว อสตฺตนฺติ ฯ  
+<span class="LineNumber"> 015 </span>               โตเทยฺยมาณวกปฺหา นวมา ฯ  
+<span class="LineNumber"> 016 </span>                       _____________  
+<span class="LineNumber"> 017 </span>#๑-๓ โป. ยุ. นิราสโย ฯ ๒ โป. กถํ ฯ ๔ ยุ. โส ฯ  

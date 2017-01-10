@@ -1,0 +1,16 @@
+<span class="LineNumber"> 001 </span>  	[๙๖๘] ท่านผู้เดียวเท่านั้น สมควรแก่แก้วมณีและหนวดที่เขาแต่งดีแล้วด้วย             
+<span class="LineNumber"> 002 </span>            การที่ได้พบเห็นท่านเป็นที่พอใจของเรา เพราะฉะนั้น เราขอลาท่าน
+<span class="LineNumber"> 003 </span>            ไปก่อน.     
+<span class="LineNumber"> 004 </span>		      จบ มณิชาดกที่ ๑๐. 
+<span class="LineNumber"> 005 </span>		     จบ ขุรปุตตวรรคที่ ๒.             
+<span class="LineNumber"> 006 </span>		     _________________ 
+<span class="LineNumber"> 007 </span>		   รวมชาดกที่มีในวรรคนี้ คือ          
+<span class="LineNumber"> 008 </span>            ๑. ขุรปุตตชาดก     ๒. สูจิชาดก
+<span class="LineNumber"> 009 </span>            ๓. ตุณฑิลชาดก      ๔. สุวรรณกักกฏชาดก       
+<span class="LineNumber"> 010 </span>            ๕. มัยหกสกุณชาดก   ๖. ปัพพชิตวิเหฐกชาดก     
+<span class="LineNumber"> 011 </span>            ๗. อุปสิงฆปุปผกชาดก ๘. วิฆาสาทชาดก          
+<span class="LineNumber"> 012 </span>            ๙. วัฏฏกชาดก     ๑๐. มณิชาดก. 
+<span class="LineNumber"> 013 </span>รวมวรรคในฉักกนิบาตนี้มี ๒ วรรค คือ      
+<span class="LineNumber"> 014 </span>		๑. อาวาริยวรรค ๒. ขุรปุตตวรรค.        
+<span class="LineNumber"> 015 </span>		     จบ ฉักกนิบาตชาดก.
+<span class="LineNumber"> 016 </span>		    _________________  

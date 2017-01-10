@@ -1,0 +1,13 @@
+<span class="LineNumber"> 001 </span>เหตุ     ...     สุวณฺณนิกฺขสตสฺสปิ    เหตุ    ...    สิงฺคินิกฺขสฺสปิ  
+<span class="LineNumber"> 002 </span>เหตุ  ... สิงฺคินิกฺขสตสฺสปิ เหตุ ... ป€วิยาปิ ชาตรูปปริปูราย เหตุ ...  
+<span class="LineNumber"> 003 </span>อามิสกิฺจิกฺขเหตุปิ   ...   ชีวิตเหตุปิ   ...   ชนปทกลฺยาณิยาปิ  เหตุ  
+<span class="LineNumber"> 004 </span>สมฺปชานมุสา    ภาเสยฺยาติ    ตเมนํ    ปสฺสามิ    อปเรน   สมเยน  
+<span class="LineNumber"> 005 </span>ลาภสกฺการสิโลเกน      อภิภูตํ      ปริยาทินฺนจิตฺตํ      สมฺปชานมุสา  
+<span class="LineNumber"> 006 </span>ภาสนฺตํ   ฯ   เอวํ   ทารุโณ  โข  ภิกฺขเว  ลาภสกฺการสิโลโก  ฯเปฯ  
+<span class="LineNumber"> 007 </span>เอวฺหิ โว ภิกฺขเว สิกฺขิตพฺพนฺติ ฯ ทสมํ ฯ  
+<span class="LineNumber"> 008 </span>                    ทุติยวคฺโค ทุติโย ฯ  
+<span class="LineNumber"> 009 </span>                       ตสฺส อุทฺทานํ  
+<span class="LineNumber"> 010 </span>        เทฺว ปาตี เทฺวว สุวณฺณา [๑]-  สิงฺคีหิ อปเร ทุเว  
+<span class="LineNumber"> 011 </span>        ป€วี กิฺจิกฺขชีวิต- ๒         ชนปทกลฺยาณิยา ทสาติ ฯ  
+<span class="LineNumber"> 012 </span>                       ____________  
+<span class="LineNumber"> 013 </span>#๑ ม. ยุ. จ ฯ  ๒ ม. ยุ. กิฺจิกฺขชีวิตํ ฯ  

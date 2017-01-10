@@ -1,0 +1,8 @@
+<span class="LineNumber"> 001 </span>โลเก   อภิชฺฌาโทมนสฺสํ   ฯ   อิเมสํ  โข  ภิกฺขเว  ติณฺณนฺนํ  อาสวานํ  
+<span class="LineNumber"> 002 </span>ปหานาย อิเม จตฺตาโร สติปฏฺ€านา ภาเวตพฺพาติ ฯ  
+<span class="LineNumber"> 003 </span>		      อมตวคฺโค ปฺจโม ฯ  
+<span class="LineNumber"> 004 </span>			   ตสฺสุทฺทานํ  
+<span class="LineNumber"> 005 </span>	  อมตํ สมุทโย มคฺโค         สโต ๑ กุสลราสิ จ  
+<span class="LineNumber"> 006 </span>	  ปาฏิโมกฺขํ ทุจฺจริตํ มิตฺตา ๒  เวทนา อาสเวน จาติ ฯ  
+<span class="LineNumber"> 007 </span>			 _____________
+<span class="LineNumber"> 008 </span>#๑ ม. สติ ฯ ๒ ม. มิตฺตเวทนา ฯ  

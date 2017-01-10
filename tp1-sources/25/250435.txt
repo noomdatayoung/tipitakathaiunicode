@@ -1,0 +1,23 @@
+<span class="LineNumber"> 001 </span>               ยานิ จ ตีณิ ยานิ จ สฏฺ€ิ ๑  
+<span class="LineNumber"> 002 </span>               สมณปฺปวาทนิสฺสิตานิ ๒ ภูริปฺ  
+<span class="LineNumber"> 003 </span>               สฺกฺขรสฺนิสฺสิตานิ  
+<span class="LineNumber"> 004 </span>               โอสรณานิ วิเนยฺย โอฆตมคา 
+  
+<span class="LineNumber"> 005 </span>               อนฺตคูสิ ปารคูสิ ๓  ทุกฺขสฺส  
+<span class="LineNumber"> 006 </span>               อรหาสิ (สมฺมาสมฺพุทฺโธ) ขีณาสวํ ตํ ๔ มฺเ  
+<span class="LineNumber"> 007 </span>               ชุติมา มติมา ปหุตปฺโ  
+<span class="LineNumber"> 008 </span>               ทุกฺขสฺสนฺตกรํ ๕ อตาเรสิ มํ ฯ  
+<span class="LineNumber"> 009 </span>               ยํ เม กงฺขิตมฺาสิ วิจิกิจฺฉํ ๖ มํ อตารยิ  
+<span class="LineNumber"> 010 </span>               นโม เต (มุนิ) โมนปเถสุ ปตฺติปตฺต  
+<span class="LineNumber"> 011 </span>               อขิลาทิจฺจพนฺธุ ๗ โสรโตสิ ฯ  
+<span class="LineNumber"> 012 </span>           ยา เม กงฺขา ปุเร อาสิ    ตมฺเม พฺยากาสิ จกฺขุมา  
+<span class="LineNumber"> 013 </span>           อทฺธา มุนีสิ สมฺพุทฺโธ       นตฺถิ นีวรณา ตว ฯ  
+<span class="LineNumber"> 014 </span>           อุปายาสา จ เต สพฺเพ     วิทฺธสฺตา วินฬีกตา  
+<span class="LineNumber"> 015 </span>           สีติภูโต ทมปฺปตฺโต         ธิติมา สจฺจนิกฺกโม ฯ  
+<span class="LineNumber"> 016 </span>           ตสฺส เต นาคนาคสฺส       มหาวีรสฺส ภาสโต  
+<span class="LineNumber"> 017 </span>           สพฺเพ เทวา อนุโมทนฺติ     อุโภ นารทปพฺพตา ฯ  
+<span class="LineNumber"> 018 </span>           นโม เต ปุริสาชฺ        นโม เต ปุริสุตฺตม  
+<span class="LineNumber"> 019 </span>           สเทวกสฺมึ โลกสฺมึ         นตฺถิ เต ปฏิปุคฺคโล ฯ  
+<span class="LineNumber"> 020 </span>#๑ โป. เตสฏฺ€ี ฯ ๒ ม. ยุ. สมณปฺปวาทสิตานิ ฯ ๓ ม. ยุ. ปารคู ฯ  
+<span class="LineNumber"> 021 </span>#๔ โป. ขีณาสวนฺติ มฺเ ฯ  ๕ ม. ยุ. ทุกฺขสฺสนฺตกร ฯ ๖ โป. วิจิกิจฺฉา ฯ  
+<span class="LineNumber"> 022 </span>#ม. วิจิกิจฺจา มํ ตารยิ ฯ  ๗ ม. ยุ. อขิลอาทิจฺจพนฺธุ ฯ  

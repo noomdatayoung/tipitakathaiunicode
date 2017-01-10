@@ -1,0 +1,15 @@
+<span class="LineNumber"> 001 </span>			    อภิธมฺมปิฏเก วิภงฺโค  
+<span class="LineNumber"> 002 </span>				__________  
+<span class="LineNumber"> 003 </span>	     นโม ตสฺส ภควโต อรหโต สมฺมาสมฺพุทฺธสฺส  
+<span class="LineNumber"> 004 </span>				ขนฺธวิภงฺโค  
+<span class="LineNumber"> 005 </span>	[๑]    ปฺจกฺขนฺธา   รูปกฺขนฺโธ   เวทนากฺขนฺโธ   สฺากฺขนฺโธ  
+<span class="LineNumber"> 006 </span>สงฺขารกฺขนฺโธ วิฺาณกฺขนฺโธ ฯ  
+<span class="LineNumber"> 007 </span>	[๒]  ตตฺถ  กตโม  รูปกฺขนฺโธ  ยงฺกิฺจิ  รูปํ อตีตานาคตปจฺจุปฺปนฺนํ  
+<span class="LineNumber"> 008 </span>อชฺฌตฺตํ    วา    พหิทฺธา   วา   โอฬาริกํ   วา   สุขุมํ   วา   หีนํ  
+<span class="LineNumber"> 009 </span>วา   ปณีตํ   วา   ยํ   ทูเร   สนฺติเก   วา  ตเทกชฺฌํ  อภิสฺูหิตฺวา  
+<span class="LineNumber"> 010 </span>อภิสงฺขิปิตฺวา อยํ วุจฺจติ รูปกฺขนฺโธ ฯ  
+<span class="LineNumber"> 011 </span>	[๓]   ตตฺถ   กตมํ   รูปํ   อตีตํ   ยํ  รูปํ  อตีตํ  นิรุทฺธํ  วิคตํ  
+<span class="LineNumber"> 012 </span>วิปริณตํ     อตฺถงฺคตํ     อพฺภตฺถงฺคตํ    อุปฺปชฺชิตฺวา    วิคตํ    อตีตํ  
+<span class="LineNumber"> 013 </span>อตีตํเสน   สงฺคหิตํ   จตฺตาโร   จ   มหาภูตา   จตุนฺนฺจ   มหาภูตานํ  
+<span class="LineNumber"> 014 </span>อุปาทาย   รูปํ   อิทํ  วุจฺจติ  รูปํ  อตีตํ  ฯ  ตตฺถ  กตมํ  รูปํ  อนาคตํ  
+<span class="LineNumber"> 015 </span>ยํ   รูปํ   อชาตํ   อภูตํ   อสฺชาตํ   อนิพฺพตฺตํ  อนภินิพฺพตฺตํ  อปาตุภูตํ  

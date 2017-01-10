@@ -1,0 +1,15 @@
+<span class="LineNumber"> 001 </span>	กิเลสา ฌาปิตา มยฺหํ        ภวา สพฺเพ สมูหตา  
+<span class="LineNumber"> 002 </span>	นาโคว พนฺธนํ เฉตฺวา       วิหรามิ อนาสโว ฯ  
+<span class="LineNumber"> 003 </span>	สฺวาคตํ วต เม อาสิ        มม พุทฺธสฺส สนฺติเก  
+<span class="LineNumber"> 004 </span>	ติสฺโส วิชฺชา อนุปฺปตฺตา      กตํ พุทฺธสฺส สาสนํ ฯ  
+<span class="LineNumber"> 005 </span>	ปฏิสมฺภิทา จตสฺโส          วิโมกฺขาปิจ อฏฺ€ิเม  
+<span class="LineNumber"> 006 </span>	ฉฬภิฺา สจฺฉิกตา          กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 007 </span> อิตฺถํ สุทํ อายสฺมา นิมิตฺตพฺยากรณิโย เถโร อิมา คาถาโย อภาสิตฺถาติ ฯ  
+<span class="LineNumber"> 008 </span>		นิมิตฺตพฺยากรณิยตฺเถรสฺส อปทานํ สมตฺตํ ฯ  
+<span class="LineNumber"> 009 </span>		           อุทฺทานํ  
+<span class="LineNumber"> 010 </span>	สาลกุสุมิโย เถโร          ปูชา นิพฺพาปโกปิจ  
+<span class="LineNumber"> 011 </span>	เสตุโท ตาลวณฺฏิ จ         อวฏํ ลพุชมฺปโท  
+<span class="LineNumber"> 012 </span>	มิลกฺขุ ปฏิภาณี จ           เวยฺยากรณิโย ทิชา  
+<span class="LineNumber"> 013 </span>	เทฺวสตฺตติ จ คาถาโย       คณิตาโย วิภาวิภิ ฯ  
+<span class="LineNumber"> 014 </span>		  สาลปุปฺผิวคฺโค สตฺตจตฺตาฬีโส ฯ  
+<span class="LineNumber"> 015 </span>		  _______________________  

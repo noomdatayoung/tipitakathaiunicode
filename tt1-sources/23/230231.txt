@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>         กระทำบุญของมนุษย์ผู้เพ่งบุญบูชาอยู่ให้มีผลมาก ทานที่ให้
+<span class="LineNumber"> 002 </span>         ในสงฆ์นี้ย่อมมีผลมาก ฯ
+<span class="LineNumber"> 003 </span>                          จบสูตรที่ ๑๐
+<span class="LineNumber"> 004 </span>                       จบสันธานวรรคที่ ๑
+<span class="LineNumber"> 005 </span>                       ___________
+<span class="LineNumber"> 006 </span>                   รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 007 </span>     	๑. โคตมีสูตร  		๒. โอวาทสูตร  
+<span class="LineNumber"> 008 </span>๓. สังขิตตสูตร  		๔. ทีฆชาณุสูตร
+<span class="LineNumber"> 009 </span>๕. อุชชยสูตร  		๖. ภยสูตร  
+<span class="LineNumber"> 010 </span>๗. อาหุเนยยสูตรที่ ๑  	๘. อาหุเนยยสูตรที่ ๒
+<span class="LineNumber"> 011 </span>๙. อัฏฐปุคคลสูตรที่ ๑ 	 ๑๐. อัฏฐปุคคลสูตรที่ ๒ ฯ
+<span class="LineNumber"> 012 </span>                      ___________

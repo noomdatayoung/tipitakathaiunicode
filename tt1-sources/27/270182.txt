@@ -1,0 +1,10 @@
+<span class="LineNumber"> 001 </span>		   รวมชาดกที่มีในวรรคนี้ คือ          
+<span class="LineNumber"> 002 </span>            ๑. ทีฆีติโกสลชาดก ๒. มิคโปตกชาดก
+<span class="LineNumber"> 003 </span>            ๓. มูสิกชาดก   ๔. จุลลธนุคคหชาดก            
+<span class="LineNumber"> 004 </span>            ๕. กโปตกชาดก. 
+<span class="LineNumber"> 005 </span>		     _________________ 
+<span class="LineNumber"> 006 </span>		 รวมวรรคที่มีในปัญจกนิบาตนี้ คือ      
+<span class="LineNumber"> 007 </span>            ๑. มณิกุณฑลวรรค ๒. วรรณาโรหวรรค             
+<span class="LineNumber"> 008 </span>            ๓. อัฑฒวรรค.
+<span class="LineNumber"> 009 </span>		     จบ ปัญจกนิบาตชาดก
+<span class="LineNumber"> 010 </span>		     _________________ 

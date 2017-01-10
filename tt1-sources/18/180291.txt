@@ -1,0 +1,6 @@
+<span class="LineNumber"> 001 </span>รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 002 </span>๑. สวิตักกสูตร ๒. อวิตักกสูตร ๓. สุขปัญหาสูตร๔. อุเปกขปัญหาสูตร
+<span class="LineNumber"> 003 </span>๕. อากาสานัญจายตนสูตร ๖. วิญญาณัญจายตนสูตร ๗. อากิญจัญญายตน
+<span class="LineNumber"> 004 </span>สูตร  ๘. เนวสัญญานาสัญญายตนสูตร ๙. อนิมิตตสูตร ๑๐. สักก
+<span class="LineNumber"> 005 </span>สูตร ๑๑. จันทนสูตร ฯ
+<span class="LineNumber"> 006 </span>_____________________

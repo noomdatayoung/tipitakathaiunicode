@@ -1,0 +1,13 @@
+<span class="LineNumber"> 001 </span>           อาจริเยสุ ยํ วตฺตํ        ตเถว อนฺเตวาสิเก   
+<span class="LineNumber"> 002 </span>           เอกูนวีสติวตฺถู           วตฺตา โจทส ๑ ขนฺธเก ฯ   
+<span class="LineNumber"> 003 </span>           วตฺตํ อปริปูเรนฺโต        น สีลํ ปริปูรติ  
+<span class="LineNumber"> 004 </span>           อสุทฺธสีโล ทุปฺปฺโ       จิตฺเตกคฺคํ น วินฺทติ   
+<span class="LineNumber"> 005 </span>           วิกฺขิตฺตจิตฺโตเนกคฺโค      สมฺมา ธมฺมํ น ปสฺสติ   
+<span class="LineNumber"> 006 </span>           อปสฺสมาโน สทฺธมฺมํ       ทุกฺขา น ปริมุจฺจติ ฯ   
+<span class="LineNumber"> 007 </span>           ยํ วตฺตํ ปริปูเรนฺโต       สีลมฺปิ ปริปูรติ  
+<span class="LineNumber"> 008 </span>           วิสุทฺธสีโล สปฺปฺโ       จิตฺเตกคฺคมฺปิ วินฺทติ  
+<span class="LineNumber"> 009 </span>           อวิกฺขิตฺตจิตฺโต เอกคฺโค    สมฺมา ธมฺมํ วิปสฺสติ ๒  
+<span class="LineNumber"> 010 </span>           สมฺปสฺสมาโน สทฺธมฺมํ      ทุกฺขา โส ปริมุจฺจติ ฯ   
+<span class="LineNumber"> 011 </span>           ตสฺมา หิ วตฺตํ ปูเรยฺย     ชินปุตฺโต วิจกฺขโณ  
+<span class="LineNumber"> 012 </span>           โอวาทํ พุทฺธเสฏฺ€สฺส      ตโต นิพฺพานเมหิติ ฯ  
+<span class="LineNumber"> 013 </span>#๑ ม. วตฺตา จุทฺทส ฯ ยุ. วุตฺตา โสฬส ฯ ๒ ยุ. ธมฺมํปิ ปสฺสติ ฯ   

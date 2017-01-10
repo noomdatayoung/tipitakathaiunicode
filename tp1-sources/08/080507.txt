@@ -1,0 +1,14 @@
+<span class="LineNumber"> 001 </span>อุโภหิ    ปาณิตเลหิ    ปาทานิ   ปริสมฺพาหนฺเตน   เปมฺจ   คารวฺจ  
+<span class="LineNumber"> 002 </span>อุปฏฺ€าเปตฺวา    ปาทา    วนฺทิตพฺพา    ฯ   นวกตเรนุปาลิ   ภิกฺขุนา  
+<span class="LineNumber"> 003 </span>วุฑฺฒตรสฺส   ภิกฺขุโน   ปาเท   วนฺทนฺเตน  อิเม  ปฺจ  ธมฺเม  อชฺฌตฺตํ  
+<span class="LineNumber"> 004 </span>อุปฏฺ€าเปตฺวา ปาทา วนฺทิตพฺพาติ ฯ  
+<span class="LineNumber"> 005 </span>                  ก€ินตฺถารวคฺโค จุทฺทสโม ฯ  
+<span class="LineNumber"> 006 </span>                        ตสฺสุทฺทานํ  
+<span class="LineNumber"> 007 </span>  [๑๒๒๘] ก€ินตฺถารนิทฺทา จ           อนฺตรยาคุขาทเน  
+<span class="LineNumber"> 008 </span>         ปุเร จ ปาริวาสิ จ          วนฺเทยฺโย วนฺทิตพฺพกนฺติ ฯ  
+<span class="LineNumber"> 009 </span>                    อุปาลิปฺจกํ นิฏฺ€ิตํ ฯ  
+<span class="LineNumber"> 010 </span>                    เตสํ วคฺคานํ อุทฺทานํ  
+<span class="LineNumber"> 011 </span>  [๑๒๒๙] อนิสฺสิเตน กมฺมฺจ           โวหาราวิกมฺเมน จ  
+<span class="LineNumber"> 012 </span>         โจทนา จ ธุตงฺคา จ         มุสา ภิกฺขุนิเมว จ  
+<span class="LineNumber"> 013 </span>         อุพฺพาหิกาธิกรณํ             เภทกา ปฺจมา ปุเร  
+<span class="LineNumber"> 014 </span>         อาวาสิกา ก€ินฺจ           จุทฺทสา สุปฺปกาสิตาติ ฯ  

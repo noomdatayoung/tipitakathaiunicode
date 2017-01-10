@@ -1,0 +1,12 @@
+<span class="LineNumber"> 001 </span>     ทราบว่า ท่านพระปิณฑปาติกเถระได้กล่าวคาถาเหล่านี้ ด้วยประการฉะนี้แล.               
+<span class="LineNumber"> 002 </span>                    จบ ปิณฑปาติกเถราปทาน.               
+<span class="LineNumber"> 003 </span>                    -------------------                 
+<span class="LineNumber"> 004 </span>                    รวมอปทานที่มีในวรรคนี้ คือ          
+<span class="LineNumber"> 005 </span>         ๑. สัททสัญญิกเถราปทาน         ๒. ยวกลาปิยเถราปทาน  
+<span class="LineNumber"> 006 </span>         ๓. กิงสุกปูชกเถราปทาน         ๔. สโกฏกโกรัณฑทายกเถราปทาน  
+<span class="LineNumber"> 007 </span>         ๕. ทัณฑทายกเถราปทาน         ๖. อัมพยาคุทายกเถราปทาน  
+<span class="LineNumber"> 008 </span>         ๗. ปูฏกปูชกเถราปทาน          ๘. วัจฉทายกเถราปทาน  
+<span class="LineNumber"> 009 </span>         ๙. สรณาคมนิยเถราปทาน       ๑๐. ปิณฑปาติกเถราปทาน  
+<span class="LineNumber"> 010 </span>            และมีคาถา ๔๐ คาถา.  
+<span class="LineNumber"> 011 </span>                     จบ สัททสัญญิกวรรคที่ ๓๖            
+<span class="LineNumber"> 012 </span>                     ------------------ 

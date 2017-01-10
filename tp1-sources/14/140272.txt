@@ -1,0 +1,14 @@
+<span class="LineNumber"> 001 </span>     [๔๐๔]   มหลฺลโก   เจปิ   อคฺคิเวสฺสน  รฺโ  นาโค  สุทนฺโต  
+<span class="LineNumber"> 002 </span>สุวินีโต    กาลํ    กโรติ    ทนฺตมรณํ    มหลฺลโก    รฺโ   นาโค  
+<span class="LineNumber"> 003 </span>มโต   กาลกโตเตฺวว   สงฺขํ   คจฺฉติ   ฯ  มชฺฌิโม  เจปิ  อคฺคิเวสฺสน  
+<span class="LineNumber"> 004 </span>รฺโ  นาโค  ...  ทหโร  เจปิ  อคฺคิเวสฺสน  รฺโ  นาโค  สุทนฺโต  
+<span class="LineNumber"> 005 </span>สุวินีโต    กาลํ   กโรติ   ทนฺตมรณํ   ทหโร   รฺโ   นาโค   มโต  
+<span class="LineNumber"> 006 </span>กาลกโตเตฺวว   สงฺขํ   คจฺฉติ   เอวเมว   โข   อคฺคิเวสฺสน   เถโร  
+<span class="LineNumber"> 007 </span>เจปิ    ภิกฺขุ    ขีณาสโว   กาลํ   กโรติ   ทนฺตมรณํ   เถโร   ภิกฺขุ  
+<span class="LineNumber"> 008 </span>มโต   กาลกโตเตฺวว   สงฺขํ   คจฺฉติ   ฯ  มชฺฌิโม  เจปิ  อคฺคิเวสฺสน  
+<span class="LineNumber"> 009 </span>ภิกฺขุ   ...   นโว   เจปิ  อคฺคิเวสฺสน  ภิกฺขุ  ขีณาสโว  กาลํ  กโรติ  
+<span class="LineNumber"> 010 </span>ทนฺตมรณํ นโว ภิกฺขุ มโต กาลกโตเตฺวว สงฺขํ คจฺฉตีติ ฯ  
+<span class="LineNumber"> 011 </span>     อิทมโวจ   ภควา   อตฺตมโน   อจิรวโต   สมณุทฺเทโส   ภควโต  
+<span class="LineNumber"> 012 </span>ภาสิตํ อภินนฺทีติ ฯ  
+<span class="LineNumber"> 013 </span>                 ทนฺตภูมิสุตฺตํ นิฏฺ€ิตํ ปฺจมํ ฯ  
+<span class="LineNumber"> 014 </span>                       ________  

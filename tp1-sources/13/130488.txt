@@ -1,0 +1,17 @@
+<span class="LineNumber"> 001 </span>         โจโร อหํ ปุเร อาสึ        องฺคุลิมาโลติ วิสฺสุโต  
+<span class="LineNumber"> 002 </span>         วุยฺหมาโน มโหเฆน         พุทฺธํ สรณมาคมํ  
+<span class="LineNumber"> 003 </span>         โลหิตปาณี ปุเร อาสึ        องฺคุลิมาโลติ วิสฺสุโต  
+<span class="LineNumber"> 004 </span>         สรณคมนํปสฺส              ภวเนตฺติ สมูหตา  
+<span class="LineNumber"> 005 </span>         ตาทิสํ กมฺมํ กตฺวาน         พหุํ ทุคฺคติคามินํ  
+<span class="LineNumber"> 006 </span>         ผุฏฺโ€ กมฺมวิปาเกน         อนโณ ภุฺชามิ โภชนํ  
+<span class="LineNumber"> 007 </span>         ปมาทมนุยุฺชนฺติ            พาลา ทุมฺเมธิโน ชนา  
+<span class="LineNumber"> 008 </span>         อปฺปมาทฺจ เมธาวี         ธนํ เสฏฺ€ํว รกฺขติ  
+<span class="LineNumber"> 009 </span>         มา ปมาทมนุยุฺเชถ         มา กามรติสนฺถวํ  
+<span class="LineNumber"> 010 </span>         อปฺปมตฺโต หิ ฌายนฺโต       ปปฺโปติ วิปุลํ สุขํ  
+<span class="LineNumber"> 011 </span>         สฺวาคตํ ๑ นาปคตํ         นยิทํ ทุมฺมนฺติ ตํ มม  
+<span class="LineNumber"> 012 </span>         สุวิภตฺเตสุ ๒ ธมฺเมสุ       ยํ เสฏฺ€ํ ตทุปาคมํ  
+<span class="LineNumber"> 013 </span>         สฺวาคตํ ๓ นาปคตํ         นยิทํ ทุมฺมนฺติ ตํ มม  
+<span class="LineNumber"> 014 </span>         ติสฺโส วิชฺชา อนุปฺปตฺตา      กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 015 </span>   		                องฺคุลิมาลสุตฺตํ นิฏฺ€ิตํ ฉฏฺ€ํ ฯ  
+<span class="LineNumber"> 016 </span>   		                     _____________  
+<span class="LineNumber"> 017 </span>#๑-๓ ยุ. สาคตํ ฯ   ๒ ยุ. ปฏิภตฺเตสุ ฯ  

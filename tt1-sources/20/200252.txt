@@ -1,0 +1,13 @@
+<span class="LineNumber"> 001 </span>ธรรมอันเป็นที่ตั้งแห่งฉันทราคะในปัจจุบัน ครั้นแล้วละเว้นวิบากนั้นเสีย ครั้นแล้วฟอกด้วยใจ 
+<span class="LineNumber"> 002 </span>เห็นตลอดด้วยปัญญา ดูกรภิกษุทั้งหลาย ความพอใจย่อมไม่เกิดเพราะปรารภธรรมอันเป็น
+<span class="LineNumber"> 003 </span>ที่ตั้งแห่งฉันทราคะในปัจจุบัน อย่างนี้แล   ดูกรภิกษุทั้งหลาย ธรรมชาติ ๓ อย่างนี้แล เป็นเหตุ
+<span class="LineNumber"> 004 </span>ให้เกิดกรรม ฯ
+<span class="LineNumber"> 005 </span>                         จบสัมโพธิวรรคที่ ๑ 
+<span class="LineNumber"> 006 </span>                       ____________
+<span class="LineNumber"> 007 </span>                     รวมพระสูตรที่มีในวรรคนี้ คือ
+<span class="LineNumber"> 008 </span>๑. ปุพพสูตร 			๒. มนุสสสูตร 
+<span class="LineNumber"> 009 </span>๓. อัสสาทสูตร		 ๔. สมณสูตร
+<span class="LineNumber"> 010 </span>๕. โรณสูตร 			๖. อติตตสูตร 
+<span class="LineNumber"> 011 </span>๗. กูฏสูตรที่ ๑ 		๘. กูฏสูตรที่ ๒
+<span class="LineNumber"> 012 </span>๙. นิทานสูตรที่ ๑ 		๑๐. นิทานสูตรที่ ๒ ฯ
+<span class="LineNumber"> 013 </span>                        ___________

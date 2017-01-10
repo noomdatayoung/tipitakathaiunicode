@@ -1,0 +1,8 @@
+<span class="LineNumber"> 001 </span>                        ตสฺสุทฺทานํ  
+<span class="LineNumber"> 002 </span>         สุทฺธวคฺโค ยมโก จ       สพฺพวคฺคชรานิ จ  
+<span class="LineNumber"> 003 </span>         อนิจฺจวคฺโค ปฺาสํ ๑    ปฺจโม เตน ปวุจฺจตีติ ฯ  
+<span class="LineNumber"> 004 </span>                    __________________  
+<span class="LineNumber"> 005 </span>#๑ ม.    อนิจฺจวคฺคํ ยมกํ          สพฺพํ วคฺคํ ชาติธมฺมํ  
+<span class="LineNumber"> 006 </span>#        อนิจฺจวคฺเคน ปฺาสํ      ... ... ... ... ฯ  
+<span class="LineNumber"> 007 </span>#  ยุ.    สุตวคฺคํ จ โน เจตํ       สพฺพํ วคฺคํ ชนานิ จ ฯ  
+<span class="LineNumber"> 008 </span>#        ... ... ... ...      ... ... ... ... ฯ  

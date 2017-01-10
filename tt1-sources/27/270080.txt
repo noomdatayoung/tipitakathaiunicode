@@ -1,0 +1,7 @@
+<span class="LineNumber"> 001 </span>		   รวมชาดกที่มีในวรรคนี้ คือ          
+<span class="LineNumber"> 002 </span>            ๑. พันธนาคารชาดก๒. เกฬิสีลชาดก
+<span class="LineNumber"> 003 </span>            ๓. ขันธปริตตชาดก ๔. วีรกชาดก  
+<span class="LineNumber"> 004 </span>            ๕. คังเคยยชาดก๖. กุรุงคมิคชาดก
+<span class="LineNumber"> 005 </span>            ๗. อัสสกชาดก  ๘. สุงสุมารชาดก 
+<span class="LineNumber"> 006 </span>            ๙. กักกรชาดก ๑๐. กันทคลกชาดก. 
+<span class="LineNumber"> 007 </span>		     _________________ 

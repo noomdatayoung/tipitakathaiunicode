@@ -1,0 +1,9 @@
+<span class="LineNumber"> 001 </span>		      รวมพระสูตรที่มีในวรรคนี้ คือ            
+<span class="LineNumber"> 002 </span>		     ๑. กุกกุฬสูตร๘. อนัตตสูตรที่ ๑           
+<span class="LineNumber"> 003 </span>		     ๒. อนิจจสูตรที่ ๑            ๙. อนัตตสูตรที่ ๒          
+<span class="LineNumber"> 004 </span>		     ๓. อนิจจสูตรที่ ๒           ๑๐. อนัตตสูตรที่ ๓          
+<span class="LineNumber"> 005 </span>		     ๔. อนิจจสูตรที่ ๓           ๑๑. กุลปุตตสูตรที่ ๑        
+<span class="LineNumber"> 006 </span>		     ๕. ทุกขสูตรที่ ๑            ๑๒. กุลปุตตสูตรที่ ๒        
+<span class="LineNumber"> 007 </span>		     ๖. ทุกขสูตรที่ ๒            ๑๓. กุลปุตตสูตรที่ ๓        
+<span class="LineNumber"> 008 </span>		     ๗. ทุกขสูตรที่ ๓            ๑๔. กุลปุตตสูตรที่ ๔        
+<span class="LineNumber"> 009 </span>		         --------------------------------------  
